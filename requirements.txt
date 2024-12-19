@@ -1,0 +1,5 @@
+pandas
+tqdm
+scikit-learn
+google-generativeai
+anthropic
