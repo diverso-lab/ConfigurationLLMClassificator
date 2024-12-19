@@ -1,1 +1,1 @@
-# ConfigurationBugReportLLM
+# ConfigurationLLMClassificator
