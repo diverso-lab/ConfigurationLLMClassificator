@@ -5,26 +5,26 @@ from openai import OpenAI
 import google.generativeai as genai
 import anthropic
    
-# Definimos una clase que en el constructor recibe api_key, model, system_prompt, max_tokens y temperature,
-# y que ofrece un método generate que recibe user_prompt y devuelve un texto y la respuesta completa de la API
+# Define a class that in the constructor receives api_key, model, system_prompt, max_tokens, and temperature,
+# and offers a generate method that receives user_prompt and returns a text and the complete response from the API
 class GenerativeModelClient:
     def __init__(self, model, system_prompt, max_tokens, temperature):
-        # Dependiendo del modelo, se inicializa el cliente con los parámetros adecuados
-        # Se consideran casos específicos para distintas APIs, y si la cadena es desconocida
-        # se asume que se está trabajando en local con un modelo de prueba en llm-studio
+        # Depending on the model, the client is initialized with the appropriate parameters
+        # Specific cases are considered for different APIs, and if the string is unknown
+        # it is assumed that we are working locally with a test model in llm-studio
         match model:
             case "gpt-4o" | "ft:gpt-4o-mini-2024-07-18:personal:fallacyes-political:AT6jWBUt"| "o1-mini" | "o1-preview":
                 self.client = OpenAI(                
                     api_key= "??????",
                     organization="org-mE9AXPapXwAQqIhYiR0lBfuo",
                 )
-                self.rpm = -1 # No hay límite de llamadas por minuto
+                self.rpm = -1 # No call limit per minute
             case "grok-beta":
                 self.client = OpenAI(                
                     api_key= "??????",
                     base_url="https://api.x.ai/v1"
                 )
-                self.rpm = 60 # Límite 60 llamadas por minuto
+                self.rpm = 60 # Call limit of 60 per minute
             case "gemini-1.5-pro-002":     
                 genai.configure(api_key="??????",)           
                 self.client = genai.GenerativeModel(model_name="gemini-1.5-pro-002",
@@ -73,9 +73,9 @@ class GenerativeModelClient:
             while len(self.call_times) >= self.rpm and current_time - self.call_times[0] < 60:
                 if first:
                     if progress_bar:
-                        progress_bar.set_postfix_str("Esperando para cumplir con el límite de llamadas por minuto...")
+                        progress_bar.set_postfix_str("Waiting to comply with the call limit per minute...")
                     else:
-                        print("Esperando para cumplir con el límite de llamadas por minuto...")
+                        print("Waiting to comply with the call limit per minute...")
                     first = False
                 time.sleep(1)
                 current_time = time.time()
@@ -97,7 +97,7 @@ class GenerativeModelClient:
                         #{"role": "system", "content": self.system_prompt},
                         {"role": "user", "content": self.system_prompt + "\n\n" + user_prompt}
                     ],
-                    #max_tokens=self.max_tokens, # Este modelo no admite max_tokens ni temperature
+                    #max_tokens=self.max_tokens, # This model does not support max_tokens or temperature parameter
                     #temperature=self.temperature
                 ) 
                 if getattr(completion, 'error', None) and  completion.error and 'message' in completion.error and "moderation" in completion.error['message']:
@@ -125,7 +125,7 @@ class GenerativeModelClient:
                 )
                 return completion.content[0].text, completion
             
-            case _: # Aquí van todos los modelos que se adaptan a la API de OpenAI
+            case _:  # Here we consider the models that fit the OpenAI API
                 completion = self.client.chat.completions.create(
                     model=self.model,
                     messages=[
