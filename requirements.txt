@@ -1,6 +1,6 @@
-pandas=2.2.3
-tqdm=4.67.1
-scikit-learn=1.6.0
-google-generativeai=0.8.3
-anthropic=0.42.0
-openai=1.58.1
+pandas==2.2.3
+tqdm==4.67.1
+scikit-learn==1.6.0
+google-generativeai==0.8.3
+anthropic==0.42.0
+openai==1.58.1
