@@ -62,7 +62,7 @@ def llm_classification_experiment(csv_path, client, user_prompt_factory,output_d
         start_index = data[data['llm_pred'].isna()].index[0]
         print(start_index)
     else:
-        data = pd.read_csv(csv_path, sep=";")
+        data = pd.read_csv(csv_path, sep=";",errors='backslashreplace')
         data['llm_pred'] = None
         start_index = 0
 
@@ -87,10 +87,10 @@ def llm_classification_experiment(csv_path, client, user_prompt_factory,output_d
 if __name__ == "__main__":
     # Experiment configuration
     config = {
-        "csv_path": "../data/dataset_configuration_bug_report.csv",
+        "csv_path": "../data/dataset_configuration_bug_report_updated.csv",
         "true_column": "Classification",
         "model": "meta-llama-3.1-8b-instruct",
-        "system_prompt": """The user will provide information about a bug report. This information includes: Bug-ID, Project, Summary, Link and Enviroment. Classify the bug report into 'Configuration Bug Report' or 'Other', where the first class indicates that the bug report is related or about a configuration bug or issue and the second class indicates that the bug report is NOT RELATED to a configuration bug or issue, and is related to other matters such as database related bugs, request for addition, functional bugs, GUI-related bugs, Network bugs, Performance, security, etc... If the bug report is related to any of those themes, we will classify them as "Other". The first category(Configuration Bug Report) regards bugs concerned with building configuration files. Most of them are related to problems caused by (i) external libraries that should be updated or fixed and (ii) wrong directory or file paths in xml or manifest artifacts. As an example, the bug report shown below falls under this category because it is mainly related to a wrong usage of external dependencies that cause issues in the web model of the application. Understand that bug reports can be either 'Configuration Bug Report' or 'Other'. Reply ONLY with one of the two classes: 'Configuration Bug Report' or 'Other'. I insist, only those words, do not use more than 3 words.""",
+        "system_prompt": """The user will provide information about a bug report. This information includes: Bug-ID, Project, Summary, Description, Link and Enviroment. Classify the bug report into 'Configuration Bug Report' or 'Other', where the first class indicates that the bug report is related or about a configuration bug or issue and the second class indicates that the bug report is NOT RELATED to a configuration bug or issue, and is related to other matters such as database related bugs, request for addition, functional bugs, GUI-related bugs, Network bugs, Performance, security, etc... If the bug report is related to any of those themes, we will classify them as "Other". The first category(Configuration Bug Report) regards bugs concerned with building configuration files. Most of them are related to problems caused by (i) external libraries that should be updated or fixed and (ii) wrong directory or file paths in xml or manifest artifacts. Understand that bug reports can be either 'Configuration Bug Report' or 'Other'. Reply ONLY with one of the two classes, using no more than 3 words: 'Configuration Bug Report' or 'Other'. """,
         "max_tokens": 10,
         "temperature": 0
     }
