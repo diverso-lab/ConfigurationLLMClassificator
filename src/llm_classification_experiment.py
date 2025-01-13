@@ -62,7 +62,7 @@ def llm_classification_experiment(csv_path, client, user_prompt_factory,output_d
         start_index = data[data['llm_pred'].isna()].index[0]
         print(start_index)
     else:
-        data = pd.read_csv(csv_path, sep=";",errors='backslashreplace')
+        data = pd.read_csv(csv_path, sep=";",encoding='latin1')
         data['llm_pred'] = None
         start_index = 0
 
