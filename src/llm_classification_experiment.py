@@ -59,7 +59,11 @@ def llm_classification_experiment(csv_path, client, user_prompt_factory,output_d
     # Check if partial results exist and load them
     if os.path.exists(results_path):
         data = pd.read_csv(results_path)
-        start_index = data[data['llm_pred'].isna()].index[0]
+        if not(data['llm_pred'].isna().any()):
+            print("All instances have been classified")
+            start_index = data.__len__
+        else:
+            start_index = data[data['llm_pred'].isna()].index[0]
         print(start_index)
     else:
         data = pd.read_csv(csv_path, sep=";",encoding='latin1')
@@ -67,18 +71,19 @@ def llm_classification_experiment(csv_path, client, user_prompt_factory,output_d
         start_index = 0
 
     # For each instance in the CSV
-    progress_bar = tqdm(data.iterrows(), total=len(data), initial=start_index)
-    for index, row in progress_bar:
-        if pd.isna(row['llm_pred']):
-            user_prompt = user_prompt_factory(row)
-            # response would be used for logging, not used right now
-            response_text, response = client.generate(user_prompt, progress_bar=progress_bar)
-            
-            # We add the predicted class to the instance
-            data.at[index, 'llm_pred'] = response_text
+    if start_index != data.__len__:
+        progress_bar = tqdm(data.iterrows(), total=len(data), initial=start_index)
+        for index, row in progress_bar:
+            if pd.isna(row['llm_pred']):
+                user_prompt = user_prompt_factory(row)
+                # response would be used for logging, not used right now
+                response_text, response = client.generate(user_prompt, progress_bar=progress_bar)
+                
+                # We add the predicted class to the instance
+                data.at[index, 'llm_pred'] = response_text
 
-            # Save the partial results after each API call
-            save_experiment_results(output_dir, config, data)
+                # Save the partial results after each API call
+                save_experiment_results(output_dir, config, data)
 
     # Evaluate the predictions
     report = evaluator(data[true_column], data["llm_pred"])
@@ -108,8 +113,7 @@ if __name__ == "__main__":
         
         data, report = llm_classification_experiment(config["csv_path"], client, user_prompt_factory.get, output_dir, evaluator, true_column=config["true_column"])
         
-        save_experiment_results(config, data, report)
-    
+        save_experiment_results(output_dir,config, data, report)
     # Results
     print(json.dumps(report, indent=4))
     
