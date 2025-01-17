@@ -26,7 +26,7 @@ class GenerativeModelClient:
                 )
                 self.rpm = 60 # Call limit of 60 per minute
             case "gemini-1.5-pro-002":     
-                genai.configure(api_key="??????",)           
+                genai.configure(api_key="??????",)   
                 self.client = genai.GenerativeModel(model_name="gemini-1.5-pro-002",
                     system_instruction=system_prompt,
                     generation_config=genai.types.GenerationConfig(
@@ -37,12 +37,21 @@ class GenerativeModelClient:
             case "gemini-exp-1114":     
                 genai.configure(api_key= "??????",)           
                 self.client = genai.GenerativeModel(model_name="gemini-exp-1114",
-                    system_instruction=system_prompt,
+                    system_instruction=system_prompt, 
                     generation_config=genai.types.GenerationConfig(
                             max_output_tokens=max_tokens,
                             temperature=temperature,
                         ))
                 self.rpm = 4
+            case "gemini-2.0-flash-exp":
+                genai.configure(api_key= "??????",)
+                self.client = genai.GenerativeModel(model_name="gemini-2.0-flash-exp",
+                    system_instruction=system_prompt,
+                    generation_config=genai.types.GenerationConfig(
+                            max_output_tokens=max_tokens,
+                            temperature=temperature,
+                        ))
+                self.rpm = 6 # Max of 10, but we set it to 6 to be safe
             case "anthropic/claude-3.5-sonnet":
                 self.client = anthropic.Anthropic(              
                     api_key= "??????"
@@ -86,7 +95,7 @@ class GenerativeModelClient:
                 progress_bar.set_postfix_str("")
 
         match self.model:
-            case "gemini-1.5-pro-002" | "gemini-exp-1114":
+            case "gemini-1.5-pro-002" | "gemini-exp-1114" | "gemini-2.0-flash-exp":
                 response = self.client.generate_content(user_prompt)
                 return response.text, response       
                  
