@@ -54,3 +54,8 @@ def clean_predictions(y_true, y_pred):
     unique_values = y_true.unique()
     y_pred = min(unique_values, key=lambda y: edit_distance(y_pred, y))
     return y_pred
+
+# Load a JSON configuration file.
+def load_json_config(path):
+    with open(path, 'r') as file:
+        return json.load(file)
