@@ -32,6 +32,7 @@ class GenerativeModelClient:
                     generation_config=genai.types.GenerationConfig(
                             max_output_tokens=max_tokens,
                             temperature=temperature,
+                            response_mime_type= "application/json",
                         ))
                 self.rpm = -1
             case "gemini-exp-1114":     
@@ -41,17 +42,19 @@ class GenerativeModelClient:
                     generation_config=genai.types.GenerationConfig(
                             max_output_tokens=max_tokens,
                             temperature=temperature,
+                            response_mime_type= "application/json",
                         ))
                 self.rpm = 4
-            case "gemini-2.0-flash-exp":
+            case "gemini-2.0-flash":
                 genai.configure(api_key= "??????",)
-                self.client = genai.GenerativeModel(model_name="gemini-2.0-flash-exp",
+                self.client = genai.GenerativeModel(model_name="gemini-2.0-flash",
                     system_instruction=system_prompt,
                     generation_config=genai.types.GenerationConfig(
                             max_output_tokens=max_tokens,
                             temperature=temperature,
+                            response_mime_type= "application/json",
                         ))
-                self.rpm = 6 # Max of 10, but we set it to 6 to be safe
+                self.rpm = 10 # Max of 15, but we set it to 10 to be safe
             case "anthropic/claude-3.5-sonnet":
                 self.client = anthropic.Anthropic(              
                     api_key= "??????"
@@ -95,8 +98,9 @@ class GenerativeModelClient:
                 progress_bar.set_postfix_str("")
 
         match self.model:
-            case "gemini-1.5-pro-002" | "gemini-exp-1114" | "gemini-2.0-flash-exp":
+            case "gemini-1.5-pro-002" | "gemini-exp-1114" | "gemini-2.0-flash":
                 response = self.client.generate_content(user_prompt)
+                
                 return response.text, response       
                  
             case "o1-mini" | "o1-preview":                
@@ -142,7 +146,26 @@ class GenerativeModelClient:
                         {"role": "user", "content": user_prompt}
                     ],
                     max_tokens=self.max_tokens,
-                    temperature=self.temperature
+                    temperature=self.temperature,
+                    response_format={
+                        "type": "json_schema",
+                        "json_schema": {
+                            "strict": True,
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "class": {
+                                        "type": "string",
+                                        "enum": ["Configuration", "Other"]
+                                    },
+                                    "reason": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": ["class", "reason"]
+                            }
+                        }
+                    }
                 )
                 return completion.choices[0].message.content, completion
     
