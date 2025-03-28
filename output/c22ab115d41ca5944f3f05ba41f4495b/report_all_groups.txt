@@ -1,0 +1,108 @@
+Reporte para grupo con descripciones de longitud 0-999
+{'Configuration Bug Report': {'precision': 0.26578073089701, 'recall': 0.5633802816901409, 'f1-score': 0.3611738148984199, 'support': 142.0}, 'Other': {'precision': 0.8937125748502994, 'recall': 0.7307221542227662, 'f1-score': 0.804040404040404, 'support': 817.0}, 'Other ': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 10.0}, 'accuracy': 0.6986584107327142, 'macro avg': {'precision': 0.38649776858243645, 'recall': 0.43136747863763575, 'f1-score': 0.38840473964627464, 'support': 969.0}, 'weighted avg': {'precision': 0.7924706268731372, 'recall': 0.6986584107327142, 'f1-score': 0.7308438512039068, 'support': 969.0}}
+
+Reporte para grupo con descripciones de longitud 1000-1999
+{'Configuration Bug Report': {'precision': 0.21428571428571427, 'recall': 0.6666666666666666, 'f1-score': 0.32432432432432434, 'support': 27.0}, 'Other': {'precision': 0.891566265060241, 'recall': 0.5362318840579711, 'f1-score': 0.669683257918552, 'support': 138.0}, 'Other ': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 2.0}, 'accuracy': 0.5508982035928144, 'macro avg': {'precision': 0.3686173264486517, 'recall': 0.40096618357487923, 'f1-score': 0.33133586074762544, 'support': 167.0}, 'weighted avg': {'precision': 0.7713883764313026, 'recall': 0.5508982035928144, 'f1-score': 0.6058266248474068, 'support': 167.0}}
+
+Reporte para grupo con descripciones de longitud 2000-2999
+{'Configuration Bug Report': {'precision': 0.2608695652173913, 'recall': 1.0, 'f1-score': 0.41379310344827586, 'support': 6.0}, 'Other': {'precision': 0.9629629629629629, 'recall': 0.6046511627906976, 'f1-score': 0.7428571428571429, 'support': 43.0}, 'Other ': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 1.0}, 'accuracy': 0.64, 'macro avg': {'precision': 0.40794417606011807, 'recall': 0.5348837209302325, 'f1-score': 0.38555008210180625, 'support': 50.0}, 'weighted avg': {'precision': 0.859452495974235, 'recall': 0.64, 'f1-score': 0.688512315270936, 'support': 50.0}}
+
+Reporte para grupo con descripciones de longitud 3000-3999
+{'Configuration Bug Report': {'precision': 0.2222222222222222, 'recall': 0.4, 'f1-score': 0.2857142857142857, 'support': 5.0}, 'Other': {'precision': 0.8, 'recall': 0.631578947368421, 'f1-score': 0.7058823529411765, 'support': 19.0}, 'accuracy': 0.5833333333333334, 'macro avg': {'precision': 0.5111111111111111, 'recall': 0.5157894736842106, 'f1-score': 0.4957983193277311, 'support': 24.0}, 'weighted avg': {'precision': 0.6796296296296297, 'recall': 0.5833333333333334, 'f1-score': 0.6183473389355743, 'support': 24.0}}
+
+Reporte para grupo con descripciones de longitud 4000-4999
+{'Configuration Bug Report': {'precision': 0.16666666666666666, 'recall': 1.0, 'f1-score': 0.2857142857142857, 'support': 2.0}, 'Other': {'precision': 1.0, 'recall': 0.55, 'f1-score': 0.7096774193548387, 'support': 20.0}, 'Other ': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 1.0}, 'accuracy': 0.5652173913043478, 'macro avg': {'precision': 0.3888888888888889, 'recall': 0.5166666666666667, 'f1-score': 0.3317972350230415, 'support': 23.0}, 'weighted avg': {'precision': 0.8840579710144927, 'recall': 0.5652173913043478, 'f1-score': 0.6419555199358846, 'support': 23.0}}
+
+Reporte para grupo con descripciones de longitud 5000-5999
+{'Configuration Bug Report': {'precision': 0.2, 'recall': 1.0, 'f1-score': 0.3333333333333333, 'support': 1.0}, 'Other': {'precision': 1.0, 'recall': 0.5555555555555556, 'f1-score': 0.7142857142857143, 'support': 9.0}, 'accuracy': 0.6, 'macro avg': {'precision': 0.6, 'recall': 0.7777777777777778, 'f1-score': 0.5238095238095238, 'support': 10.0}, 'weighted avg': {'precision': 0.9199999999999999, 'recall': 0.6, 'f1-score': 0.6761904761904762, 'support': 10.0}}
+
+Reporte para grupo con descripciones de longitud 6000-6999
+{'Configuration Bug Report': {'precision': 0.125, 'recall': 1.0, 'f1-score': 0.2222222222222222, 'support': 1.0}, 'Other': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 7.0}, 'accuracy': 0.125, 'macro avg': {'precision': 0.0625, 'recall': 0.5, 'f1-score': 0.1111111111111111, 'support': 8.0}, 'weighted avg': {'precision': 0.015625, 'recall': 0.125, 'f1-score': 0.027777777777777776, 'support': 8.0}}
+
+Reporte para grupo con descripciones de longitud 7000-7999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}}
+
+Reporte para grupo con descripciones de longitud 8000-8999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}}
+
+Reporte para grupo con descripciones de longitud 9000-9999
+{'Other ': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 11000-11999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 2.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 2.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 2.0}}
+
+Reporte para grupo con descripciones de longitud 12000-12999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 17000-17999
+{'Configuration Bug Report': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 18000-18999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 20000-20999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 23000-23999
+{'Configuration Bug Report': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 28000-28999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 32000-32999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 0-999
+{'Configuration Bug Report': {'precision': 0.26578073089701, 'recall': 0.5633802816901409, 'f1-score': 0.3611738148984199, 'support': 142.0}, 'Other': {'precision': 0.8937125748502994, 'recall': 0.7307221542227662, 'f1-score': 0.804040404040404, 'support': 817.0}, 'Other ': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 10.0}, 'accuracy': 0.6986584107327142, 'macro avg': {'precision': 0.38649776858243645, 'recall': 0.43136747863763575, 'f1-score': 0.38840473964627464, 'support': 969.0}, 'weighted avg': {'precision': 0.7924706268731372, 'recall': 0.6986584107327142, 'f1-score': 0.7308438512039068, 'support': 969.0}}
+
+Reporte para grupo con descripciones de longitud 1000-1999
+{'Configuration Bug Report': {'precision': 0.21428571428571427, 'recall': 0.6666666666666666, 'f1-score': 0.32432432432432434, 'support': 27.0}, 'Other': {'precision': 0.891566265060241, 'recall': 0.5362318840579711, 'f1-score': 0.669683257918552, 'support': 138.0}, 'Other ': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 2.0}, 'accuracy': 0.5508982035928144, 'macro avg': {'precision': 0.3686173264486517, 'recall': 0.40096618357487923, 'f1-score': 0.33133586074762544, 'support': 167.0}, 'weighted avg': {'precision': 0.7713883764313026, 'recall': 0.5508982035928144, 'f1-score': 0.6058266248474068, 'support': 167.0}}
+
+Reporte para grupo con descripciones de longitud 2000-2999
+{'Configuration Bug Report': {'precision': 0.2608695652173913, 'recall': 1.0, 'f1-score': 0.41379310344827586, 'support': 6.0}, 'Other': {'precision': 0.9629629629629629, 'recall': 0.6046511627906976, 'f1-score': 0.7428571428571429, 'support': 43.0}, 'Other ': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 1.0}, 'accuracy': 0.64, 'macro avg': {'precision': 0.40794417606011807, 'recall': 0.5348837209302325, 'f1-score': 0.38555008210180625, 'support': 50.0}, 'weighted avg': {'precision': 0.859452495974235, 'recall': 0.64, 'f1-score': 0.688512315270936, 'support': 50.0}}
+
+Reporte para grupo con descripciones de longitud 3000-3999
+{'Configuration Bug Report': {'precision': 0.2222222222222222, 'recall': 0.4, 'f1-score': 0.2857142857142857, 'support': 5.0}, 'Other': {'precision': 0.8, 'recall': 0.631578947368421, 'f1-score': 0.7058823529411765, 'support': 19.0}, 'accuracy': 0.5833333333333334, 'macro avg': {'precision': 0.5111111111111111, 'recall': 0.5157894736842106, 'f1-score': 0.4957983193277311, 'support': 24.0}, 'weighted avg': {'precision': 0.6796296296296297, 'recall': 0.5833333333333334, 'f1-score': 0.6183473389355743, 'support': 24.0}}
+
+Reporte para grupo con descripciones de longitud 4000-4999
+{'Configuration Bug Report': {'precision': 0.16666666666666666, 'recall': 1.0, 'f1-score': 0.2857142857142857, 'support': 2.0}, 'Other': {'precision': 1.0, 'recall': 0.55, 'f1-score': 0.7096774193548387, 'support': 20.0}, 'Other ': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 1.0}, 'accuracy': 0.5652173913043478, 'macro avg': {'precision': 0.3888888888888889, 'recall': 0.5166666666666667, 'f1-score': 0.3317972350230415, 'support': 23.0}, 'weighted avg': {'precision': 0.8840579710144927, 'recall': 0.5652173913043478, 'f1-score': 0.6419555199358846, 'support': 23.0}}
+
+Reporte para grupo con descripciones de longitud 5000-5999
+{'Configuration Bug Report': {'precision': 0.2, 'recall': 1.0, 'f1-score': 0.3333333333333333, 'support': 1.0}, 'Other': {'precision': 1.0, 'recall': 0.5555555555555556, 'f1-score': 0.7142857142857143, 'support': 9.0}, 'accuracy': 0.6, 'macro avg': {'precision': 0.6, 'recall': 0.7777777777777778, 'f1-score': 0.5238095238095238, 'support': 10.0}, 'weighted avg': {'precision': 0.9199999999999999, 'recall': 0.6, 'f1-score': 0.6761904761904762, 'support': 10.0}}
+
+Reporte para grupo con descripciones de longitud 6000-6999
+{'Configuration Bug Report': {'precision': 0.125, 'recall': 1.0, 'f1-score': 0.2222222222222222, 'support': 1.0}, 'Other': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 7.0}, 'accuracy': 0.125, 'macro avg': {'precision': 0.0625, 'recall': 0.5, 'f1-score': 0.1111111111111111, 'support': 8.0}, 'weighted avg': {'precision': 0.015625, 'recall': 0.125, 'f1-score': 0.027777777777777776, 'support': 8.0}}
+
+Reporte para grupo con descripciones de longitud 7000-7999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}}
+
+Reporte para grupo con descripciones de longitud 8000-8999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 3.0}}
+
+Reporte para grupo con descripciones de longitud 9000-9999
+{'Other ': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 11000-11999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 2.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 2.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 2.0}}
+
+Reporte para grupo con descripciones de longitud 12000-12999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 17000-17999
+{'Configuration Bug Report': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 18000-18999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 20000-20999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 23000-23999
+{'Configuration Bug Report': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 28000-28999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+
+Reporte para grupo con descripciones de longitud 32000-32999
+{'Other': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 1.0}}
+

@@ -1,0 +1,1281 @@
+﻿Bug-ID;Project;Classification;Summary;Link;Enviroment
+XALANC-11;XalanC;Other;Documentation comment for getVariable/getParamVariable incorrect;https://issues.apache.org/jira/browse/XALANC-11?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE
+SVN-491;Subversion;Other;svn status' needs better error reporting;https://issues.apache.org/jira/browse/SVN-491?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE
+FOP-57;FOP;Other;Multolingual support in converting xml - pdf;https://issues.apache.org/jira/browse/FOP-57?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE
+VELOCITY-31;Velocity;Other;Velocity should provide an interface for explicit property retreival;https://issues.apache.org/jira/browse/VELOCITY-31?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE
+SVN-2196;Subversion;Other;Translate svn-ref.tex to French;https://issues.apache.org/jira/browse/SVN-2196?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE
+TOMAHAWK-363;My Face Tomahawk;Other;better customisation features for schedule component;https://issues.apache.org/jira/browse/TOMAHAWK-363?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE
+MODPYTHON-78;mod_python;Other;No support for Apache 2.2 yet;https://issues.apache.org/jira/browse/MODPYTHON-78?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE
+AXIS-567;Axis;Other;document JUnit pitfalls;https://issues.apache.org/jira/browse/AXIS-567?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE
+42003;Tomcat Connectors;Other;Need to increase the maximum buffer size for HTTP header from 16k to 64k,;42003;APACHE
+565;Batik - Now in Jira;Other;Add error printouts to rasterizer;565;APACHE
+1204;JMeter;Other;Need the ability to change the port number for HTTP,;1204;APACHE
+224;Ant;Other;RMIC needs debug generation parameter support/property BugRat Report#350;224;APACHE
+33398;Apache httpd-1,3;Other;"Need to be able to set ""scheme"" for SSL offloading";33398;APACHE
+49681;Fop - Now in Jira;Other;Upgrade Exceptions from fop 0,95 to 1,o;49681;APACHE
+48512;Fop - Now in Jira;Other;Metrics needed with Type 1 fonts to have accentuated chars;48512;APACHE
+46565;Fop - Now in Jira;Other;Compliance page needs to be updated;46565;APACHE
+824;Batik - Now in Jira;Other;Add handling of the ZoomAndPan attribute;824;APACHE
+566;Batik - Now in Jira;Other;Add support for overflow on clip-path;566;APACHE
+52151;Fop - Now in Jira;Other;[PATCH] A code-coverage tool for code analysis;52151;APACHE
+575;Ant;Other;Ant1,2's optional tasks does not compile against JUnit 3,5;575;APACHE
+40739;Fop - Now in Jira;Other;Add metrics-version attribute to XML font metrics file;40739;APACHE
+41757;Tomcat Connectors;Other;JK Apache HowTo documentation doesn't explain the --enable-prefork option of the configure script;41757;APACHE
+50245;Fop - Now in Jira;Other;[PATCH] Upgrade to Java 1,5 - Added type-safe parameters to collections in Fonts;50245;APACHE
+33306;Fop - Now in Jira;Other;Updates to Apache XML Graphics Charter;33306;APACHE
+37517;Lenya;Other;Document Creation Should Validate and Warn for Special Characters;37517;APACHE
+49065;APR;Other;[PATCH] Add support for apr_hash_this_*;49065;APACHE
+40404;Security - Now in JIRA;Other;Adding X509 subelements impotent for signing;40404;APACHE
+688;Ant;Other;Depend task not in documentation;688;APACHE
+604;Ant;Other;Description of VSS label task missing;604;APACHE
+71564;CDT;Other;TVT3.0: Missing link in CDT doc 'Debug Tutorial';https://bugs.eclipse.org/bugs/show_bug.cgi?id=71564;ECLIPSE
+103173;CDT;Other;Register: user created register groups disappear after debug session restart;https://bugs.eclipse.org/bugs/show_bug.cgi?id=103173;ECLIPSE
+118981;Community;Other;Fix bugs in Phoenix css files and add support for greyed-out left nav menu items;https://bugs.eclipse.org/bugs/show_bug.cgi?id=118981;ECLIPSE
+130384;Community;Other;"""Top Ten Voted Bugs"" should include RESOLVED/LATER";https://bugs.eclipse.org/bugs/show_bug.cgi?id=130384;ECLIPSE
+109220;Community;Other;Add new features to the timeline page;109220;ECLIPSE
+243559;Dali JPA Tools;Other;Exchanging entity objects contents when renaming a certain entity;https://bugs.eclipse.org/bugs/show_bug.cgi?id=243559;ECLIPSE
+460657;ECP;Other;No Error on Missing View Model in Debug Mode;https://bugs.eclipse.org/bugs/show_bug.cgi?id=460657;ECLIPSE
+268443;Java Server Faces;Other;FacesConfig Editor preferences page needs more info for screen readers;https://bugs.eclipse.org/bugs/show_bug.cgi?id=268443;ECLIPSE
+27445;JDT;Other;[Dialogs] Dialog font should be used by jdt debug component;https://bugs.eclipse.org/bugs/show_bug.cgi?id=27445;ECLIPSE
+496451;Titan;Other;bugfix: CfgParser support for resolving environment variables, macros and include files;https://bugs.eclipse.org/bugs/show_bug.cgi?id=496451;ECLIPSE
+100059;WPT Website;Other;Adding a bug reports page to the Web site;https://bugs.eclipse.org/bugs/show_bug.cgi?id=100059;ECLIPSE
+102835;WTP Java EE Tools;Other;Create Wizard servlet;102835;ECLIPSE
+92522;WTP Releng;Other;"Download page needs to be updated to remove ""required ws"" section";92522;ECLIPSE
+145412;z_Archived;Other;README: Add readme item for Log Import problem on iSeries V4R5 (bugzilla 126792);https://bugs.eclipse.org/bugs/show_bug.cgi?id=145412;ECLIPSE
+183603;z_Archived;Other;Debug information should be in your build result.;https://bugs.eclipse.org/bugs/show_bug.cgi?id=183603;ECLIPSE
+214747;z_Archived;Other;[Platform Project] Create Bugzilla component for statistical reports.;https://bugs.eclipse.org/bugs/show_bug.cgi?id=214747;ECLIPSE
+312125;z_Archived;Other;Profile java application launch should use DebugPlugin.ATTR_CONSOLE_ENCODING;https://bugs.eclipse.org/bugs/show_bug.cgi?id=312125;ECLIPSE
+352582;z_Archived;Other;Support line breakpoints in JS debug;https://bugs.eclipse.org/bugs/show_bug.cgi?id=352582;ECLIPSE
+56341;z_Archived;Other;M8 Documentation updates on statistical console;56341;ECLIPSE
+56569;z_Archived;Other;provide Find and Filter toolbar buttons in UML2SD view;56569;ECLIPSE
+56596;z_Archived;Other;provide API for execution occurance to set the start and end time;56596;ECLIPSE
+56664;z_Archived;Other;provide support to customize Graph Node and spacing size;56664;ECLIPSE
+56762;z_Archived;Other;provide API for graph node stroke color;56762;ECLIPSE
+56763;z_Archived;Other;provide API for graph node overlay icon;56763;ECLIPSE
+63039;z_Archived;Other;Datapool Evaluator and Iterator extension points should be moved to test.datapool package. Extension point schemas also missing.;63039;ECLIPSE
+63682;z_Archived;Other;Need a programmatic way to open the highlighting rectangle from the time compression bar to the interested lifeline;63682;ECLIPSE
+76548;z_Archived;Other;Coverage Statistic: Update filter method;76548;ECLIPSE
+87164;z_Archived;Other;(MON) Provide range filtering for GLA filter blade;87164;ECLIPSE
+106307;z_Archived;Other;Prerequisite of feature / bug 74652;106307;ECLIPSE
+108004;z_Archived;Other;Eclispse corner article;108004;ECLIPSE
+108728;z_Archived;Other;[Deployment] File transfer service to support ability for command versions;108728;ECLIPSE
+112114;z_Archived;Other;[Extensibility] Support for connection in test execution service for IAC and security;112114;ECLIPSE
+113181;z_Archived;Other;TPTP Tester Guide::Performance chapter updates;113181;ECLIPSE
+113390;z_Archived;Other;Provide a means to configure new AC so that it only launches pre-defined set of aliases;113390;ECLIPSE
+113424;z_Archived;Other;"""Extending"" chapter not shipped in driver";113424;ECLIPSE
+54829;z_Archived;Other;Extend Filter action is missing in Log Interaction View;54829;ECLIPSE
+54881;z_Archived;Other;Correlations are missing in UML2SD Log Interaction view.;54881;ECLIPSE
+54975;z_Archived;Other;Migrate all Hyades examples to be NL-enabled.;54975;ECLIPSE
+56387;z_Archived;Other;Overview is too small;56387;ECLIPSE
+57108;z_Archived;Other;APIs to disable Show Caller/Called Message action;57108;ECLIPSE
+73634;z_Archived;Other;Cannot re-edit a class that extends Composite;73634;ECLIPSE
+104131;z_Archived;Other;Create Manifest file for GLA plugins;104131;ECLIPSE
+90157;z_Archived;Other;New visual class templates should be in respective plugins;90157;ECLIPSE
+90180;z_Archived;Other;Need Text Editor for Link Widget;90180;ECLIPSE
+157858;Bugzilla;Other;"review: Add support for Insiders; Private comments; Private Attachments; Patch for July 12 tip";157858;MOZILLA
+157886;Bugzilla;Other;"review: Bugzilla should support translated/localized templates; Eighth version: Whitespace fixes; remove ($) prototyping";157886;MOZILLA
+158402;Bugzilla;Other;"review: Bugzilla Helper should be enter_bug.cgi template; Patch v.8";https://bugzilla.mozilla.org/show_bug.cgi?id=158402;MOZILLA
+158554;Bugzilla;Other;"review: buglist.cgi shouldn't find all bugs if loaded without parameters; Patch v.1";158554;MOZILLA
+158558;Bugzilla;Other;"review: if order is the first param to buglist.cgi; can't resort; Patch v.1";158558;MOZILLA
+158561;Bugzilla;Other;"review: Remove $onebug cruft.; Patch v.1";158561;MOZILLA
+158620;Bugzilla;Other;"review: Add support for Insiders; Private comments; Private Attachments; Revised patch with timeless's suggestions";158620;MOZILLA
+158974;Bugzilla;Other;"review: relogin.cgi should use a template; Patch v.2";158974;MOZILLA
+158984;Bugzilla;Other;"review: confirm_login in CGI.pl should use a template for the login dialog; Patch v.1";158984;MOZILLA
+159601;Bugzilla;Other;"review: add translation of system messages; Patch v.2";159601;MOZILLA
+159630;Bugzilla;Other;"review: quips.cgi should require a login to access.; Patch v.1";159630;MOZILLA
+172878;Bugzilla;Other;"review: Enhancements to generic reporting; Patch v.3";172878;MOZILLA
+173943;Bugzilla;Other;"review: Component/Product IDs mean you can't do change queries on component/product; v2";173943;MOZILLA
+174810;Bugzilla;Other;"review: you should be able to enter bug dependencies/blockers when you enter a bug.; Patch v.1";174810;MOZILLA
+175135;Bugzilla;Other;"review: Disallow novice users (without bugzilla account) from use of Advanced Entry form; Patch v.1";175135;MOZILLA
+178146;Bugzilla;Other;"review: Real name capability on bug_list.cgi.; Patch against HEAD";178146;MOZILLA
+178300;Bugzilla;Other;"review: Default comments search box type to ""contains string""; Patch v.1";178300;MOZILLA
+178969;Bugzilla;Other;"review: make request tracker use generic user matching code; patch v3: review fixes";178969;MOZILLA
+178986;Bugzilla;Other;"review: make request tracker use generic user matching code; patch v4: very minor updates";178986;MOZILLA
+159438;Bugzilla;Other;"review: Abstract out GenerateSQL into perl module; Patch v.1";159438;MOZILLA
+162293;Bugzilla;Other;"review: Add support for Insiders; Private comments; Private Attachments; Patch updated to current HEAD";162293;MOZILLA
+162795;Bugzilla;Other;"review: param to disable adding new quips; Add param to restrict entry of quips";162795;MOZILLA
+162848;Bugzilla;Other;"review: param to disable adding new quips; Revised patch keeps total number of params constant";162848;MOZILLA
+2544;Core;Other;[IME]Chinese character composition not work with Korean input;2544;MOZILLA
+6278;Core;Other;(feature) List properties needs to be implemented;6278;MOZILLA
+17071;Core;Other;insert source dialog fixes;17071;MOZILLA
+81467;Core;Other;Update site-policies documentation;81467;MOZILLA
+102252;Core;Other;Add CS Styles for Ethiopian/Eritrean Languages;102252;MOZILLA
+2588;Core Graveyard;Other;Suggested additions to the menu of the test bed viewer;2588;MOZILLA
+10912;Core Graveyard;Other;Document->createTextNode() API dumps core;10912;MOZILLA
+10918;Core Graveyard;Other;Document->createFragment Java DOM API dumps core;10918;MOZILLA
+10920;Core Graveyard;Other;Document->createComment API call dumps core;10920;MOZILLA
+10922;Core Graveyard;Other;Document createProcessingInstruction method dumps core;10922;MOZILLA
+13867;Graveyard;Other;need managed tools/software infrastructure;13867;MOZILLA
+151401;Mozilla;Other;Request for SSH account to be able to upload files to ftp.mozilla.org;151401;MOZILLA
+17016;SeaMonkey;Other;QA Reminder: Test IMAP server prefs migration with UI;17016;MOZILLA
+17466;SeaMonkey;Other;QA reminder: retest migration addr prefs after UI fix;17466;MOZILLA
+151388;SeaMonkey;Other;To add a new compile switch to distinguish Windows and ATK code;151388;MOZILLA
+60209;SeaMonkey;Other;OS/2 - Create Desktop folder REXX script.;60209;MOZILLA
+21775;Core;Other;nsMultiMixedConverter needs to add nsIStreamObserver to it's QI method;21775;MOZILLA
+23543;Core;Other;Port nsFileChannel to use nsIFile;23543;MOZILLA
+35505;Core;Other;negotiate webshell ownership model;35505;MOZILLA
+1816;Taglibs;Other;"errors in your documentation;";1816;APACHE
+41115;Lenya;Other;Link to resource uses ,html extension;41115;APACHE
+100070;WTP Java EE Tools;Other;EARFileImpl.saveAsNoReopen does not include application.xml;100070;ECLIPSE
+103333;WTP Java EE Tools;Other;Need enablement of the j2ee extension for its own custom extensions in navigator;103333;ECLIPSE
+92229;z_Archived;Other;Generate HTML test reports;92229;ECLIPSE
+99823;z_Archived;Other;AC doesn't report observer/controller status to agents;99823;ECLIPSE
+99826;z_Archived;Other;Agent Controller doesn't shutdown agents;99826;ECLIPSE
+100005;z_Archived;Other;Accessibility: Cannot set focus to testcase invocation using keyboard only;100005;ECLIPSE
+45755;Fop - Now in Jira;Configuration Bug Report;fop's configuration file is distributed under Apache License;45755;APACHE 
+235;Tomcat 3;Configuration Bug Report;"Apache; mod_jk + APJ13 problems with RequestDispatcher,forward() BugRat Report#373";235;APACHE 
+38424;BCEL - Now in Jira;Configuration Bug Report;LineNumberTable toString method uses jdk 1,4 StringBuffer append(StringBuffer) method,;38424;APACHE 
+48029;APR;Configuration Bug Report;httpd-2,2,14 hangs in port_getn;48029;APACHE 
+33824;Apache httpd-1,3;Configuration Bug Report;binding to an invalid ip address in Linux;33824;APACHE 
+45146;Fop - Now in Jira;Configuration Bug Report;duplicate license,txt constrains ClassLoader;45146;APACHE 
+33117;Tomcat 5;Configuration Bug Report;Deep link into Bugzilla broken on ROOT/index,jsp;33117;APACHE 
+16058;JMeter;Configuration Bug Report;Focus problems under jdk 1,4,1;16058;APACHE 
+49528;Tomcat 7;Configuration Bug Report;HttpServletRequest,isAsyncStarted() returns false when a Runnable is started;49528;APACHE 
+55884;Tomcat 8;Configuration Bug Report;JSPs no longer compile in Java 8;55884;APACHE 
+45490;Fop - Now in Jira;Configuration Bug Report;Handling of font URL pointing to a JAR entry don't work;45490;APACHE 
+51723;Rivet;Configuration Bug Report;makeurl command does not allow relative paths;51723;APACHE 
+41831;Fop - Now in Jira;Configuration Bug Report;"[PATCH] Refactored configuration; font detection and caching; url resolution";41831;APACHE 
+40856;Tomcat Connectors;Configuration Bug Report;URL mapping case sensitive;40856;APACHE 
+34006;Tomcat 5;Configuration Bug Report;Undeploy of webapps with antiResourceLocking in META-INF\context,xml fails after Tomcat restart;34006;APACHE 
+57191;APR;Configuration Bug Report;APR compile failure with Visual Studio 2013;57191;APACHE 
+44698;Lenya;Configuration Bug Report;Building 1,3 fails with NCDFE: SerializerTrace;44698;APACHE 
+COCOON-4;Cocoon;Configuration Bug Report;missing classpath entry in ./build.bat and ./build.sh;https://issues.apache.org/jira/browse/COCOON-4?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+COLLECTION-34;Commons Collection;Configuration Bug Report;Collections doesn't build with jdk1.2 javac;https://issues.apache.org/jira/browse/COLLECTIONS-34?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+CACTUS-7;Cactus;Configuration Bug Report;Starting and stopping the servlet engine in ant;https://issues.apache.org/jira/browse/CACTUS-7?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XALANC-44;XalanC;Configuration Bug Report;Could not compile;https://issues.apache.org/jira/browse/XALANC-44?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+COCOON-69;Cocoon ;Configuration Bug Report;session:get-attribute bug;https://issues.apache.org/jira/browse/COCOON-69?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+LUCENE-1;Lucene;Configuration Bug Report;lock files don't work in JDK 1.1;https://issues.apache.org/jira/browse/LUCENE-1?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XERCESP-6;Xerces-P;Configuration Bug Report;Error building Xerces.C;https://issues.apache.org/jira/browse/XERCESP-6?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+SOAP-143;SOAP;Configuration Bug Report;Problem to config Soap 2.3 + Tomcat 4.0.5 + xerces 1.4.4;https://issues.apache.org/jira/browse/SOAP-143?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+MYFACES-286;My Faces Core;Configuration Bug Report;x:datatable doesn't support Set;https://issues.apache.org/jira/browse/MYFACES-286?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+HTTPCLIENT-434;HttpComponents HttpClient;Configuration Bug Report;Document API incompatibility with HttpClient 2.0;https://issues.apache.org/jira/browse/HTTPCLIENT-434?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XERCESC-8;Xerces-C++;Configuration Bug Report;Build fails on AIX 4.3.3 (IBM RS/6000), VisualAge C++ Pro v5;https://issues.apache.org/jira/browse/XERCESC-8?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22error%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-203;Struts ;Configuration Bug Report;Bug Reporting System' link on Struts home page is broken..;https://issues.apache.org/jira/browse/STR-203?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+JAMES-3;James Server;Configuration Bug Report;"Accounts with "".""";https://issues.apache.org/jira/browse/JAMES-3?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XERCESC-23;Xerces-C++;Configuration Bug Report;Headers install in wrong directory.;https://issues.apache.org/jira/browse/XERCESC-23?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-405;Struts;Configuration Bug Report;Bad links;https://issues.apache.org/jira/browse/STR-405?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22security%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+JAMES-6;James Server;Configuration Bug Report;Sending mail to local recipient and remote recipient fails to send to remote recipient;https://issues.apache.org/jira/browse/JAMES-6?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+COCOON-33;Cocoon;Configuration Bug Report;Error: 500;https://issues.apache.org/jira/browse/COCOON-33?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+JAMES-4;James Server;Configuration Bug Report;Bounced mail to unknown sender address or SMTP server hangs James;https://issues.apache.org/jira/browse/JAMES-4?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+40836;Apache httpd-2;Configuration Bug Report;"Microsoft Update: KB920342; Apache 2,2,3 service doesn't start";40836;APACHE 
+8482;Apache httpd-2;Configuration Bug Report;nph- CGIs and/or server-pushed methodes not working properly;8482;APACHE 
+44902;Fop - Now in Jira;Configuration Bug Report;FOP 0,95 does not resolve server path names,;44902;APACHE 
+32280;Tomcat 5;Configuration Bug Report;Problem clustering tomcat when a failed server is restarting;32280;APACHE 
+39463;APR;Configuration Bug Report;Sendfile broken in 2,2,2 on Solaris 10 when using Server parsed html includes;39463;APACHE 
+42521;Apache httpd-2;Configuration Bug Report;"Unable to connect via DAV (server is 10,4,9; client is 10,4,9)";42521;APACHE 
+42839;Tomcat Connectors;Configuration Bug Report;iPlanet / SunONE web server tomcat connector connection re-use disabled;42839;APACHE 
+34479;Apache httpd-2;Configuration Bug Report;(OS 10048) error during installation;34479;APACHE 
+37021;Lenya;Configuration Bug Report;[PATCH] cforms libraries are not loaded;37021;APACHE 
+36382;Lenya;Configuration Bug Report;[PATCH] Endorsed libraries are not considered properly,;36382;APACHE 
+598;Ant;Configuration Bug Report;Execute does not properly change drive for Windows;598;APACHE 
+11091;Tomcat 4;Configuration Bug Report;Tomcat (4,1,7 - 4,1,9)-LE-jdk14 ignores error page specified in web,xml;11091;APACHE 
+30764;Security - Now in JIRA;Configuration Bug Report;JDK 1,4,2_05 has new org,apache,xpath,compiler api,,, now private m_functions field;30764;APACHE 
+34520;Apache httpd-2;Configuration Bug Report;cope with OpenSSL 0,9,7g API changes;34520;APACHE 
+40512;Security - Now in JIRA;Configuration Bug Report;Fix incompatible API changes to TransformSpi;40512;APACHE 
+1206;Batik - Now in Jira;Configuration Bug Report;Add a text-search in the SVG Browser;1206;APACHE 
+46;Batik - Now in Jira;Configuration Bug Report;Add marker support;46;APACHE 
+680;Ant;Configuration Bug Report;JUnit task not compatible w/ JUnit 3,5;680;APACHE 
+43156;Fop - Now in Jira;Configuration Bug Report;[PATCH] jdk1,3 compatibility fix for fop-0_94;43156;APACHE 
+38444;Security - Now in JIRA;Configuration Bug Report;Transform TRANSFORM_XPATH2FILTER subtract filter bug in 1,3 release;38444;APACHE 
+16266;CDT;Configuration Bug Report;NoClassDefFoundError IDebugViewAdapter;https://bugs.eclipse.org/bugs/show_bug.cgi?id=16266;ECLIPSE
+222581;OCL;Configuration Bug Report;Bug resolving CollectionTypes in AbstractTypeResolver;https://bugs.eclipse.org/bugs/show_bug.cgi?id=222581;ECLIPSE
+495099;Papyrus;Configuration Bug Report;[SysML 1.4][releng] promote bug;https://bugs.eclipse.org/bugs/show_bug.cgi?id=495099;ECLIPSE
+202415;PDT;Configuration Bug Report;Debugger mapping - when an extra directory is added to the project - breakpoints are ignored;https://bugs.eclipse.org/bugs/show_bug.cgi?id=202415;ECLIPSE
+296141;PDT;Configuration Bug Report;Run/Debug As -> PHP Script will not start if a configuration with xdebug was used before that;https://bugs.eclipse.org/bugs/show_bug.cgi?id=296141;ECLIPSE
+350405;PDT;Configuration Bug Report;Incorrect default Launch URL when Run/Debug As PHP Web Page;https://bugs.eclipse.org/bugs/show_bug.cgi?id=350405;ECLIPSE
+18372;Platform;Configuration Bug Report;get rid of all fragment.properties in UI fragments;18372;ECLIPSE
+18965;Platform;Configuration Bug Report;DBCS: DBCS file and path name;18965;ECLIPSE
+100059;Platform;Configuration Bug Report;Adding a bug reports page to the Web site;https://bugs.eclipse.org/bugs/show_bug.cgi?id=100059;ECLIPSE
+283581;RTSC;Configuration Bug Report;RTSC build profile should be set to 'whole_program_debug' in wizard page;https://bugs.eclipse.org/bugs/show_bug.cgi?id=283581;ECLIPSE
+164628;Target Management;Configuration Bug Report;Unnecessary dependency of rse.ui -> debug.ui;https://bugs.eclipse.org/bugs/show_bug.cgi?id=164628;ECLIPSE
+127119;WTP Common Tools;Configuration Bug Report;Facet actions sort does not termination for certain version change actions;https://bugs.eclipse.org/bugs/show_bug.cgi?id=127119;ECLIPSE
+145875;WTP EJB Tools;Configuration Bug Report;New UI plugin dependency introduced in WTP 1.5 model plugin;https://bugs.eclipse.org/bugs/show_bug.cgi?id=145875;ECLIPSE
+160562;WTP Java EE Tools;Configuration Bug Report;[j2ee] EAR with J2EE modules in a directory fail to import properly;https://bugs.eclipse.org/bugs/show_bug.cgi?id=160562;ECLIPSE
+249347;WTP Java EE Tools;Configuration Bug Report;Make .JETEmitter project optional;https://bugs.eclipse.org/bugs/show_bug.cgi?id=249347;ECLIPSE
+83115;WTP Java EE Tools;Configuration Bug Report;Workarounds need fixing for capability with Eclipse 3.1;83115;ECLIPSE
+83338;WTP Java EE Tools;Configuration Bug Report;[perf]* BeaninfoClassAdapter should specify parser pool option;83338;ECLIPSE
+104066;WTP Java EE Tools;Configuration Bug Report;http://java.sun.com/xml/ns/j2ee/jsp_2_0.xsd does not have license associated;104066;ECLIPSE
+102173;WTP Java EE Tools;Configuration Bug Report;Investigate Dependency graph builder as resource change listener;102173;ECLIPSE
+102947;WTP Java EE Tools;Configuration Bug Report;EAR import does not place classes in correct location;102947;ECLIPSE
+159026;WTP Java EE Tools;Configuration Bug Report;[j2ee] 'EAR Libraries' does not include JAR files in directories;https://bugs.eclipse.org/bugs/show_bug.cgi?id=159026;ECLIPSE
+190198;WTP Java EE Tools;Configuration Bug Report;[hotbug] JEE5 Web model does not update on changes in web.xml;https://bugs.eclipse.org/bugs/show_bug.cgi?id=190198;ECLIPSE
+195431;WTP Java EE Tools;Configuration Bug Report;J2EEModuleVirtualComponent.getManifestReferences() performance;https://bugs.eclipse.org/bugs/show_bug.cgi?id=195431;ECLIPSE
+80594;WTP Releng;Configuration Bug Report;SDK doesn't include other source files;80594;ECLIPSE
+115959;WTP Releng;Configuration Bug Report;"Two SDK ""source plugins"" mistakenly jarred";115959;ECLIPSE
+99849;WTP Webservices;Configuration Bug Report;[arch] org.eclipse.wst.wsi mixes model and UI code;99849;ECLIPSE
+146727;z_Archived;Configuration Bug Report;Turn off the Execution framework debug;https://bugs.eclipse.org/bugs/show_bug.cgi?id=146727;ECLIPSE
+177026;z_Archived;Configuration Bug Report;NLS33:plugins referenced by org.eclipse.wst.rdb_userdoc.feature is missing;https://bugs.eclipse.org/bugs/show_bug.cgi?id=177026;ECLIPSE
+183282;z_Archived;Configuration Bug Report;bugs in tptp_decodeBase64();https://bugs.eclipse.org/bugs/show_bug.cgi?id=183282;ECLIPSE
+52505;z_Archived;Configuration Bug Report;org.eclipse.hyades.test.* plugins missing in WSWB 3.0;52505;ECLIPSE
+71473;z_Archived;Configuration Bug Report;EMF Java Example installed causes problem;71473;ECLIPSE
+78980;z_Archived;Configuration Bug Report;coredump while parsing optHeap on ThreeTierQueues applet;78980;ECLIPSE
+78981;z_Archived;Configuration Bug Report;coredump while parsing optHeap on ThreeTierQueues applet;78981;ECLIPSE
+83579;z_Archived;Configuration Bug Report;Version mismatch in org.eclipse.hyades.models.hierarchy feature and plugin;83579;ECLIPSE
+85042;z_Archived;Configuration Bug Report;Trace loaders don't work in the 4.0 environment;85042;ECLIPSE
+109800;z_Archived;Configuration Bug Report;[Platform Specific] The automation framework has issues on non-Windows platforms;109800;ECLIPSE
+110369;z_Archived;Configuration Bug Report;libpiAgent.so missing from z/OS Agent Controller zip due to build error;110369;ECLIPSE
+110882;z_Archived;Configuration Bug Report;zOS: manual build of the piAgent/RAC fails - initial c89 compile exits with code 137;110882;ECLIPSE
+111230;z_Archived;Configuration Bug Report;Agent Controller in 4.0.1 configuration incorrect due to plugin jar name change;111230;ECLIPSE
+112221;z_Archived;Configuration Bug Report;Broken link in on-line navigation tree;112221;ECLIPSE
+113234;z_Archived;Configuration Bug Report;Statistical Agents do not work through the IAC;113234;ECLIPSE
+113601;z_Archived;Configuration Bug Report;Attachment viewing in Test Log Viewer doesn't work for .JPG files;113601;ECLIPSE
+113964;z_Archived;Configuration Bug Report;Update legal doc for log4J;113964;ECLIPSE
+114263;z_Archived;Configuration Bug Report;(New AC) Default setting for TPTP_AC_HOME in serviceconfg.xml is bad;114263;ECLIPSE
+114549;z_Archived;Configuration Bug Report;[Webdoc] (README) Cannot use IAC in multiple instances of the Eclipse workbench;114549;ECLIPSE
+114673;z_Archived;Configuration Bug Report;Remote Log Import with Filter does not work due to change in File Transfer behaviour;114673;ECLIPSE
+56388;z_Archived;Configuration Bug Report;Restore the UML2SD log interactions view as in AC1.2;56388;ECLIPSE
+57051;z_Archived;Configuration Bug Report;placeholder for the UML2SD view;57051;ECLIPSE
+58288;z_Archived;Configuration Bug Report;"VE hangs; times out; then throws NPE doing pause/reload";58288;ECLIPSE
+95241;z_Archived;Configuration Bug Report;"(Plat) RAC plugin system has version number dependency in ""requires""";95241;ECLIPSE
+104003;z_Archived;Configuration Bug Report;Should remove some plugin dependencies from plugin.xml;104003;ECLIPSE
+103244;z_Archived;Configuration Bug Report;(Provisional) Remote console feature not working if target OS is Linux.;103244;ECLIPSE
+88823;z_Archived;Configuration Bug Report;Cannot add JFace support to project - NPE;88823;ECLIPSE
+90544;z_Archived;Configuration Bug Report;VE errors on M6;90544;ECLIPSE
+97582;Bugzilla;Configuration Bug Report;Broken link to download Chart::Base module;97582;MOZILLA
+159681;Bugzilla;Configuration Bug Report;"review: usedependencies must die; Patch v.2";159681;MOZILLA
+161624;Bugzilla;Configuration Bug Report;"review: Problem with the regex in checksetup.pl to find dependancies.; v2";161624;MOZILLA
+164502;Bugzilla;Configuration Bug Report;"review: Importxml will fail if versioncache needs update; Fix - needed on 2.16 as well as 2.17";164502;MOZILLA
+164505;Bugzilla;Configuration Bug Report;"review: Importxml will fail if versioncache needs update; Fix - needed on 2.16 as well as 2.17";164505;MOZILLA
+164551;Bugzilla;Configuration Bug Report;"review: run checksetup.pl non-interactively (for use with cron jobs on test installs); Optionally non-interactive checksetup.pl";164551;MOZILLA
+165730;Bugzilla;Configuration Bug Report;"review: If multiple cookies exist; the least significant is assigned.; Fix for both 121419 and 165685";165730;MOZILLA
+165928;Bugzilla;Configuration Bug Report;"review: run checksetup.pl non-interactively (for use with cron jobs on test installs); v2";165928;MOZILLA
+169533;Bugzilla;Configuration Bug Report;"review: Linkify script to use GetBugLink on texts provided by user; Patch v.2";169533;MOZILLA
+169853;Bugzilla;Configuration Bug Report;"review: Templatise all calls to DisplayError; Patch v.1";169853;MOZILLA
+173945;Bugzilla;Configuration Bug Report;"review: Start using CGI.pm; v3";173945;MOZILLA
+175125;Bugzilla;Configuration Bug Report;"review: Fix site-navigation.html.tmpl to link to flags CGI and not attachments one; Patch v.1";175125;MOZILLA
+175431;Bugzilla;Configuration Bug Report;"review: Start using CGI.pm; v5.1";175431;MOZILLA
+282505;Bugzilla;Configuration Bug Report;perl 5.6: config.cgi dies when it tries to use Bugzilla::DB;https://bugzilla.mozilla.org/show_bug.cgi?id=282505;MOZILLA
+3413;Core;Configuration Bug Report;Trailing slash;3413;MOZILLA
+14928;Core;Configuration Bug Report;[DOGFOOD] [PORKJOCKEY]URL Dispatching Part II;14928;MOZILLA
+15242;Core;Configuration Bug Report;Remove #ifndef NECKO from tree;15242;MOZILLA
+15294;Core;Configuration Bug Report;replace nsIIOService constructors with CreateInstance;15294;MOZILLA
+16276;Core;Configuration Bug Report;url bar does not update;16276;MOZILLA
+16279;Core;Configuration Bug Report;Initial installation of M10 on OpenVMS fails in LIBGTK;16279;MOZILLA
+17707;Core;Configuration Bug Report;[DOGFOOD][IME] CJK input disabled in location field;17707;MOZILLA
+18432;Core;Configuration Bug Report;figure out what resource: URLs should really be;18432;MOZILLA
+19306;Core;Configuration Bug Report;[Outdated plug-in] Sherlock plug-in for Google is outdated;19306;MOZILLA
+37778;Core;Configuration Bug Report;browser doesn't handle simple response of HTTP protocol;37778;MOZILLA
+106586;Core;Configuration Bug Report;Inappropriate source into the plaintext copy.;106586;MOZILLA
+118008;Core;Configuration Bug Report;Multi-paragraph blockquotes do not render correctly;118008;MOZILLA
+183289;Core;Configuration Bug Report;[Plug-in for ActiveX] Switched parameter in XPconnect.cpp / xpc_GetCLSIDForType / keyMimeType.QueryValue;183289;MOZILLA
+19321;Core;Configuration Bug Report;implement RDF resource pseudo-aggregation;19321;MOZILLA
+19432;Core;Configuration Bug Report;remove STREAM_CONVERTER_HACK from file channel;19432;MOZILLA
+39405;Core;Configuration Bug Report;use of #ifndef XP_MAC is not needed in wallet.cpp;39405;MOZILLA
+47881;Core;Configuration Bug Report;triple static link of dbm code.;47881;MOZILLA
+415426;Core ;Configuration Bug Report;trace-malloc broken on fxdbug-win32-tbox (due to Vista SDK?);https://bugzilla.mozilla.org/show_bug.cgi?id=415426;MOZILLA
+557060;Core ;Configuration Bug Report;"[Windows] After bug 551254, Firefox/SeaMonkey fails to build or run with error like ""?";https://bugzilla.mozilla.org/show_bug.cgi?id=557060;MOZILLA
+869868;Core ;Configuration Bug Report;Cannot build old Windows SDKs since Bug 830347;https://bugzilla.mozilla.org/show_bug.cgi?id=869868;MOZILLA
+932168;Core ;Configuration Bug Report;Bug 906072 completely broke IME context management when password field gets focus;https://bugzilla.mozilla.org/show_bug.cgi?id=932168;MOZILLA
+933680;Core ;Configuration Bug Report;browser_pluginCrashCommentAndURL.js hangs ubuntu ec2 slaves in conjunction with browser_bug410900.js;https://bugzilla.mozilla.org/show_bug.cgi?id=933680;MOZILLA
+614228;Core ;Configuration Bug Report;[SeaMonkey] Windows bustage in nsUrlWidget after bug 581596 landing;https://bugzilla.mozilla.org/show_bug.cgi?id=614228;MOZILLA
+7788;Core Graveyard;Configuration Bug Report;Core dump on http://www.vecernji-list.hr/ page load;7788;MOZILLA
+72707;Core Graveyard;Configuration Bug Report;alfred chrome out of date--won't run on moz0.8.1;72707;MOZILLA
+702707;Firefox;Configuration Bug Report;Web console is buggy in window mode;https://bugzilla.mozilla.org/show_bug.cgi?id=702707;MOZILLA
+787564;Firefox;Configuration Bug Report;Today repository cause a black display on SGS2/Otoro due to regression from bug 778079;https://bugzilla.mozilla.org/show_bug.cgi?id=787564;MOZILLA
+445490;Graveyard;Configuration Bug Report;bugzilla searches timing out (loading bugs directly works fine);https://bugzilla.mozilla.org/show_bug.cgi?id=445490;MOZILLA
+626310;MailNews Core;Configuration Bug Report;Port |Bug 600435 - XULRunner universal for i386/x64_64 fails to unify nspr-config| to comm-central;https://bugzilla.mozilla.org/show_bug.cgi?id=626310;MOZILLA
+653865;MailNews Core;Configuration Bug Report;Trunk builds broken by bug 556214: undeclared 'MonitorAutoEnter';https://bugzilla.mozilla.org/show_bug.cgi?id=653865;MOZILLA
+926043;MailNews Core;Configuration Bug Report;Port build system changes from Bug 585016 and Bug 924615 to comm-central;https://bugzilla.mozilla.org/show_bug.cgi?id=926043;MOZILLA
+1046638;MailNews Core;Configuration Bug Report;Port |Bug 1044162 - make install locations for EXTRA_{PP_,}JS_MODULES better| to comm-central;https://bugzilla.mozilla.org/show_bug.cgi?id=1046638;MOZILLA
+849612;MailNews Core;Configuration Bug Report;Fix build problems caused by Bug 847195 [error: nsIDOMNamedNodeMap.h: No such file or directory];https://bugzilla.mozilla.org/show_bug.cgi?id=849612;MOZILLA
+150670;Mozilla;Configuration Bug Report;no response from email to ftp-stage@mozilla.org for releases;150670;MOZILLA
+167090;Mozilla;Configuration Bug Report;Old link to Bugzilla Helper;167090;MOZILLA
+131716;Mozilla Localizations;Configuration Bug Report;Alt-Start => Alt-Home (in Ga naar);131716;MOZILLA
+115;NSPR;Configuration Bug Report;Navigator doesn't build;115;MOZILLA
+263;NSPR;Configuration Bug Report;Mozilla does not compile on NetBSD/arm32;263;MOZILLA
+382;NSPR;Configuration Bug Report;No not shared library support in Makefiles;382;MOZILLA
+840;NSPR;Configuration Bug Report;libplds21.so: can't open file: errno=2;840;MOZILLA
+884;NSPR;Configuration Bug Report;BUILD: messages about OSF in Linux build;884;MOZILLA
+2190;NSPR;Configuration Bug Report;[PP] NSPR building incorrectly on FreeBSD 3.0;2190;MOZILLA
+2248;NSPR;Configuration Bug Report;"PR_ImportFile; etc. should initialize NSPR implicitly.";2248;MOZILLA
+2042;SeaMonkey;Configuration Bug Report;Shared library suffix incorrectly assumed to be .so in several places;2042;MOZILLA
+14562;SeaMonkey;Configuration Bug Report;minor tweak to Makefile.in for editor/txmgr/src and editor/txtsvc/src;14562;MOZILLA
+33934;SeaMonkey;Configuration Bug Report;JA:PR2 Bargain America link incorrect in sidebar;33934;MOZILLA
+35596;SeaMonkey;Configuration Bug Report;DE:PR1 investorworld link not working;35596;MOZILLA
+37953;SeaMonkey;Configuration Bug Report;DE:Customize link for InvestorWorld should be disabled;37953;MOZILLA
+123580;SeaMonkey;Configuration Bug Report;[FIX]about: protocol directory needs clean up;123580;MOZILLA
+195060;SeaMonkey;Configuration Bug Report;Nightly 1.3 are debug builds (file size ~ 40MB) (missing MSVCRTD.DLL);https://Bugzilla.mozilla.org/show_bug.cgi?id=195060;MOZILLA
+212746;SeaMonkey;Configuration Bug Report;1.4 won't launch;212746;MOZILLA
+245826;SeaMonkey;Configuration Bug Report;Checkin for Bug 240552 broke clobber builds and builds w/ disable-cookie;https://Bugzilla.mozilla.org/show_bug.cgi?id=245826;MOZILLA
+338880;SeaMonkey;Configuration Bug Report;SuiteRunner doesn't compile with --enable-debug;https://bugzilla.mozilla.org/show_bug.cgi?id=338880;MOZILLA
+589135;SeaMonkey;Configuration Bug Report;Recover from bug 552703 test outage after upgrading buildbotcustom;https://bugzilla.mozilla.org/show_bug.cgi?id=589135;MOZILLA
+830413;SeaMonkey;Configuration Bug Report;Port |Bug 827303 - Firefox core and crypto services components assume services/sync is built|;https://bugzilla.mozilla.org/show_bug.cgi?id=830413;MOZILLA
+837570;SeaMonkey;Configuration Bug Report;Fix OSX64 buildage from |Bug 780561 - (new-packager) Overhaul the packager|;https://bugzilla.mozilla.org/show_bug.cgi?id=837570;MOZILLA
+42384;SeaMonkey;Configuration Bug Report;nsFilePicker.cpp deallocates buffer incorrectly;42384;MOZILLA
+49318;SeaMonkey;Configuration Bug Report;DE:PR2 Location Search w/o Search entry;49318;MOZILLA
+72888;SeaMonkey;Configuration Bug Report;567920 byte leak on Linux;72888;MOZILLA
+126157;Tech Evangelism Graveyard;Configuration Bug Report;icomputer.be - has some text truncated;126157;MOZILLA
+923865;Testopia;Configuration Bug Report;Testopia is not compatible with Bugzilla 4.5 due to a DB schema change;https://bugzilla.mozilla.org/show_bug.cgi?id=923865;MOZILLA
+511801;Thunderbird;Configuration Bug Report;[Thunderbird] mozilla-central 'Linux comm-central build' do not compile after bug 511326 landing;https://bugzilla.mozilla.org/show_bug.cgi?id=511801;MOZILLA
+927899;Thunderbird;Configuration Bug Report;OSX bustage from bug 895047;https://bugzilla.mozilla.org/show_bug.cgi?id=927899;MOZILLA
+965255;Thunderbird;Configuration Bug Report;OSX build bustage on comm-central from bug 941409 (layout/xul/nsMenuFrame.cpp:682:64: error: no member named 'anonid' in 'nsGkAtoms');https://bugzilla.mozilla.org/show_bug.cgi?id=965255;MOZILLA
+1104835;Thunderbird;Configuration Bug Report;Port bug 1101170 (Move Linux desktop sandboxing code into plugin-container) to fix bustage: Missing file(s): bin/libmozsandbox.so;https://bugzilla.mozilla.org/show_bug.cgi?id=1104835;MOZILLA
+27162;Ant;Other;SQL task doesn't work with Informix IDS 9,2;27162;APACHE 
+142683;Community;Other;Search result of Bugzilla isn't correct;https://bugs.eclipse.org/bugs/show_bug.cgi?id=142683;ECLIPSE
+200131;Data Too;Other;Selection section(selection radio/selection table) of ConnectionFilterPropertyPage needs to be disabled for database connection profile objects;200131;ECLIPSE
+98215;z_Archiv;Other;need a similar allowQuotedDML() api on database;98215;ECLIPSE
+225063;BIRT;Other;Failed to run the sql if the database is disconnect;225063;ECLIPSE
+115810;z_Archiv;Other;a '-' in de database name crashes the connection;115810;ECLIPSE
+301849;Communit;Other;[app.class.php] Patch to add Marketplace Database Connections;301849;ECLIPSE
+136444;z_Archiv;Other;An issue with Action in Symptom Database Editor;136444;ECLIPSE
+362144;z_Archiv;Other;EDT Supports more database vendors;362144;ECLIPSE
+152621;z_Archiv;Other;Encoding error while export Symptom Database that contains GB18030 chars;152621;ECLIPSE
+381688;Scout;Other;RT: Database Cursors are not closed when using Batch mode.;381688;ECLIPSE
+67636;z_Archiv;Other;Symptom Database preference page should be under Profiling and logging.;67636;ECLIPSE
+136453;z_Archiv;Other;An Issue with Localized Message in Symptom Database editor;136453;ECLIPSE
+150374;Data Too;Other;Set Profile for Editor drop down Database Name selection does not work;150374;ECLIPSE
+173336;Data Too;Other;Data Source Explorer view - properties on Database root has blank dialog;173336;ECLIPSE
+358854;z_Archiv;Other;SQL database binding resources should not let user create duplicate name;358854;ECLIPSE
+364114;z_Archiv;Other;Error message of create records from sql database does not clear.;364114;ECLIPSE
+472014;EPP;Other;Update of problems database fails;472014;ECLIPSE
+101678;z_Archiv;Other;Test Connection doesn't give any feedback if the wrong database type is selected;101678;ECLIPSE
+157945;Bugzilla;Other;"review: Remembered query options need regrouping; Patch v.1";157945;MOZILLA
+158203;Bugzilla;Other;"review: Remembered query options need regrouping; Patch v.2";158203;MOZILLA
+158399;Bugzilla;Other;"review: Remembered query options need regrouping; Patch v.3";158399;MOZILLA
+158601;Bugzilla;Other;"review: Move the quip list into the database; patch; atttempt 3";158601;MOZILLA
+158681;Bugzilla;Other;"review: Remembered query options need regrouping; Patch v.3";158681;MOZILLA
+167701;Bugzilla;Other;"review: Query - multiple-select product (and probably component) broken; Patch";167701;MOZILLA
+177895;Bugzilla;Other;"review: Query for CC/longdesc/OR takes long time; Revised with readability improvements";177895;MOZILLA
+261993;Bugzilla;Other;rampant uninitialized value error in log with fix for bug 255512;https://bugzilla.mozilla.org/show_bug.cgi?id=261993;MOZILLA
+754740;Calendar;Other;"Startup failure since Bug 589032 - Error: Error setting up timezone database: TypeError: Components.classes[mozilla.org/storage/statement-wrapper;1'] is undefined";https://bugzilla.mozilla.org/show_bug.cgi?id=754740;MOZILLA
+12243;Core;Other;[IME][IME-Commit][IME-HighLight]DB text input always appended regardless of cursor position;12243;MOZILLA
+45907;Core;Other;Is DBM needed if the DiskCache is not used?;45907;MOZILLA
+500527;Graveyard;Other;Run SQL from bug 495740 on support-stage for testing;https://bugzilla.mozilla.org/show_bug.cgi?id=500527;MOZILLA
+580479;Graveyard;Other;bugzilla searches take forever (or never complete);https://bugzilla.mozilla.org/show_bug.cgi?id=580479;MOZILLA
+COCOON-36;Cocoon;Other ;db-authenticator wont reuse pool connections;https://issues.apache.org/jira/browse/COCOON-36?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-153;Struts;Other ;DatabaseServlet reads from getResourceStream and writes to getRealPath;https://issues.apache.org/jira/browse/STR-153?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-26;Struts;Other ;Database connection stops action servlet from loading;https://issues.apache.org/jira/browse/STR-26?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22test%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+40327;Tomcat Connectors;Other;Logging level now defaults to debug - crashed server;40327;APACHE 
+30847;Fop - Now in Jira;Other;[patch] Block.java loop terminator fails due to a bug;https://bz.apache.org/bugzilla/show_bug.cgi?id=30847;APACHE 
+FOP-17;FOP;Other;case matching failure in <?xml ... ?> tag;https://issues.apache.org/jira/browse/FOP-17?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XALANC-10;XalanC;Other;testXSLT linked with hard coded path to xerces library;https://issues.apache.org/jira/browse/XALANC-10?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+SVN-392;Subversion;Other;error messages don't show the error name;https://issues.apache.org/jira/browse/SVN-392?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-267;Struts ;Other;Cannot find ActionMappings;https://issues.apache.org/jira/browse/STR-267?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XERCESC-233;Xerces-C++;Other;Parser do not throw exceptions;https://issues.apache.org/jira/browse/XERCESC-233?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+BATIK-163;Batik;Other;Exception when running browser in binary distribution;https://issues.apache.org/jira/browse/BATIK-163?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-336;Struts ;Other;MultiboxTag.doAfterBody() always aborts page rendering;https://issues.apache.org/jira/browse/STR-336?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XERCESC-162;Xerces-C++;Other;getLength error;https://issues.apache.org/jira/browse/XERCESC-162?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XALANC-37;XalanC;Other;NULL sysId causes exception when using a DOM_Document as XSLTInputSource;https://issues.apache.org/jira/browse/XALANC-37?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-199;Struts;Other;javax.servlet.jsp.JspException: Cannot find message resources under key org.apache.struts.action.MESSAGE;https://issues.apache.org/jira/browse/STR-199?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+COCOON-55;Cocoon;Other;accessing localhost:8080/cocoon/ gives ComponentException;https://issues.apache.org/jira/browse/COCOON-55?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22security%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+AXIS-797;Axis;Other;Calendar replacing Date is wsdl transformation;https://issues.apache.org/jira/browse/AXIS-797?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XMLBEANS-111;XMLBeans;Other;Upper case conversion of special characters causes javac error;https://issues.apache.org/jira/browse/XMLBEANS-111?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+EMAIL-6;Commons Email;Other;[email] Errors when sending MultiPartEmail with another email as an attachment;https://issues.apache.org/jira/browse/EMAIL-6?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+AXIS-1549;Axis;Other;Exception:: java.lang.Exception: FIXME;https://issues.apache.org/jira/browse/AXIS-1549?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+JS2-130;Jetspeed 2;Other;ServletContextProviderImpl.java:36: cannot resolve symbol;https://issues.apache.org/jira/browse/JS2-130?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+HTTPCLIENT-210;HttpComponents HttpClient;Other;Exception handling in HttpClient requires redesign;https://issues.apache.org/jira/browse/HTTPCLIENT-210?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XALANC-19;XalanC;Other;Xalan C crashes with this style sheet;https://issues.apache.org/jira/browse/XALANC-19?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+1027;Fop - Now in Jira;Other;Bugs in TTFReader;https://bz.apache.org/bugzilla/show_bug.cgi?id=1027;APACHE 
+42476;Fop - Now in Jira;Other;[PATCH] Bugfix for XMLReader: Support for other ImageReaders;https://bz.apache.org/bugzilla/show_bug.cgi?id=42476;APACHE 
+12132;Apache httpd-2;Other;mod_rewrite Set-Cookie bug;https://bz.apache.org/bugzilla/show_bug.cgi?id=12132;APACHE 
+XERCESC-4;Xerces-C++;Other;Unable to create document on repeating basis;https://issues.apache.org/jira/browse/XERCESC-4?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+FOP-42;FOP;Other;org.apache.fop.apps.CommandLineOptions#checkSettings() (0.18.1-DEV) throws NullPointerException;https://issues.apache.org/jira/browse/FOP-42?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-109;Struts;Other;ImageTag bug in altKey attribute;https://issues.apache.org/jira/browse/STR-109?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+COCOON-41;Cocoon;Other;org.apache.cocoon.ProcessingException: Exception in Handler:java.util.NoSuchElementException when starting Cocoon;https://issues.apache.org/jira/browse/COCOON-41?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XERCESJ-42;Xerces2-J;Other;"Error: DTD file not found if XML file name contains character such as ""%""";https://issues.apache.org/jira/browse/XERCESJ-42?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+SVN-471;Subversion;Other;"checking out a url ending in slash (""/"") makes lossy wc";https://issues.apache.org/jira/browse/SVN-471?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+DIGESTER-54;Common Digester;Other;no match with simple xml file;https://issues.apache.org/jira/browse/DIGESTER-54?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+SOAP-12;SOAP;Other;null pointer exception in TransportMessage.read();https://issues.apache.org/jira/browse/SOAP-12?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-132;Struts;Other;Error masked by nested try-catch blocks;https://issues.apache.org/jira/browse/STR-132?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-178;Struts;Other;LinkTag/RequestUtils.computeParameters - no longer supports non-String bean properties as parameters;https://issues.apache.org/jira/browse/STR-178?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+VELOCITY-18;Velocity;Other;Assigning null value to variable appears to be a no-op;https://issues.apache.org/jira/browse/VELOCITY-18?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22TESTING%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+AXIS-1403;Axis;Other;calling MessageElement#getChildren with a Text-Only content returns an empty list;https://issues.apache.org/jira/browse/AXIS-1403?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XERCESJ-1100;Xerces2-J;Other;Error when <import> refers to a schema inlined in another XML document;https://issues.apache.org/jira/browse/XERCESJ-1100?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+CONTINUUM-368;Continuum;Other;"Exception is thrown when building a project that uses ""extend"" in project.xml";https://issues.apache.org/jira/browse/CONTINUUM-368?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+HARMONY-56;Harmony;Other;java.net.InetAddress.getAllByName(null) throws UnknownHostException instead of valid InetAddress;https://issues.apache.org/jira/browse/HARMONY-56?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+FILEUPLOAD-65;Commons FileUpload;Other;Problems uploading image file using multipart form request;https://issues.apache.org/jira/browse/FILEUPLOAD-65?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-145;Struts;Other;unintuitive NullPointerException for wrong configuration entry;https://issues.apache.org/jira/browse/STR-145?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22error%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+41031;Tomcat Connectors;Other;ISAPI redirector crashes IIS with access violation;41031;APACHE 
+19217;Fop - Now in Jira;Other;NullPointerException - Parsing document;19217;APACHE 
+42959;Tomcat Connectors;Other;tomcat-connectors-1,2,23-src: source code fails to compile;42959;APACHE 
+13025;Apache httpd-2;Other;CGI and POST-requests broken when DAV enabled;13025;APACHE 
+15840;Taglibs;Other;MessageTag causes NullPointer Exception;15840;APACHE 
+16288;Apache httpd-2;Other;Crash on console startup in ap_recent_ctime;16288;APACHE 
+52402;Apache httpd-2;Other;balancer setup crashes apache during start;52402;APACHE 
+36297;Lenya;Other;Delete Language Version does not work;36297;APACHE 
+1264;JMeter;Other;timers control doesnt match with results;1264;APACHE 
+36171;Ant;Other;#¿NOMBRE?;36171;APACHE 
+971;Fop - Now in Jira;Other;FATAL ERROR: no transformer class found;971;APACHE 
+37708;Security - Now in JIRA;Other;Different behaviour with NodeSet and RootNode with InclusiveNamespaces;37708;APACHE 
+39712;Fop - Now in Jira;Other;"NullPointerExeption on table with border-separation=""[value]""";39712;APACHE 
+37456;Security - Now in JIRA;Other;Signing throws an exception if custom resource resolver is registered;37456;APACHE 
+24329;Apache httpd-2;Other;win32 Apache 2,0,48 build broken!!! missing ssl-std,conf;24329;APACHE 
+1782;Xerces-J;Other;< and > are not quoted properly in HTML and XHTML output;1782;APACHE 
+41448;Fop - Now in Jira;Other;java,lang,ClassCastException: org,apache,fop,layoutmgr,inline,WrapperLayoutManager;41448;APACHE 
+29323;Lenya;Other;Build fails due to publication-tests,xml build target;29323;APACHE 
+1292;JMeter;Other;version 1,6 JMeterThread calls getSampler with entry == null;1292;APACHE 
+625;Ant;Other;Fail to handle the external entity,,,;625;APACHE 
+15549;JMeter;Other;Fixes to ResponseAssertion to make it thread safe;15549;APACHE 
+10107;Apache httpd-2;Other;Random (frequent) error - pages not loading in Netscape 4,x;10107;APACHE 
+1759;Fop - Now in Jira;Other;table-omit-footer-at-break sometimes cause crash;1759;APACHE 
+48272;Apache httpd-2;Other;mod_proxy_fcgi crashes Apache on invalid headers;48272;APACHE 
+50309;Apache httpd-2;Other;Apache is crashing during graceful restart;50309;APACHE 
+49155;APR;Other;mod_rewrite logging crashes apache 64 bit builds on windows;49155;APACHE 
+33010;Apache httpd-2;Other;loading mod_logio,so on win2k resulting apache crash;33010;APACHE 
+38053;Fop - Now in Jira;Other;FOP SVN TRUNK crashes at inline page manager and Knuth inline box,;38053;APACHE 
+41965;Fop - Now in Jira;Other;fop crashes on break-after;41965;APACHE 
+40387;Fop - Now in Jira;Other;PFMFile,load() crashes if a font has a name longer than 16 characters and also if parsing pfm files larger than 2048 bytes;40387;APACHE 
+816;Xerces-J;Other;"The parser does not raise an error when the facet ""minLength"" for the datatype ""language"" has a value other than nonNegativeInteger,";816;APACHE 
+1243;Fop - Now in Jira;Other;Error in org\apache\fop\apps\Options,java;1243;APACHE 
+58;Batik - Now in Jira;Other;Gradient stops error handling;58;APACHE 
+34485;APR;Other;i am getting Error preallocating sequence numbers while inserting row into oracle tablre using toplink;34485;APACHE 
+35237;Batik - Now in Jira;Other;1,6 introduced errors with SVG saving;35237;APACHE 
+55558;Apache httpd-2;Other;mod_proxy_fcgi+mod_deflate error with header-only output stream record;55558;APACHE 
+47508;Fop - Now in Jira;Other;There is an error while writing the TLE's while writing the attribute qualifier in the afp output,;47508;APACHE 
+36729;Fop - Now in Jira;Other;"Font metrics-url and embed-url are aways absolute; fails without good error message";36729;APACHE 
+42147;Tomcat Connectors;Other;"mod_jk: JkLogLevel set to error; however apparently logging at info";42147;APACHE 
+40188;Lenya;Other;"compilation error; missing axis jar on classpath";40188;APACHE 
+33801;Fop - Now in Jira;Other;FOP 0,20,5 AWTRenderer: Sometimes rendering fails in the middle of a table with no error message;33801;APACHE 
+44210;Lenya;Other;Error parsing parameters: mandatory parameter 'document-language' not found [docu:live:::expires];44210;APACHE 
+42608;Tomcat 5;Other;Invalid Content-Length error for the binary file size greater than 2,1GB;42608;APACHE 
+42931;Lenya;Other;"Error message ""document checked out"" not i18n-ized";42931;APACHE 
+34521;Lenya;Other;error notification for wrong characters in uploaded filename and define space as wrong character;34521;APACHE 
+45971;Fop - Now in Jira;Other;[PATCH] Fop CLI Errors;45971;APACHE 
+41500;Fop - Now in Jira;Other;ClassCastException when fo:wrapper is used as a child of fo:block-container;41500;APACHE 
+13567;Xindice;Other;Running xindice,war in Tomcat - error java,lang,NullPointerException;13567;APACHE 
+36334;Lenya;Other;[PATCH] JCR ConfigurationException on start-up,;36334;APACHE 
+964;Fop - Now in Jira;Other;FOP 0,17 throws exception with basic-link in xsl-region-before/after;964;APACHE 
+1339;ORO;Other;StringIndexOutOfBoundsException During Simple Perl5Util,split;1339;APACHE 
+47953;Fop - Now in Jira;Other;NullPointerException in AFPRendererConfigurator;47953;APACHE 
+47781;Fop - Now in Jira;Other;GRAVE: Exception: java,lang,NullPointerException when unsing fop;47781;APACHE 
+39553;Fop - Now in Jira;Other;NullpointerException in RTFHandler;39553;APACHE 
+39607;Fop - Now in Jira;Other;[PATCH] NullPointerException in RtfTableRow : tableBorderAttributes;39607;APACHE 
+55345;Tomcat 8;Other;"Webresources class AbstractResourceSet throws exception upon callong ServletContext,getRealPath("""")";55345;APACHE 
+53468;Fop - Now in Jira;Other;[PATCH] FOP with fop-pdf-images throws ImageException;53468;APACHE 
+43591;Fop - Now in Jira;Other;NullPointerException when min-height is specified for table-row;43591;APACHE 
+38605;Security - Now in JIRA;Other;X509CertificateResolver throws NullPointerException;38605;APACHE 
+48555;Fop - Now in Jira;Other;IndexOutOfBoundsException in TableCellLayoutManager;48555;APACHE 
+42024;Fop - Now in Jira;Other;ClassCastException: InlineLayoutManager cannot be cast to BlockLevelLayoutManager;42024;APACHE 
+49452;Fop - Now in Jira;Other;NullPointerException in LineHeightPropertyMaker,java:57;49452;APACHE 
+41296;Lenya;Other;"""Checkin"" menu item leads to exception";41296;APACHE 
+37270;Fop - Now in Jira;Other;IndexOutOfBoundsException due to absent table-cells;37270;APACHE 
+33393;Security - Now in JIRA;Other;"Base64 Transform throws ""Stream is closed"" IOExceptions";33393;APACHE 
+39608;Fop - Now in Jira;Other;NullPointerException when redering ,fo file in TableLayoutManager,initialize;39608;APACHE 
+54094;Fop - Now in Jira;Other;"break-before=""page"" causes IllegalArgumentException";54094;APACHE 
+50988;Fop - Now in Jira;Other;[Patch] White-space fo character element throws NullPointerException;50988;APACHE 
+37412;Fop - Now in Jira;Other;nullpointer exception in ListItemContentLayoutManager,addAreas;37412;APACHE 
+36044;Security - Now in JIRA;Other;Canonicalizing an empty node-set throws an ArrayIndexOutOfBoundsException;36044;APACHE 
+37415;Fop - Now in Jira;Other;java,lang,ClassCastException: org,apache,fop,layoutmgr,PaddingElement;37415;APACHE 
+49837;Fop - Now in Jira;Other;Regression: soft hyphen character gives IllegalArgumentException;49837;APACHE 
+39560;Fop - Now in Jira;Other;Null Pointer Exception (when a table cloned due to a retrieve-marker operation);39560;APACHE 
+40556;Fop - Now in Jira;Other;[PATCH] IndexOutOfBoundsException at ListItemLayoutManager,java:495;40556;APACHE 
+37725;Fop - Now in Jira;Other;"NullPointerException in -rtf only (not pdf; txt; png,,)";37725;APACHE 
+51032;Fop - Now in Jira;Other;NullpointerException on invalid attribute values for text-decoration,;51032;APACHE 
+3497;Fop - Now in Jira;Other;"id already exists error when using span=""all"" attribute";3497;APACHE 
+48021;Apache httpd-2;Other;File upload broken;48021;APACHE 
+22684;Apache httpd-2;Other;AddCharset default conf is wrong from latin5 to latin9;22684;APACHE 
+32832;Tomcat 5;Other;request,getSession(false) fails to return null,;32832;APACHE 
+33503;Slide;Other;PropPatchMethod() fails with duplicate names in different namespaces;33503;APACHE 
+35367;Lenya;Other;Build fails: XConfToolTask not found;35367;APACHE 
+55587;APR;Other;CYGWIN fails to load modules;55587;APACHE 
+39809;Fop - Now in Jira;Other;ant task fails in fop-trunk;39809;APACHE 
+52898;Rivet;Other;parse,tcl: auto_path failes for pathes with spaces;52898;APACHE 
+41381;Tomcat Connectors;Other;"mod_jk segfaults; if fail_on_status is used";41381;APACHE 
+1274;Batik - Now in Jira;Other;java compilation bugs;1274;APACHE 
+27370;Apache httpd-2;Other;Fix segmentation fault on stale cache when mod_disk_cache is used;27370;APACHE 
+652;Fop - Now in Jira;Other;Problem compiling with new TTFs because ttffont-file,xsl not found;652;APACHE 
+41681;Lenya;Other;caching is broken in trunk;41681;APACHE 
+50510;Fop - Now in Jira;Other;No content in the generated rtf file using FOP after revision 1036000;50510;APACHE 
+42853;Tomcat Connectors;Other;mod_jk fails to pass correct path after mod_rewrite;42853;APACHE 
+36720;Fop - Now in Jira;Other;erroneous cell overlap code;36720;APACHE 
+36639;Security - Now in JIRA;Other;KeyValue,getPublicKey does not work;36639;APACHE 
+42197;Lenya;Other;Search page loses results when switching the language;42197;APACHE 
+45328;JMeter;Other;SOAP-call does not support Unicode data;45328;APACHE 
+37097;Log4j - Now in Jira;Other;NDC column does not sort properly on double-click if some of the NDC values are null;37097;APACHE 
+34621;Apache httpd-2;Other;Undeclared identifier BINDPROCESS;34621;APACHE 
+1383;Fop - Now in Jira;Other;Cannot compile on Japanese locale (ja_JP,EUC);1383;APACHE 
+49586;Fop - Now in Jira;Other;Copy Paste of Japanese charactres are not working in PDF document;49586;APACHE 
+45667;Fop - Now in Jira;Other;NPE when having an empty <fo:inline>-element with hyphenation turned on;45667;APACHE 
+55822;APR;Other;Can't compile with bundled apr/apr-util;55822;APACHE 
+40290;Security - Now in JIRA;Other;NPE SignedInfo,getCanonicalizationMethodURI 1,4,Beta2;40290;APACHE 
+33749;Rivet;Other;Broken build;33749;APACHE 
+37545;Fop - Now in Jira;Other;keep-with-next broken;37545;APACHE 
+41946;POI;Other;Corruption issues writing PPT;41946;APACHE 
+53009;POI;Other;Problem creating header and footer;53009;APACHE 
+36358;Lenya;Other;"Workflow: Role condition applies to request roles; not to actual roles";36358;APACHE 
+39200;Security - Now in JIRA;Other;XMLCipher-loadEncryptedKey() doesn't set the correct CarriedKeyName element,;39200;APACHE 
+41340;Lenya;Other;Can't create internal links with Kupu;41340;APACHE 
+35059;JMeter;Other;RuntimeController not working correctly;35059;APACHE 
+42877;Lenya;Other;"""restore"" out of the trash and out of the archive does not work";42877;APACHE 
+955;Fop - Now in Jira;Other;Bug with last font character at PFMReader and TTFReader;955;APACHE 
+40583;Fop - Now in Jira;Other;"Under Cygwin; fop bash script CLASSPATH problem";40583;APACHE 
+47481;Fop - Now in Jira;Other;RTF files don't work in TextEdit,app or Pages,app on the Mac;47481;APACHE 
+40519;Fop - Now in Jira;Other;While generating output as image/tiff it is only possible to use PackBits compression,;40519;APACHE 
+47835;Fop - Now in Jira;Other;Percentages not working for provisional-distance-between-starts;47835;APACHE 
+39701;Fop - Now in Jira;Other;NPE in PropertyList;39701;APACHE 
+41424;Lenya;Other;"""import content"" heuristics fail when index page language is not english,";41424;APACHE 
+720;Xerces-J;Other;Schema constraint voilation not reported by the parser;720;APACHE 
+497;ORO;Other;ORO dies while trying to match a String with wierd characters BugRat Report#831;497;APACHE 
+41474;Security - Now in JIRA;Other;two text nodes with the value '\n' in succession within <ds:SignedInfo> and <ds:X509IssuerSerial>;41474;APACHE 
+38710;Fop - Now in Jira;Other;NPE with fo:title;38710;APACHE 
+380753;Acceleo;Other;Java launch debug session aborts after 10 seconds;https://bugs.eclipse.org/bugs/show_bug.cgi?id=380753;ECLIPSE
+132632;BIRT;Other;org.eclipse.birt.report.debug.ui compiles error in daily build 20060321;https://bugs.eclipse.org/bugs/show_bug.cgi?id=132632;ECLIPSE
+103378;BIRT;Other;Structure Changed event is fired in the wrong drawing sequence.;103378;ECLIPSE
+35092;CDT;Other;Debugger don't show Variables;https://bugs.eclipse.org/bugs/show_bug.cgi?id=35092;ECLIPSE
+98814;CDT;Other;NullPointerException and failed to launch debug session for a project;https://bugs.eclipse.org/bugs/show_bug.cgi?id=98814;ECLIPSE
+10015;CDT;Other;Parsing of function declarations in stdio.h is broken.;10015;ECLIPSE
+43680;CDT;Other;Fix Parser Error Handling;43680;ECLIPSE
+70267;CDT;Other;"TVT3.0: In japanese locale; automated discovery of include paths doesn't seem to work";70267;ECLIPSE
+530712;Community;Other;jdt.debug.gerrit jobs failing;https://bugs.eclipse.org/bugs/show_bug.cgi?id=530712;ECLIPSE
+109230;Community;Other;Generate some of Roadmap from project information files.;109230;ECLIPSE
+531283;Ease;Other;[Rhino Debug] Debugger fails when trying to evaluate function arguments;https://bugs.eclipse.org/bugs/show_bug.cgi?id=531283;ECLIPSE
+426827;Edapt;Other;EDAPT: Bug in ChangeAttributeType;https://bugs.eclipse.org/bugs/show_bug.cgi?id=426827;ECLIPSE
+344918;EMFT.facet;Other;Bug between facets and customizations : BasicIndexOutOfBoundsException;https://bugs.eclipse.org/bugs/show_bug.cgi?id=344918;ECLIPSE
+158203;EPF;Other;Persistency bug: processes store from href for selected Steps;https://bugs.eclipse.org/bugs/show_bug.cgi?id=158203;ECLIPSE
+5281;JDT;Other;Step into resumes instead;5281;ECLIPSE
+19135;JDT;Other;IllegalThreadStateException reconciling editor;19135;ECLIPSE
+19234;JDT;Other;NPE in NewMethodCompletionProposal.apply;19234;ECLIPSE
+36465;JDT;Other;Unable to create multiple source folders when not using bin for output;36465;ECLIPSE
+47049;JDT;Other;[Builder] Build output folder not getting flushed because files are not marked as derived;47049;ECLIPSE
+439595;Jubula;Other;Replace bug key input delay environment property;https://bugs.eclipse.org/bugs/show_bug.cgi?id=439595;ECLIPSE
+413637;Lyo;Other;Bugzilla launch contains reference to /Users/mffiedler/.m2 in source lookup path;https://bugs.eclipse.org/bugs/show_bug.cgi?id=413637;ECLIPSE
+275079;M2T;Other;Fix bugs in Xtend / Xpand middleend related to changes in MWE;https://bugs.eclipse.org/bugs/show_bug.cgi?id=275079;ECLIPSE
+232028;OCL;Other;Bug in OperationCallExpOperations.checkArgumentsConform restriction;https://bugs.eclipse.org/bugs/show_bug.cgi?id=232028;ECLIPSE
+139476;PDT;Other;J2EEModuleVirtualComponent.getManifestReferences() performance;https://bugs.eclipse.org/bugs/show_bug.cgi?id=139476;ECLIPSE
+147740;PDT;Other;"There is the error displayed in the concole when running a file without ""Debug Info"" option.";https://bugs.eclipse.org/bugs/show_bug.cgi?id=147740;ECLIPSE
+149450;PDT;Other;There is exception thrown if choosing directory for debug.;https://bugs.eclipse.org/bugs/show_bug.cgi?id=149450;ECLIPSE
+494869;PDT;Other;NullPointerException in PHPDebugPlugin.getDebuggerId;https://bugs.eclipse.org/bugs/show_bug.cgi?id=494869;ECLIPSE
+58845;Platform;Other;[Viewers] Error while debugging but no log;https://bugs.eclipse.org/bugs/show_bug.cgi?id=58845;ECLIPSE
+14291;Platform;Other;NullPointerException in OpenWithMenu.fill();14291;ECLIPSE
+16208;Platform;Other;decorator creation not protected from failed plugin activation;16208;ECLIPSE
+16854;Platform;Other;NPE in OleEditor;16854;ECLIPSE
+17981;Platform;Other;Cycle Actions do not work in German;17981;ECLIPSE
+20474;Platform;Other;[Dialogs] SelectionDialog should not return an initial selection of null;20474;ECLIPSE
+21981;Platform;Other;NPE in TitleAreaDialog - Can't create a Java class.;21981;ECLIPSE
+26125;Platform;Other;Workbench startup is throwing dialog rather than logging to .log;26125;ECLIPSE
+28630;Platform;Other;[Preferences] NPE in font preference page on Apply;28630;ECLIPSE
+28638;Platform;Other;[Preferences] Import Preferences: Crashes on eclipse;28638;ECLIPSE
+28727;Platform;Other;[Dialogs] AssertionFailedException with M4 build while rebuilding my project;28727;ECLIPSE
+29426;Platform;Other;DBCS:Copy/Paste DBCS failed between eclipse and gedit;29426;ECLIPSE
+34248;Platform;Other;DBCS: shown up GnomeVFS-WARNING messages;34248;ECLIPSE
+41136;Platform;Other;[Jobs] concurrent modification in progress view;41136;ECLIPSE
+63721;Platform;Other;[Progress] NPE when deleting project;63721;ECLIPSE
+67729;Platform;Other;NPE on startup (all the time!);67729;ECLIPSE
+67731;Platform;Other;NPE on startup (part 2);67731;ECLIPSE
+82248;Platform;Other;[Encoding] NullPointerException when changing file encoding;82248;ECLIPSE
+58542;Platform;Other;Dangerous change to setSystem in MarkersViews;58542;ECLIPSE
+270739;Smila;Other;[BUG: BinaryStorage Access] since rev300 BinaryStorage can not Access some files (see bug 269967);https://bugs.eclipse.org/bugs/show_bug.cgi?id=270739;ECLIPSE
+474194;TMF;Other;NullPointerException in DebugSourceInstallingCompilationParticipant.buildFinished (149);https://bugs.eclipse.org/bugs/show_bug.cgi?id=474194;ECLIPSE
+144342;WTP Common Tools;Other;[emfworkbench] SetCommand created by ModelModifier causes NPE when unset feature;https://bugs.eclipse.org/bugs/show_bug.cgi?id=144342;ECLIPSE
+146063;WTP Common Tools;Other;[validation] Fix constructors for EnabledValidatorsOperation to remove asynch flag;https://bugs.eclipse.org/bugs/show_bug.cgi?id=146063;ECLIPSE
+115821;WTP Common Tools;Other;[emfworkbench] NPE in ResourceSetImpl.getResource() during AutoBuild;115821;ECLIPSE
+92884;WTP Common Tools;Other;Flexible Project: findResourcesBySourcePath with workspace relative path returns null;92884;ECLIPSE
+103048;WTP Common Tools;Other;validator extension schema files are not in the builds;103048;ECLIPSE
+126325;WTP EJB Tools;Other;[hotbug] Exceptions when XDoclet version is changed;https://bugs.eclipse.org/bugs/show_bug.cgi?id=126325;ECLIPSE
+295437;WTP Incubator;Other;XQDT SF BUG#2883207: two dashes in an element;https://bugs.eclipse.org/bugs/show_bug.cgi?id=295437;ECLIPSE
+102958;WTP Java EE Tools;Other;Module factory is failing to show the connector module;102958;ECLIPSE
+104449;WTP Java EE Tools;Other;WebResource.getPath() is incorrect for a JSP unless the web folder is set to WebContent;104449;ECLIPSE
+128491;WTP Java EE Tools;Other;[emfworkbench] ResourceSetWorkBenchEditSynchronizer releasing projecgt resource when it shouldn't;https://bugs.eclipse.org/bugs/show_bug.cgi?id=128491;ECLIPSE
+154227;WTP Java EE Tools;Other;[j2ee] Bad import generated for package class from referenced generator model;https://bugs.eclipse.org/bugs/show_bug.cgi?id=154227;ECLIPSE
+64161;WTP Java EE Tools;Other;Extending an abstract class fails;64161;ECLIPSE
+68175;WTP Java EE Tools;Other;JavaReflectionAdaptor tries to load classes on a flush;68175;ECLIPSE
+106772;WTP Java EE Tools;Other;Missing servlet class when import EAR;106772;ECLIPSE
+110265;WTP Java EE Tools;Other;IVirtualFile.exist() returns incorrect value;110265;ECLIPSE
+92878;WTP Java EE Tools;Other;Flexible Project: J2EE Web Module and builder creates incorrect structure and extra folders;92878;ECLIPSE
+93290;WTP Java EE Tools;Other;Fix both SynchHelpers for Linux combo events;93290;ECLIPSE
+102897;WTP Java EE Tools;Other;Fix EJBArtifactEdit.getEJBModuleRelative() to handle paths already relative;102897;ECLIPSE
+104153;WTP Java EE Tools;Other;EAR import does not hook up EJB module and EJB client module;104153;ECLIPSE
+123595;WTP Source Editing;Other;Opening xml from jar causes exception.;https://bugs.eclipse.org/bugs/show_bug.cgi?id=123595;ECLIPSE
+87614;WTP Source Editing;Other;Race condition getting model causes UI adapters not to be registered in StructuredTextEditor;87614;ECLIPSE
+106324;WTP Source Editing;Other;ModelManager#getNewModelForRead/Edit always throws ResourceAlreadyExists exception;106324;ECLIPSE
+106596;WTP Source Editing;Other;IStructuredModel#releaseFromEdit() throws AssertionFailed Exception;106596;ECLIPSE
+108325;WTP Source Editing;Other;"Typing enters text ""in place"" if exception occurs";108325;ECLIPSE
+110097;WTP Source Editing;Other;Can't find .tld files by filename;110097;ECLIPSE
+113537;WTP Source Editing;Other;Error in .log when creating new Web project;113537;ECLIPSE
+115244;WTP Source Editing;Other;"Validate XML File; is always returning ""no constraints detected"" - patch supplied";115244;ECLIPSE
+92332;WTP Source Editing;Other;Accidently included unintended 3PC code related to JS parser;92332;ECLIPSE
+105059;WTP Source Editing;Other;File protocol gets truncated in CMDocumentFactoryXSD.createCMDocument();105059;ECLIPSE
+102244;WTP Webservices;Other;Unable to Create Web Service in J2EE 1.4 Web Project;102244;ECLIPSE
+103401;WTP Webservices;Other;NullPointerException when associating service project with EAR project.;103401;ECLIPSE
+151614;WTP Webservices;Other;OverwriteFilesEnabled=true does not have any effect in ant tasks;https://bugs.eclipse.org/bugs/show_bug.cgi?id=151614;ECLIPSE
+221164;WTP Webservices;Other;Nullpointer Exception from WSDLNewFileOptionsPage;https://bugs.eclipse.org/bugs/show_bug.cgi?id=221164;ECLIPSE
+103065;WTP Webservices;Other;WSExplorer does not show any input field in the form view;103065;ECLIPSE
+101337;WTP Webservices;Other;WSDL in Java Project causes NPE in Web service Client wizard;101337;ECLIPSE
+387787;Xtend;Other;Xtend debugging intermittently stops working;https://bugs.eclipse.org/bugs/show_bug.cgi?id=387787;ECLIPSE
+395482;Xtend;Other;[debugger] line mapping different for Xtend-as-primary-source vs. SMAP;https://bugs.eclipse.org/bugs/show_bug.cgi?id=395482;ECLIPSE
+411185;Xtend;Other;Bug in generated code when method throws an exception in constructor;https://bugs.eclipse.org/bugs/show_bug.cgi?id=411185;ECLIPSE
+104432;z_Archived;Other;AC doesn't filter requests by interface;104432;ECLIPSE
+104433;z_Archived;Other;AC doesn't send error responses;104433;ECLIPSE
+105214;z_Archived;Other;TVT 3.1 - TCT 421 - Non-external string;105214;ECLIPSE
+230901;z_Archived;Other;Bug in JSDLJobDescription#getJSDLString;https://bugs.eclipse.org/bugs/show_bug.cgi?id=230901;ECLIPSE
+232394;z_Archived;Other;AgentController crashes when set to DEBUG log level;https://bugs.eclipse.org/bugs/show_bug.cgi?id=232394;ECLIPSE
+52872;z_Archived;Other;z/OS RAC ASCII/EBCDIC translation problem;52872;ECLIPSE
+57485;z_Archived;Other;IllegalArguementException in GoToSource action;57485;ECLIPSE
+60311;z_Archived;Other;Profiling Launch: IProfilingType.launch doesn't always get called;60311;ECLIPSE
+61131;z_Archived;Other;Deployment corrupts local jar files;61131;ECLIPSE
+63059;z_Archived;Other;Child lost on snippet update;63059;ECLIPSE
+63914;z_Archived;Other;Hyades M9 build breaks on 20040521 IES build;63914;ECLIPSE
+64121;z_Archived;Other;Renaming project with VE open crashes Eclipse;64121;ECLIPSE
+64904;z_Archived;Other;Perfmon agent remote registry connect fails;64904;ECLIPSE
+65155;z_Archived;Other;"Build break; PDE internal change";65155;ECLIPSE
+65166;z_Archived;Other;LINUX OS/390 ‚Äì RAC dies if terminate the java app through workbench;65166;ECLIPSE
+67495;z_Archived;Other;Non-English EMF CBE resources are corrupted.;67495;ECLIPSE
+67932;z_Archived;Other;JJet compilation of templates cause extra CR.\LF.;67932;ECLIPSE
+69494;z_Archived;Other;new visual bean wizard generates wrong code for OTHER;69494;ECLIPSE
+70092;z_Archived;Other;Exception error occurs when selecting SWT style on new Visual Class dialog;70092;ECLIPSE
+72897;z_Archived;Other;"Snippet update of all components caused remote vm to crash; error message";72897;ECLIPSE
+73930;z_Archived;Other;Deadlock between image refresh and instantiate;73930;ECLIPSE
+73952;z_Archived;Other;getClassPath in TemplateUtil always failing on Linux and OS-X;73952;ECLIPSE
+75110;z_Archived;Other;parameters/return value should be constructed only when there is data available;75110;ECLIPSE
+75725;z_Archived;Other;Application template puts settings in wrong order;75725;ECLIPSE
+80588;z_Archived;Other;"Importing log files from AIX fails altogether; causing the RAC to shut-down.";80588;ECLIPSE
+80709;z_Archived;Other;"HTTP Recorder doesn't stop; no test can be generated";80709;ECLIPSE
+80869;z_Archived;Other;Dynamic discovery not working properly;80869;ECLIPSE
+81446;z_Archived;Other;Dynamic discovery not working properly;81446;ECLIPSE
+82692;z_Archived;Other;Expose public access to existing method in internal package to enable access to Editor extensions;82692;ECLIPSE
+84349;z_Archived;Other;Opening a class with a SWT Shell throws StringIndexOutOfBoundsException;84349;ECLIPSE
+84701;z_Archived;Other;(Mon) When trying to import an HTTP access log file and error occurs;84701;ECLIPSE
+85012;z_Archived;Other;Properties view does not work in Eclipse 3.1;85012;ECLIPSE
+85470;z_Archived;Other;TableColumn data property issues;85470;ECLIPSE
+86931;z_Archived;Other;Error in JavaBeans Window;86931;ECLIPSE
+87116;z_Archived;Other;[perf] Load from model cache fails in second startup;87116;ECLIPSE
+87158;z_Archived;Other;Default JLabel text Incorrect;87158;ECLIPSE
+87162;z_Archived;Other;3.1 SWT GridLayout does not work correctly;87162;ECLIPSE
+87597;z_Archived;Other;Project clean doesn't work correctly;87597;ECLIPSE
+105723;z_Archived;Other;TVT 3.1 - TCT 526 - Translated strings not being pulled from NL fragment for japanese for preferences and help plugins;105723;ECLIPSE
+106080;z_Archived;Other;TVT 3.1: TCT573 TPTP - incorrect Decimal separator;106080;ECLIPSE
+106915;z_Archived;Other;"TVT 3.1: TCT 585 - ""Execution Verdict Decorator"" not translated";106915;ECLIPSE
+107046;z_Archived;Other;Untranslated in filters customization;107046;ECLIPSE
+107729;z_Archived;Other;When starting a RAC in a command prompt window I get an error when starting it;107729;ECLIPSE
+108525;z_Archived;Other;Remove references to Eclipse classes from standalone plugin;108525;ECLIPSE
+109773;z_Archived;Other;Remote import log files got an error message;109773;ECLIPSE
+111237;z_Archived;Other;Exception: org.eclipse.hyades.logging.events.cbe.ValidationException : IWAT0207;111237;ECLIPSE
+111994;z_Archived;Other;New AC: Failure to launch application results in dup of ProcessController;111994;ECLIPSE
+112362;z_Archived;Other;"Clients aren't notified if their agents deregister ; to add client listener notification";112362;ECLIPSE
+112377;z_Archived;Other;Validation failure with noValue EDE's;112377;ECLIPSE
+112695;z_Archived;Other;Run HyadesLoggingLog4JSample sample got compile error;112695;ECLIPSE
+112781;z_Archived;Other;"[Functionality; Reliability] Exception thrown by Agent Controller on remote host when launching remote test suite.";112781;ECLIPSE
+113281;z_Archived;Other;[Regression] NullPointerException when importing log file with filters from remote Linux IA32;113281;ECLIPSE
+113379;z_Archived;Other;Parsing of shipped sample Apache error log with default UTF-8 file encoding fails;113379;ECLIPSE
+113419;z_Archived;Other;Agent Manager ID is in agent ID range;113419;ECLIPSE
+113691;z_Archived;Other;Named pipe gets in blocking state;113691;ECLIPSE
+113976;z_Archived;Other;[Regression] Put file command in file system services fails on Linux;113976;ECLIPSE
+114018;z_Archived;Other;[Regression] Automation services framework failures on Windows;114018;ECLIPSE
+114936;z_Archived;Other;Rule for OtherSitutation gives error on GLA run;114936;ECLIPSE
+115009;z_Archived;Other;"[Platform Specific; Regression] Automation client adapter shell script incorrect";115009;ECLIPSE
+115177;z_Archived;Other;Exceptions thrown when opening Database Explorer View related to loading images;115177;ECLIPSE
+57058;z_Archived;Other;Configuration not picking up Profiling settings in certain cases;57058;ECLIPSE
+58268;z_Archived;Other;globalInstanceId and localInstanceId are null for all import log records;58268;ECLIPSE
+59290;z_Archived;Other;Perfmom Data Collection Agent launch configuration create 2 agents;59290;ECLIPSE
+59802;z_Archived;Other;Extensibility does not work at the second level in the 'requires' chain;59802;ECLIPSE
+59806;z_Archived;Other;"""Unknown"" method names appearing in the Method Statistics view";59806;ECLIPSE
+69675;z_Archived;Other;"SimpleAttributeDecoder; need parse tree for non-new type args too";69675;ECLIPSE
+94121;z_Archived;Other;ArrayIndexOutOfBoundsException when gathering data via Agent Controller;94121;ECLIPSE
+95570;z_Archived;Other;New Class Creation Wizard Fails for JFrame;95570;ECLIPSE
+95571;z_Archived;Other;RCP Launcher Fails;95571;ECLIPSE
+95955;z_Archived;Other;IllegalStateException: Expression type sent in invalid order;95955;ECLIPSE
+96100;z_Archived;Other;Eclipse crashes when checking out a large project from CVS;96100;ECLIPSE
+87968;z_Archived;Other;Changing Certain SWT Table Properties Causes Exceptions;87968;ECLIPSE
+90981;z_Archived;Other;(Plat) Configuration fails with JVM located in a directory name with double byte chars;90981;ECLIPSE
+91522;z_Archived;Other;Exceptions when editing layoutproperties;91522;ECLIPSE
+91526;z_Archived;Other;Link Message Box Errors;91526;ECLIPSE
+92566;z_Archived;Other;SWT Dropping Components causes Incorrect Code;92566;ECLIPSE
+96416;z_Archived;Other;Rename of ViewPart's parent argument not working;96416;ECLIPSE
+98417;z_Archived;Other;Incorrect code generated for EditorPart and ViewPart instances;98417;ECLIPSE
+98588;z_Archived;Other;(MON) Log import with filters of non-TPTP log file types is failing;98588;ECLIPSE
+103245;z_Archived;Other;(Provisional) Parallel transfer of files causing exception in base agent;103245;ECLIPSE
+88918;z_Archived;Other;Deleting a method/components may render the VE unusable;88918;ECLIPSE
+89572;z_Archived;Other;Agent launch configuration bugs;89572;ECLIPSE
+96437;z_Archived;Other;Choose Bean Dialog Exception;96437;ECLIPSE
+103240;z_Archived;Other;(Provisional) Timing issues with the Agent Tech Preview Linux build;103240;ECLIPSE
+103498;z_Archived;Other;Name Pipe TL not working properly on RH EL3;103498;ECLIPSE
+104434;z_Archived;Other;Clients aren't notified if their agents deregister;104434;ECLIPSE
+104825;z_Archived;Other;"TVT3.1: tct393 - ""TPTP Example IType Count Template"" is in";104825;ECLIPSE
+477459;Bugzilla;Other;"buglist.cgi crashes for logged out users if the ""Reporter"" column is displayed";https://bugzilla.mozilla.org/show_bug.cgi?id=477459;MOZILLA
+575097;Bugzilla;Other;New STS header in Bugzilla::CGI causes malformed header error due to lack of Content-Type naming;https://bugzilla.mozilla.org/show_bug.cgi?id=575097;MOZILLA
+157651;Bugzilla;Other;"review: Footer on create attachment page looks wrong.; v1";157651;MOZILLA
+159566;Bugzilla;Other;"review: list/list.html.tmpl: Error in hash initialisation; v1: move '}' one line down and add a comma.";159566;MOZILLA
+160205;Bugzilla;Other;"review: search/knob.html.tmpl: script type missing; space missing; v1: simple three-liner patch";160205;MOZILLA
+164645;Bugzilla;Other;"review: xml.cgi - attachments is broken and insiders not enforced; Fix";164645;MOZILLA
+166019;Bugzilla;Other;"review: checksetup gives torrent of cryptic errors if my_webservergroup is not found; die with sensible message";166019;MOZILLA
+166026;Bugzilla;Other;"review: On failure in template->new; a template is used to display error; Replace DisplayError with die";166026;MOZILLA
+169055;Bugzilla;Other;"review: Document CheckCanChangeField so sites can modify it for local needs; Patch v.1";169055;MOZILLA
+169059;Bugzilla;Other;"review: clean up format ambiguities; Patch v.2";169059;MOZILLA
+169064;Bugzilla;Other;"review: colchange.cgi is not localisable; Patch v.1";169064;MOZILLA
+169301;Bugzilla;Other;"review: Fix page.cgi's method of finding templates; Patch v.1";169301;MOZILLA
+169545;Bugzilla;Other;"review: boolean chart addition doesn't keep query template format; Patch v.1";169545;MOZILLA
+170251;Bugzilla;Other;"review: Regression - buglist highlighting broken; Patch";170251;MOZILLA
+171768;Bugzilla;Other;"review: Remove hard-coded titles and things; Patch A v.2";171768;MOZILLA
+172220;Bugzilla;Other;"review: Remove hard-coded titles and things; Patch B v.1";172220;MOZILLA
+173157;Bugzilla;Other;"review: Remove old reporting (most doomed etc.); Patch v.2";173157;MOZILLA
+174811;Bugzilla;Other;"review: field names should be l10n in user-errors.html.tmpl called by Add Estimated; Actual; Remaining Time Fields; Patch v.1";174811;MOZILLA
+179184;Bugzilla;Other;regetlastlist returns all bugs;https://bugzilla.mozilla.org/show_bug.cgi?id=179184;MOZILLA
+159602;Bugzilla;Other;"review: Templatise colchange.cgi; Patch v.1";159602;MOZILLA
+159902;Bugzilla;Other;"review: token.cgi: localize strings send to message.html.tmpl (Part one); v1: Patch token.cgi";159902;MOZILLA
+172218;Bugzilla;Other;"review: Templatise all calls to DisplayError; Patch D v.1";172218;MOZILLA
+173059;Camino Graveyard;Other;chimera crash on 10.2.1 while calling SetThemeCursor [@ QDIsPortBuffered];173059;MOZILLA
+2786;CCK;Other;Merge user.js program: Not correct out.js file is created.;2786;MOZILLA
+3176;CCK;Other;Creation of JSC component does not create an output .JSC file.;3176;MOZILLA
+3229;CCK;Other;Wrong error message is displayed on the DOS-box.;3229;MOZILLA
+16679;Core;Other;nsCookieService::GetCookieString returns NS_OK in all cases;16679;MOZILLA
+16682;Core;Other;[PP] Error in page loading;16682;MOZILLA
+17416;Core;Other;Recent fixes to nsChromeRegistry.cpp cause HP builds to fail;17416;MOZILLA
+1713;Core;Other;hr's don't float correctly.;1713;MOZILLA
+2540;Core;Other;Can't build current CVS Tree (21.1.99) Getting internal compiler error;2540;MOZILLA
+2798;Core;Other;warnings: hiding inherited virtual functions;2798;MOZILLA
+3531;Core;Other;Scribble (widget test) won't compile on AIX;3531;MOZILLA
+5234;Core;Other;Error in Makefile widget/src/xpwidgets;5234;MOZILLA
+6135;Core;Other;Crash on nsPluginsDirWin.cpp;6135;MOZILLA
+11154;Core;Other;"GetNextSibling returns node with value of child; not sibling";11154;MOZILLA
+11272;Core;Other;warnings / bugs in EditTable.cpp;11272;MOZILLA
+11458;Core;Other;compiler warning;11458;MOZILLA
+11575;Core;Other;ServiceImpl::UnregisterResource does not catch null uri;11575;MOZILLA
+12410;Core;Other;Assert/abort on this URL;12410;MOZILLA
+14733;Core;Other;Use of uninitialized class pointer;14733;MOZILLA
+14891;Core;Other;resource protocol handler not up to current XPCOM registry file location standards;14891;MOZILLA
+14899;Core;Other;RDF/XML datasource Refresh() sends bad notifications;14899;MOZILLA
+21884;Core;Other;[dogfood] crash visiting various websites in the image / networking code;21884;MOZILLA
+22140;Core;Other;crash on page (not reproducable);22140;MOZILLA
+25910;Core;Other;[talkback] random but high hit crash in cache code?;25910;MOZILLA
+26000;Core;Other;"reproducible crash; build id 200013114; NSGetModule() loop?";26000;MOZILLA
+32559;Core;Other;"Crashes every time; under Windows 98; with M14.";32559;MOZILLA
+38827;Core;Other;startDownload string not localizable;38827;MOZILLA
+42484;Core;Other;warning (bug!) when compiling nsUnicodeToGBK.cpp;42484;MOZILLA
+42635;Core;Other;nsToolboxFrame::HandleEvent hides inherited methods;42635;MOZILLA
+50012;Core;Other;Browser is crashing while loading big images( > 5MB);50012;MOZILLA
+84175;Core;Other;nsHTMLEditor::IsEmptyCell should be rewritten;84175;MOZILLA
+96284;Core;Other;"uneval(); Error.prototype.toSource() does not escape quotes correctly";96284;MOZILLA
+98764;Core;Other;"-remote 'openURL(""xyz"")' while no browser window up causes an unchromed browser window to display";98764;MOZILLA
+114208;Core;Other;last all.js checkin has bad useragent.override;114208;MOZILLA
+118014;Core;Other;Trunk M099 crashes [@ FrameManager::ReResolveStyleContext] [@ RuleProcessorData::RuleProcessorData][@ nsXULElement::GetID];118014;MOZILLA
+19923;Core;Other;view-source handles CDATA sections badly;19923;MOZILLA
+21276;Core;Other;Combo boxes submit %0D%0A for no value/label/content;21276;MOZILLA
+21328;Core;Other;[DOGFOOD] Enable network cache by default;21328;MOZILLA
+44149;Core;Other;improperly parented modal dialog in nsWalletService;44149;MOZILLA
+45245;Core;Other;warning in nsMenuBar.cpp;45245;MOZILLA
+57937;Core;Other;Accessing cross frame properties from signed jar file fails;57937;MOZILLA
+122872;Core;Other;mach-o bustage in nsNativeThemeMac.cpp;122872;MOZILLA
+128587;Core;Other;EUC-KR decoder : a bug in 8byte seq. rep. of Hangul syllables;128587;MOZILLA
+83613;Core ;Other;crash when I go to my 0.9.1 bug list, and then to my 0.9.2 bug list, Trunk & M091;https://Bugzilla.mozilla.org/show_bug.cgi?id=83613;MOZILLA
+103477;Core ;Other;rendering breaks (or crash) when going from tweakers.net to bugzilla - Trunk;https://Bugzilla.mozilla.org/show_bug.cgi?id=103477;MOZILLA
+162670;Core ;Other;browser hangs on bugzilla and bonsai pages;https://bugzilla.mozilla.org/show_bug.cgi?id=162670;MOZILLA
+344914;Core ;Other;"crash caused by GetImageData; buggy JSObject allocation";https://bugzilla.mozilla.org/show_bug.cgi?id=344914;MOZILLA
+587350;Core ;Other;Crash on startup from bug 580407;https://bugzilla.mozilla.org/show_bug.cgi?id=587350;MOZILLA
+843402;Core ;Other;Impossible to sanely debug JS::Value code because all the functions get inlined and can't be called by gdb;https://bugzilla.mozilla.org/show_bug.cgi?id=843402;MOZILLA
+307478;Core ;Other;Build failure with syntax error in nsDebug.h;https://bugzilla.mozilla.org/show_bug.cgi?id=307478;MOZILLA
+356670;Core ;Other;The ASCII text rendering is broken on Linux (regression of bug 356235);https://bugzilla.mozilla.org/show_bug.cgi?id=356670;MOZILLA
+10924;Core Graveyard;Other;Invoking Node->getFirstChild method dumps core;10924;MOZILLA
+10927;Core Graveyard;Other;Invoking Node->getLastChild method dumps core;10927;MOZILLA
+14712;Core Graveyard;Other;Loading photocube applet twice crashes apprunner.;14712;MOZILLA
+32573;Core Graveyard;Other;AutoTranslate does not translate Japanese pages into English;32573;MOZILLA
+36127;Core Graveyard;Other;AutoTranslate-Source Language detects this page as German;36127;MOZILLA
+44187;Core Graveyard;Other;LiveConnect crashes when Java not present;44187;MOZILLA
+48304;Core Graveyard;Other;"LiveConnect crash in gc_root_marker with (char*)he->value = ""member_val->field_val""";48304;MOZILLA
+55186;Core Graveyard;Other;crash on startup with IBM JRE;55186;MOZILLA
+99880;Core Graveyard;Other;Crash when clicking on links in Java applet;99880;MOZILLA
+54667;Core Graveyard;Other;psm hangs on solaris;54667;MOZILLA
+220450;Firefox;Other;Bugfix for 215981 kills build process of MozillaFirebird.;https://bugzilla.mozilla.org/show_bug.cgi?id=220450;MOZILLA
+588438;Graveyard;Other;[SkipList] Add mozalloc_abort and NS_DebugBreak_P to irrelevantSignatureRegEx;https://bugzilla.mozilla.org/show_bug.cgi?id=588438;MOZILLA
+387218;Graveyard;Other;Build bustage from bug 384374 landing;https://bugzilla.mozilla.org/show_bug.cgi?id=387218;MOZILLA
+182193;MailNews Core;Other;crash opening bugtraq-digest mails via IMAP, no error message;https://Bugzilla.mozilla.org/show_bug.cgi?id=182193;MOZILLA
+4166;MailNews Core;Other;unable to compile mozilla/mailnews/base/src/nsMsgMD5.cpp;4166;MOZILLA
+6496;MailNews Core;Other;[PP]Select Message|Mark|As Read crashes my system;6496;MOZILLA
+21670;MailNews Core;Other;mozilla Windows build of 12/13 crashes reading particular message;21670;MOZILLA
+61642;MailNews Core;Other;Browser crashed when navigating between folders in a POP mail account for Netscape 6.0.;61642;MOZILLA
+76259;MailNews Core;Other;Changing Headers View Causes Crash In NECKO.DLL;76259;MOZILLA
+85613;MailNews Core;Other;Crash if reading email when profile is non-local and another instance of mozilla is running;85613;MOZILLA
+168188;MailNews Core;Other;Cannot move mail from Subfolder of (IMAP-)INBOX to my Local Folders;168188;MOZILLA
+171121;MailNews Core;Other;Crash on multipart messages [@ nsProperties::Set ];171121;MOZILLA
+179285;MailNews Core;Other;Password isn't remembered or sent properly during auto-mass retrieval.;179285;MOZILLA
+158087;Mozilla;Other;dead link to cryptographic code;158087;MOZILLA
+183368;Mozilla;Other;Source for 1.2.1 is not available from FTP;183368;MOZILLA
+205795;Mozilla;Other;missing dot in chinese win32 Talkback enabled Zipfile;205795;MOZILLA
+131713;Mozilla;Other;Invalid Return in JavaScript;131713;MOZILLA
+2431;NSPR;Other;PL_GetNextOpt asserts if an option with an associated value is not immediately followed by its value.;2431;MOZILLA
+3949;NSPR;Other;NSPR gives me a compile error on Linux.;3949;MOZILLA
+424;SeaMonkey;Other;Warning fix: -DBSD on BSD platforms;424;MOZILLA
+838;SeaMonkey;Other;Mozilla fails to build correctly on any non-gcc/g++ HP-UX compiler;838;MOZILLA
+3150;SeaMonkey;Other;incomplete .zip file;3150;MOZILLA
+8163;SeaMonkey;Other;"EXPORT - interface methods on ""services"" - appcores";8163;MOZILLA
+8800;SeaMonkey;Other;[PP]Search Messages:open dropdowns don't collapse correctly;8800;MOZILLA
+14571;SeaMonkey;Other;__STDC__ in intl/uconv/src/Makefile.in;14571;MOZILLA
+14603;SeaMonkey;Other;Minor fixup to protypes.h for OpenVMS;14603;MOZILLA
+18858;SeaMonkey;Other;Warnings and error first time mozilla is run;18858;MOZILLA
+28043;SeaMonkey;Other;Mac build scripts can fail to pull NSPR;28043;MOZILLA
+29638;SeaMonkey;Other;compile-time error in nsWebShell.cpp on AIX-4.3.2;29638;MOZILLA
+33692;SeaMonkey;Other;"Netcenter search pages are supposedly UTF-8 encoded; but are sending back bad data";33692;MOZILLA
+34912;SeaMonkey;Other;JA: The orange gif in center of side bar panel rakuten [ichiba] produces a page not found error when clicked on in the sidebar pannel its self.;34912;MOZILLA
+35076;SeaMonkey;Other;"""Ticket OnlineEvents"" search extended char. problem";35076;MOZILLA
+35485;SeaMonkey;Other;"DE:PR1 investorworld spacing after ""Anmelden"" has to be fixed";35485;MOZILLA
+35486;SeaMonkey;Other;DE:PR1 investorworld link problems;35486;MOZILLA
+36675;SeaMonkey;Other;"""Save As"" doesn't work on OpenVMS";36675;MOZILLA
+42873;SeaMonkey;Other;Client generates corrupted UTF-8 for keyword search;42873;MOZILLA
+43160;SeaMonkey;Other;Profile Manager XML Parsing Error;43160;MOZILLA
+49288;SeaMonkey;Other;Crash accessing non existent jar files;49288;MOZILLA
+138724;SeaMonkey;Other;Mail/News startup Default Website defaced;138724;MOZILLA
+192220;SeaMonkey;Other;Bug 22056 checkin regressed Ts and Txul;https://Bugzilla.mozilla.org/show_bug.cgi?id=168029;MOZILLA
+24347;SeaMonkey;Other;[OpenVMS] Process hangs after quit;24347;MOZILLA
+28267;SeaMonkey;Other;HP-UX 11.00 Builds no longer run.;28267;MOZILLA
+45452;SeaMonkey;Other;Where the hell is Kerz;45452;MOZILLA
+54080;SeaMonkey;Other;OS/2 gmake choking on REGCHROME lines;54080;MOZILLA
+60944;SeaMonkey;Other;OS/2 - Mozilla stays in Window List.;60944;MOZILLA
+112785;SeaMonkey;Other;Multiple reciepients are shown wrong;112785;MOZILLA
+114802;SeaMonkey;Other;"Tab control misdrawn with Windows's ""Rainy Day"" in classic";114802;MOZILLA
+66289;Tech Evangelism Graveyard;Other;Unable to login at http://www.inbox.ru;66289;MOZILLA
+179025;Tech Evangelism Graveyard;Other;fic.com -- missing content due to malformed comment tags;179025;MOZILLA
+39918;Lenya;Other;[Refactoring] Rename *,getDocumentIdentityMap() to *,get(Document)Factory();39918;APACHE 
+913;Fop - Now in Jira;Other;faulty implementation of org,w3c,dom,css,CSSValue;913;APACHE 
+15585;Log4j - Now in Jira;Other;"log4j does not show Class Name; Method; or Line Number on AS400";15585;APACHE 
+WHIMSY-154;Whimsy;Other;Username display broken on whimsy.a.o;https://issues.apache.org/jira/browse/WHIMSY-154?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12312823%5D%20ASC;APACHE 
+STR-183;Struts;Other;struts-html.xml doesnt support 'file' tag 'size' attribute;https://issues.apache.org/jira/browse/STR-183?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+FOP-71;FOP;Other;text color not working after a page break;https://issues.apache.org/jira/browse/FOP-71?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+FOP-164;FOP;Other;aligning text to 'right';https://issues.apache.org/jira/browse/FOP-164?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+FOP-62;FOP;Other;Text alignment in table cells;https://issues.apache.org/jira/browse/FOP-62?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+4654;Fop - Now in Jira;Other;right align with euro symbol;4654;APACHE 
+917;Fop - Now in Jira;Other;this special character is not rendered correctly in the pdf,;917;APACHE 
+38719;Fop - Now in Jira;Other;Image loading in pdf,;38719;APACHE 
+1596;Fop - Now in Jira;Other;Adobe Acrobat claims Fop output has bad page contents;1596;APACHE 
+1180;Fop - Now in Jira;Other;Problem with monospaced font;1180;APACHE 
+1724;Fop - Now in Jira;Other;Text alignment in table cells;1724;APACHE 
+28875;Tomcat 5;Other;Multi-byte characters in default error page aren't printed out correctly,;28875;APACHE 
+1105;Fop - Now in Jira;Other;Problems font subset embedding;1105;APACHE 
+16929;Fop - Now in Jira;Other;Table rows of a table in a page body with two columns are ommitted on last page,;16929;APACHE 
+1136;Fop - Now in Jira;Other;Problems with UTF-8 hyphenation patterns;1136;APACHE 
+682;Fop - Now in Jira;Other;Lists do not display correctly;682;APACHE 
+57654;Apache httpd-2;Other;"Browsers can't display html documentation pages correctly (versions 2,0; 2,2; 2,4)";57654;APACHE 
+42909;Lenya;Other;Error screen is not displayed when usecase failed;42909;APACHE 
+43884;Lenya;Other;Site overview not displayed if dublin core title is empty;43884;APACHE 
+1242;Fop - Now in Jira;Other;Error in Font-Documentation;1242;APACHE 
+39285;Fop - Now in Jira;Other;Attempt to render xml with inline image causes java,lang,OutOfMemoryError;39285;APACHE 
+51760;Fop - Now in Jira;Other;[PATCH] PostScript PDF-image causes error;51760;APACHE 
+34033;Tomcat 5;Other;Cannot delete users using Administration Tool webapp (HTTP 500 error);34033;APACHE 
+1341;Fop - Now in Jira;Other;the chinese font cannot view all;1341;APACHE 
+36875;Lenya;Other;NPE: Area is missing in site view;36875;APACHE 
+651;Fop - Now in Jira;Other;PFMReader throws Exception: No scheme found in URI: charlist,xml;651;APACHE 
+32174;Fop - Now in Jira;Other;Rendering fails with IndexOutOfBoundsException in LineLayoutManager;32174;APACHE 
+41503;Fop - Now in Jira;Other;IndexOutOfBoundsException when missing fo:table-cell column-number and number-rows-spanned used in the same fo:table;41503;APACHE 
+40634;Fop - Now in Jira;Other;Horizontal space needed for a text block is always too large;40634;APACHE 
+1923;Fop - Now in Jira;Other;text-decoration does not work;1923;APACHE 
+684;Fop - Now in Jira;Other;border width in tables adds up;684;APACHE 
+1474;Fop - Now in Jira;Other;fo:external-graphic rendered as block level object;1474;APACHE 
+1261;Fop - Now in Jira;Other;problem with rendering of external-graphic in Fop-18;1261;APACHE 
+43089;Fop - Now in Jira;Other;[PATCH] PDFRenderer - text-decoration (e,g, underline) not being renderered with Type1 fonts;43089;APACHE 
+953;Fop - Now in Jira;Other;Incorrect hyperlinks area rendering in justified text blocks;953;APACHE 
+43975;Fop - Now in Jira;Other;right border of cell spanning multiple columns is not rendered;43975;APACHE 
+40048;Fop - Now in Jira;Other;When using AWTRenderer for printing of document incorrect imageable area is specified in java,awt,print,PageFormat;40048;APACHE 
+45152;Fop - Now in Jira;Other;Solid bottom border not rendered correctly since 0,94;45152;APACHE 
+48167;Fop - Now in Jira;Other;[PATCH] CMYK colors converted to RGB when not provided <fo:declarations> tag;48167;APACHE 
+47690;Fop - Now in Jira;Other;Tables on multi-column pages sometimes come out wrong;47690;APACHE 
+1130;Fop - Now in Jira;Other;Alignment of page-number-citation inside a ToC;1130;APACHE 
+1618;Fop - Now in Jira;Other;Bug with fo:page-number-citation and CID fonts;1618;APACHE 
+1363;Fop - Now in Jira;Other;backgroud-color in fo:table-cell and fo:table-column produce no output;1363;APACHE 
+1795;Fop - Now in Jira;Other;table-cell background colour doesn't work,;1795;APACHE 
+1972;Fop - Now in Jira;Other;text color not working after a page break;1972;APACHE 
+42878;Lenya;Other;Asset properties (size etc,) are stored in the download link;42878;APACHE 
+49835;Fop - Now in Jira;Other;Wrong page break with 2 columned region and tables;49835;APACHE 
+44621;Fop - Now in Jira;Other;Wrong generation of merged elements if footer has thicker borders than normal;44621;APACHE 
+39215;Fop - Now in Jira;Other;[PATCH] To render GIF external images in RTF output via PNG;39215;APACHE 
+35656;Fop - Now in Jira;Other;"Setting the property ""width"" on cell does not take effect,";35656;APACHE 
+43616;Fop - Now in Jira;Other;Extra space added after table under some circumstances;43616;APACHE 
+36475;Fop - Now in Jira;Other;Background-color attribute handling for fo:block in RTF rendering;36475;APACHE 
+40672;Lenya;Other;BXE menu images do not show;40672;APACHE 
+20539;Lenya;Other;"""Live Sites"" section on website: ""File not found""";20539;APACHE 
+1571;Fop - Now in Jira;Other;Multolingual support in converting xml - pdf;1571;APACHE 
+49870;Fop - Now in Jira;Other;Border-right not visible if hyphenation is activated;49870;APACHE 
+41631;Fop - Now in Jira;Other;Percentages in proportional-column-width() not supported;41631;APACHE 
+44289;Fop - Now in Jira;Other;Wrong border resolution when header/footer omitted at break;44289;APACHE 
+32617;Lenya;Other;Saving a document in the default pub produces multiple html meta charset entries;32617;APACHE 
+40122;Fop - Now in Jira;Other;table header is missing when table is inside a list and splitted;40122;APACHE 
+734;Ant;Other;Filter doc example misleading for usage;734;APACHE 
+36934;Fop - Now in Jira;Other;The collapsing border model on an fo:table is currently not supported by FOP;36934;APACHE 
+21955;Apache httpd-2;Other;Dynamically generated HTML pages compressed with mod_deflate are sometimes truncated;21955;APACHE 
+36394;Fop - Now in Jira;Other;fo:character generates invalid PDF;36394;APACHE 
+11040;CDT;Other;ensure that launcher does not launch if selected project is closed;11040;ECLIPSE
+12713;CDT;Other;remote editing of files;12713;ECLIPSE
+233988;Community;Other;Maintaining bugzilla data for technology.mat;https://bugs.eclipse.org/bugs/show_bug.cgi?id=233988;ECLIPSE
+258847;Community;Other;Committer nomination failing with a known good Bugzilla address;https://bugs.eclipse.org/bugs/show_bug.cgi?id=258847;ECLIPSE
+484082;EPP;Other;Description of bug in Events area should stretch with area;https://bugs.eclipse.org/bugs/show_bug.cgi?id=484082;ECLIPSE
+5290;JDT;Other;Source does not show up on debug;5290;ECLIPSE
+188871;PDT;Other;"PHP Preferences - in servers page - add a ""make default"" in servers and executables (currently only in debug page)";https://bugs.eclipse.org/bugs/show_bug.cgi?id=188871;ECLIPSE
+240305;PDT;Other;[regression] PHP Debug perspective - Debug view - 'Use step filters' button is enabled;https://bugs.eclipse.org/bugs/show_bug.cgi?id=240305;ECLIPSE
+50767;Platform;Other;Debug annotations not going away;https://bugs.eclipse.org/bugs/show_bug.cgi?id=50767;ECLIPSE
+8021;Platform;Other;NPE attempting to Show View Menu for a view that does not have this menu;8021;ECLIPSE
+14255;Platform;Other;DBCS: Add from Local History incorrect for DBCS project name;14255;ECLIPSE
+16944;Platform;Other;need default hpux fonts to be defined;16944;ECLIPSE
+29428;Platform;Other;DBCS: Pasted string can't be shown correctly in Search dialog;29428;ECLIPSE
+30576;Platform;Other;DBCS: DBCS project name cannot retrieve from CVS repository;30576;ECLIPSE
+31627;Platform;Other;DBCS: Perspective change caused core dump after adding DBCS project to the workspace;31627;ECLIPSE
+32283;Platform;Other;[Dialogs] widget is disposed in open type dialog;32283;ECLIPSE
+46637;z_Archived;Other;Coverage Statistics view deletes all the Java packages in the agent but default package;46637;ECLIPSE
+56568;z_Archived;Other;Show lifeline name when scroll down the view;56568;ECLIPSE
+56632;z_Archived;Other;(M8) Missing icon: link with viewer;56632;ECLIPSE
+56666;z_Archived;Other;log graph node expend and collapse support in log interactions view;56666;ECLIPSE
+56669;z_Archived;Other;show correlations of group log node base on user selection;56669;ECLIPSE
+57684;z_Archived;Other;"When no profiling is selected; UI should set TRACE_MODE to ""none""";57684;ECLIPSE
+67470;z_Archived;Other;Widgets with no text don't show on Composite w/GridLayout;67470;ECLIPSE
+67473;z_Archived;Other;Launched app w/Composite and Gridlayout doesn't show controls;67473;ECLIPSE
+73236;z_Archived;Other;SWT ToolItem figure doesn't position correctly in graph viewer;73236;ECLIPSE
+75898;z_Archived;Other;Profile to file doesn't create UTF-8 compliant files;75898;ECLIPSE
+81913;z_Archived;Other;Problems setting BoxLayout with under a TabbedPane;81913;ECLIPSE
+87181;z_Archived;Other;MoreSwingComponents not rendering properly;87181;ECLIPSE
+87557;z_Archived;Other;Editor fails to open - throws NPEs;87557;ECLIPSE
+87572;z_Archived;Other;Snippet update kicking in during top down updates;87572;ECLIPSE
+105551;z_Archived;Other;Editing RCP Mail causes codegen to write syntax errors;105551;ECLIPSE
+105780;z_Archived;Other;TVT 3.1 - TCT 545 - Probekit-detected Problem untranslated in Filters Customization;105780;ECLIPSE
+107023;z_Archived;Other;"TVT 3.1 - About > Plugins contains plug-in names "" #%plugin.name";107023;ECLIPSE
+108442;z_Archived;Other;Unable to add Equivalence classes to the datapool;108442;ECLIPSE
+115325;z_Archived;Other;Refresh' in Profiling Monitor view without saving lost active attach agent(s);115325;ECLIPSE
+56908;z_Archived;Other;Properties action object contribution for Log Node/Correlations;56908;ECLIPSE
+57264;z_Archived;Other;ensureVisible(GraphNode) does not show selection;57264;ECLIPSE
+58349;z_Archived;Other;TargetVM does not refresh;58349;ECLIPSE
+58399;z_Archived;Other;Sometimes the Console contents are wiped when profiling;58399;ECLIPSE
+69372;z_Archived;Other;New Visual Class wizard: extend Composite gens bad code and errors;69372;ECLIPSE
+73121;z_Archived;Other;Deleting populated TabFolder causes editor to hang until remote vm times out;73121;ECLIPSE
+73384;z_Archived;Other;SWT ToolItem problems with modeling and setting styles;73384;ECLIPSE
+103877;z_Archived;Other;Pause/Reload doesnt display UI editparts correctly for CardLayout;103877;ECLIPSE
+96455;z_Archived;Other;JVECDGEN01: Changing location annotations does not update GUI;96455;ECLIPSE
+99869;z_Archived;Other;Accessibility: Method invocation details table not accessible using keyboard only;99869;ECLIPSE
+100000;z_Archived;Other;Accessibility:Screen reader unable to read text in the manual test execution application;100000;ECLIPSE
+87722;z_Archived;Other;Reload of a dirty editor causes the cache to be written even though file wasn't saved;87722;ECLIPSE
+88522;z_Archived;Other;NPE with Customize Layout dialog and switching tabs in TabFolder;88522;ECLIPSE
+91571;z_Archived;Other;SWT Launcher causes huge Composites;91571;ECLIPSE
+93268;z_Archived;Other;Incorrect Ordering for Swing Components;93268;ECLIPSE
+99380;z_Archived;Other;JVELAYT01: Change Location Property then Undo Hides control;99380;ECLIPSE
+99658;z_Archived;Other;SWT renderer does not support horizontal bar and horizontal stack bar charts;99658;ECLIPSE
+105010;z_Archived;Other;TVT3.1: tct 416-BIDI icon not flipped in the product-PDE;105010;ECLIPSE
+124920;Bugzilla;Other;Templatise post_bug.cgi;https://Bugzilla.mozilla.org/show_bug.cgi?id=124920;MOZILLA
+125660;Bugzilla;Other;Templatise process_bug.cgi;https://Bugzilla.mozilla.org/show_bug.cgi?id=125660;MOZILLA
+133425;Bugzilla;Other;Audit show_bug.html.tmpl for FILTER usage;https://bugzilla.mozilla.org/show_bug.cgi?id=133425;MOZILLA
+159576;Bugzilla;Other;"review: Add <label> to email prefs; v2: Update using account/prefs/email.html.tmpl";159576;MOZILLA
+159639;Bugzilla;Other;"review: search/knob.html.tmpl should use <label> for the radiobuttons; v2: Add <label> to the check/radiobuttons of search/knob.html.tmpl";159639;MOZILLA
+159688;Bugzilla;Other;"review: bug/create/create.html.tmpl should use <label>; Patch for the group permission checkboxes in bug/create/create.html.tmpl";159688;MOZILLA
+159689;Bugzilla;Other;"review: attachment/*.tmpl should use <label>; v1: Patch ./edit.html.tmpl and ./create.html.tmpl in ./attachment/*";159689;MOZILLA
+175127;Bugzilla;Other;"review: Turn ""all selected"" into ""none selected"" for efficiency; Patch v.2";175127;MOZILLA
+176425;Bugzilla;Other;"review: Turn ""all selected"" into ""none selected"" for efficiency; Patch v.3";176425;MOZILLA
+178071;Bugzilla;Other;"review: Turn ""all selected"" into ""none selected"" for efficiency; Patch v.3";178071;MOZILLA
+178298;Bugzilla;Other;"review: Button ""Add another boolean chart"" appears twice after clicking ""And""; Patch v.1";178298;MOZILLA
+330186;Bugzilla;Other;Crash when changing the status of a bug which has dependencies;https://bugzilla.mozilla.org/show_bug.cgi?id=330186;MOZILLA
+852072;Bugzilla;Other;"Setting a flag (from attachment details, or while uploading an attachment) results in ""Missing bug ID""";https://bugzilla.mozilla.org/show_bug.cgi?id=852072;MOZILLA
+169854;Bugzilla;Other;"review: More <link> elements & templatization of navigation_links; Patch v.1";169854;MOZILLA
+5860;Core;Other;[4.xP] GIF does not serve as link;5860;MOZILLA
+9877;Core;Other;Related Links titles get displayed over scroll bar arrows;9877;MOZILLA
+13492;Core;Other;Menu accesskey (shortcut key) info should be in DTD.;13492;MOZILLA
+14783;Core;Other;Make normally empty inline elements (e.g. named anchor) visible in editor;14783;MOZILLA
+33971;Core;Other;[REFLOW]Entire HTML content area repaints when mousing over a link;33971;MOZILLA
+48142;Core;Other;horizontal rules don't center correctly over a floating table;48142;MOZILLA
+53381;Core;Other;Italics are measured and rendered incorrectly;53381;MOZILLA
+67497;Core;Other;[MF][BTN][FIX]buttons text isn't shown when using HTML strict and css height;67497;MOZILLA
+67499;Core;Other;Javascript won't change image over frames;67499;MOZILLA
+76238;Core;Other;Suggested Baltic fonts are only iso-8859-4;76238;MOZILLA
+85859;Core;Other;Sun's Copy/Cut/Paste key don't work on HTML Editor;85859;MOZILLA
+90527;Core;Other;Lack of semicolons on escape characters causes browser to crash;90527;MOZILLA
+93586;Core;Other;Character coding can't be applied to the ALL frame of the homepage.;93586;MOZILLA
+106056;Core;Other;setting image source via dom methods no longer working;106056;MOZILLA
+24599;Core;Other;CJK titles/links on Sidebar Related Links displayed garbage;24599;MOZILLA
+47520;Core;Other;"Auto translate feature ""View Original"" shows a blank page";47520;MOZILLA
+80268;Core ;Other;html form select is broken so cannot use Bugzilla for reporting, updating or querying bugs;https://Bugzilla.mozilla.org/show_bug.cgi?id=80268;MOZILLA
+143917;Core ;Other;Incorrect form submission on bug pages (wrong form submitted);https://bugzilla.mozilla.org/show_bug.cgi?id=143917;MOZILLA
+596410;Core ;Other;Shadow layers on android broken by bug 594553;https://bugzilla.mozilla.org/show_bug.cgi?id=596410;MOZILLA
+866417;Firefox;Other;Virtual keyboard taking full screen after bug 860318;https://bugzilla.mozilla.org/show_bug.cgi?id=866417;MOZILLA
+72429;Graveyard;Other;Bugzilla helper is broken;https://Bugzilla.mozilla.org/show_bug.cgi?id=72429;MOZILLA
+172808;MailNews Core;Other;words between < and > is not displayed (in bugmail);https://Bugzilla.mozilla.org/show_bug.cgi?id=172808;MOZILLA
+211222;MailNews Core;Other;Entering a # in the smtp auth username textbox results in the smtp servers name dissapearing from the smtp server dropdown list (Mozilla Mail 1.3);211222;MOZILLA
+39033;Mozilla Localizations;Other;<IFRAME> tag not supported correctly;39033;MOZILLA
+119639;Mozilla Localizations;Other;Mail & Nieuws | Account instellingen | Cancel->Annuleren;119639;MOZILLA
+26869;SeaMonkey;Other;Mac loses 4 pixels at top of browser window;26869;MOZILLA
+33997;SeaMonkey;Other;JA: A gray dotted outline appears around the edge of the pull-down menu and the submit buttons. .;33997;MOZILLA
+34001;SeaMonkey;Other;"First pull-down menu form the top; when an idem is selected form this menu and you hit the go button the host is not resolved constantly.";34001;MOZILLA
+34005;SeaMonkey;Other;JA: Rakuten. The target page of the third link from bottom appears to have moved;34005;MOZILLA
+34922;SeaMonkey;Other;JA:PR2 there are two eBay links with same name;34922;MOZILLA
+35014;SeaMonkey;Other;DE:PR1 eBay item in pull-down list spelled wrong;35014;MOZILLA
+35016;SeaMonkey;Other;DE:PR1 eBay items in pull-down not alphabetized;35016;MOZILLA
+35020;SeaMonkey;Other;"DE:PR1 change ""Events"" to ""Highlights"" in eBay pull-down list";35020;MOZILLA
+35078;SeaMonkey;Other;"DE:PR1 ""investorworld-Finanzcommunity"" search problem";35078;MOZILLA
+35539;SeaMonkey;Other;"DE: Investor World; Arrow image next to ‚ÄòAnmelden‚Äô appears too high";35539;MOZILLA
+35599;SeaMonkey;Other;DE:PR1 investorworld logo doesn't fit into panel;35599;MOZILLA
+35671;SeaMonkey;Other;DE:PR1 some sidebar items don't fit the default panel size;35671;MOZILLA
+36586;SeaMonkey;Other;Some content doesn't fit vertically in panels;36586;MOZILLA
+37263;SeaMonkey;Other;FR/DE:PR1 ALaFolie's background image is duplicated in tab window;37263;MOZILLA
+37418;SeaMonkey;Other;DE:PR1 alafolie.de not appearing in sidebar customization;37418;MOZILLA
+37726;SeaMonkey;Other;DE:PR1 alafoli.de links take user to FR pages;37726;MOZILLA
+52470;SeaMonkey;Other;Clicking off of Browser Menu selection doesn't close Warpzilla menus;52470;MOZILLA
+74071;SeaMonkey;Other;priority color should be for all text columns;74071;MOZILLA
+91077;SeaMonkey;Other;"""Hyper Text Markup Language"" should be ""HyperText Markup Language""";91077;MOZILLA
+111309;SeaMonkey;Other;Page location is not preserved when going back inside any tab after the 1st one;111309;MOZILLA
+124625;SeaMonkey;Other;Linked image files truncated to 16kB after editing image links in source view;124625;MOZILLA
+190642;SeaMonkey;Other;emails disappearing from mail folders;190642;MOZILLA
+29793;SeaMonkey;Other;"Panels window is empty; cannot add new panels to Sidebar";29793;MOZILLA
+39613;SeaMonkey;Other;Default Sidebar Tabs open are not according to spec;39613;MOZILLA
+52467;SeaMonkey;Other;Default popup text and text background colours are difficult to read on Warpzilla.;52467;MOZILLA
+52476;SeaMonkey;Other;Incorrect build ID in Warpzilla titlebar;52476;MOZILLA
+77660;SeaMonkey;Other;"Cannot ""Grab"" separator bar in three-pane view to resize";77660;MOZILLA
+36293;Tech Evangelism Graveyard;Other;bil.lu - Page doesn't display everything;36293;MOZILLA
+60732;Tech Evangelism Graveyard;Other;JavaScript drop-down menus don't work;60732;MOZILLA
+96222;Tech Evangelism Graveyard;Other;Missing header images on Tiny Software web site.;96222;MOZILLA
+152059;Tech Evangelism Graveyard;Other;text when typing in input box is not viewable because it is too small;152059;MOZILLA
+88433;Toolkit;Other;The homepage field in my stored info will not get remembered.;88433;MOZILLA
+1067;Log4j - Now in Jira;Other ;Exception when using a badly formed layout;1067;APACHE 
+50471;Fop - Now in Jira;Other ;Greek Extended character throwing ArrayIndexOutOfBoundException,;50471;APACHE 
+44307;Lenya;Other ;Exception when editing new German document with Kupu;44307;APACHE 
+33516;Fop - Now in Jira;Other ;"text-align=""end"" doesn't work properly";33516;APACHE 
+35534;Fop - Now in Jira;Other ;fo document output is placed in page margins;35534;APACHE 
+34988;Lenya;Other ;[info area] sitetree not reloaded after cut & paste;34988;APACHE 
+41342;Lenya;Other ;No UUIDs used for image links;41342;APACHE 
+45503;Fop - Now in Jira;Other ;Cannot find font if font family name contains space;45503;APACHE 
+50089;Fop - Now in Jira;Other ;Content after forced break in block-container is not rendered;50089;APACHE 
+36432;Fop - Now in Jira;Other;[PATCH] JAI image does not release all resources / LinkageError not caught;36432;APACHE
+49281;Fop - Now in Jira;Other;Release version 1,0;49281;APACHE
+42029;Fop - Now in Jira;Other;Wrong title on the FOP 0,93 Release Notes page;42029;APACHE
+422117;Sirius;Other;Create all the bugzilla milestones and versions for Sirius up to 1.0.0;https://bugs.eclipse.org/bugs/show_bug.cgi?id=422117;ECLIPSE
+104677;WTP Java EE Tools;Other;Evaluate use of utility classes for components and push down API to models;104677;ECLIPSE
+216423;z_Archived;Other;[Test Project] [Web] [Matrix] Update the TPTP Matrix and Bugzilla component owners.;https://bugs.eclipse.org/bugs/show_bug.cgi?id=216423;ECLIPSE
+109807;z_Archived;Other;Project summary;109807;ECLIPSE
+159790;Bugzilla;Other;2.18 Release Tracking Bug;https://Bugzilla.mozilla.org/show_bug.cgi?id=159790;MOZILLA
+277515;Bugzilla;Other;Release Announcement for Bugzilla 2.18, 2.16.8, and 2.19.2;https://bugzilla.mozilla.org/show_bug.cgi?id=277515;MOZILLA
+278298;Bugzilla;Other;Release Notes for Bugzilla 2.16.8;https://bugzilla.mozilla.org/show_bug.cgi?id=278298;MOZILLA
+329189;Bugzilla;Other;Release Bugzilla 2.20.2, 2.22, and 2.23.1;https://bugzilla.mozilla.org/show_bug.cgi?id=329189;MOZILLA
+370732;Bugzilla;Other;Update bugzilla-update.xml for Bugzilla 3.0 RC1;https://bugzilla.mozilla.org/show_bug.cgi?id=370732;MOZILLA
+374620;Bugzilla;Other;Release of Bugzilla 3.0;https://bugzilla.mozilla.org/show_bug.cgi?id=374620;MOZILLA
+947150;Bugzilla;Other;Release notes for Bugzilla 4.4.2;https://bugzilla.mozilla.org/show_bug.cgi?id=947150;MOZILLA
+1072487;Bugzilla;Other;Release Bugzilla 4.5.6, 4.4.6, 4.2.11 and 4.0.15;https://bugzilla.mozilla.org/show_bug.cgi?id=1072487;MOZILLA
+1118964;Bugzilla;Other;Release Bugzilla 5.0rc1, 4.4.7, 4.2.12, and 4.0.16;https://bugzilla.mozilla.org/show_bug.cgi?id=1118964;MOZILLA
+7535;SeaMonkey;Other;spec list of components required for each install/distribution package;7535;MOZILLA
+51928;Fop - Now in Jira;Other ;[PATCH] Upgrade to JUnit4;51928;APACHE
+HTTPCORE-95;HttpComponents HttpCore;Other;refactor HttpRequestExecutor and AsyncHttpProcessor;https://issues.apache.org/jira/browse/HTTPCORE-95?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+HTTPCLIENT-51;HttpComponents HttpClient;Other;Redefine HttpClient vs HttpMultiClient interface for 2.0;https://issues.apache.org/jira/browse/HTTPCLIENT-51?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+15382;JMeter;Other;Scripts using HTTP Redirects difficult to debug;https://bz.apache.org/bugzilla/show_bug.cgi?id=15382;APACHE 
+INFRA-15500;Infrastracture;Other;IP adresses banned/blacklisted on apache.org;https://issues.apache.org/jira/browse/INFRA-15500?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12312823%5D%20ASC;APACHE 
+STR-23;Struts;Other;URL Encoding of jsessionid when browser supports cookies;https://issues.apache.org/jira/browse/STR-23?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+CACTUS-9;Cactus;Other;AutoReadHttpURLConnection automatically follows redirects;https://issues.apache.org/jira/browse/CACTUS-9?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-155;Struts;Other;SSL connection gives error 500: NullPointerExeption at at org.apache.struts.taglib.html.LinkTag.hyperlink(LinkTag.java:497);https://issues.apache.org/jira/browse/STR-155?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-200;Struts;Other;Connection Pool does not handle stale (closed) connections;https://issues.apache.org/jira/browse/STR-200?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+JS2-382;Jetspeed;Other;HTTP Status 403 - SecurityConstraintsImpl.checkConstraints(): Access for view not permitted;https://issues.apache.org/jira/browse/JS2-382?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+HTTPCLIENT-560;HttpComponents HttpClient;Other;entities and connection handling incomplete;https://issues.apache.org/jira/browse/HTTPCLIENT-560?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+8996;Apache httpd-2;Other;Incorrect bytes sent logged for aborted connection;8996;APACHE 
+54690;Tomcat 7;Other;HTTPS BIO/NIO connector does not enable TLS 1,1 and TLS 1,2 by default;54690;APACHE 
+58621;Tomcat 9;Other;HTTP APR connector does not supply certificate chain;58621;APACHE 
+40938;Tomcat Connectors;Other;"IIS Tomcat Connector URL Rewrite only works in ""debug"" mode";40938;APACHE 
+40965;Tomcat Connectors;Other;Uninitialised jk_ws_service_t fields prevent AJP13 connection reuse and cause flushing;40965;APACHE 
+41530;Tomcat 6;Other;stopping a connector produces intermittent SocketException;41530;APACHE 
+347610;Community;Other;Major bug on EclipseCon NA 2011 web page : Unable to connect to the database server at this time.;https://bugs.eclipse.org/bugs/show_bug.cgi?id=347610;ECLIPSE
+204216;Data Tools;Other;DSE connections should be registered in SQL Debugger framework;https://bugs.eclipse.org/bugs/show_bug.cgi?id=204216;ECLIPSE
+197579;PDT;Other;Window > Preferences > PHP > Debug will break if an invalid server config is entered and cannot be fixed;https://bugs.eclipse.org/bugs/show_bug.cgi?id=197579;ECLIPSE
+169060;PDT;Other;When connecting to a non-existing debugger or wrong version debugger - no message appears;https://bugs.eclipse.org/bugs/show_bug.cgi?id=169060;ECLIPSE
+478402;PDT;Other;Debugging with xDebug over SSH Tunnel doesn't work;https://bugs.eclipse.org/bugs/show_bug.cgi?id=478402;ECLIPSE
+137052;WPT ServerTools;Other;Two “Generic Server” entries in Run/Debug dialog;https://bugs.eclipse.org/bugs/show_bug.cgi?id=137052;ECLIPSE
+145538;WPT ServerTools;Other;"""Restart the server"" option in ""Run/Debug/Profile On Server"" dialog";https://bugs.eclipse.org/bugs/show_bug.cgi?id=145538;ECLIPSE
+100441;WTP Java EE Tools;Other;class path errors after ejb jar import with server target;100441;ECLIPSE
+62674;z_Archived;Other;SSL recording no longer works;62674;ECLIPSE
+111015;z_Archived;Other;"[Regression; Linux] Socket reader class receives -1 and disconnects connection";111015;ECLIPSE
+233121;z_Archived;Other;[tml][protocol][bug] There is no support for proxies when connecting the protocol;https://bugs.eclipse.org/bugs/show_bug.cgi?id=233121;ECLIPSE
+187020;Camino Graveyard;Other;the connection was refused message should ignore ip addressess == 0.0.0.0;187020;MOZILLA
+24711;Core;Other;HTTP needs to arbitrarily retrieve data;24711;MOZILLA
+18434;Core;Other;[Dogfood]Need to implement nsHTTPChannel::OpenInputStream;18434;MOZILLA
+73016;Core ;Other;Unable to file/update bugs in bugzilla;https://Bugzilla.mozilla.org/show_bug.cgi?id=73016;MOZILLA
+96480;Core ;Other;we're sometimes submitting the wrong thing to bugzilla;https://Bugzilla.mozilla.org/show_bug.cgi?id=96480;MOZILLA
+718541;Core ;Other;"Can't build a working optimized Windows from trunk since bug 715821 landed; resulting build crashes on startup and attempting to build installer crashes during build";https://bugzilla.mozilla.org/show_bug.cgi?id=718541;MOZILLA
+322987;Graveyard;Other;Enable SSL on landfill.bugzilla.org (for QA testing);https://bugzilla.mozilla.org/show_bug.cgi?id=322987;MOZILLA
+611133;Graveyard;Other;BzAPI cannot connect to bugzilla.mozilla.org;https://bugzilla.mozilla.org/show_bug.cgi?id=611133;MOZILLA
+420007;Graveyard;Other;fxdbug-linux-tbox wont restart;https://bugzilla.mozilla.org/show_bug.cgi?id=420007;MOZILLA
+608618;Graveyard;Other;"""Internal Server Error"" messages when loading pages from bugzilla.mozilla.org";https://bugzilla.mozilla.org/show_bug.cgi?id=608618;MOZILLA
+730947;MailNews Core;Other;local (POP3) move filter ends up corrupting messages, even after fix of bug 736539;https://bugzilla.mozilla.org/show_bug.cgi?id=730947;MOZILLA
+824459;MailNews Core;Other;Thunderbird build is broken after Bug 807678 (error: no matching function for call to ‘nsIDNSRecord::GetNextAddr(int, PRNetAddr*)’);https://bugzilla.mozilla.org/show_bug.cgi?id=824459;MOZILLA
+54816;Tech Evangelism Graveyard;Other;mozilla not identified;54816;MOZILLA
+44255;Fop - Now in Jira;Other;Data URI Support for RTF ExternalGraphic Throws Null Pointer Exception;44255;APACHE 
+49678;APR;Other;getRemoteAddr() returns IPv6 address on RedHat 9 when IPv6 is disabled;49678;APACHE 
+35081;Apache httpd-2;Other;buffer overrun in ssl_callback_SSLVerify_CRL( ) (ssl_engine_kernel,c);35081;APACHE 
+658503;MailNews Core;Other;Landing of |Bug 654201 - avoid nsHttpConnection::IsAlive() running event loop for unused SSL connections| broke nsImapProtocol;https://bugzilla.mozilla.org/show_bug.cgi?id=658503;MOZILLA
+SVN-472;Subversion;Other;"""svn up"" fails if too much svndiff data received";https://issues.apache.org/jira/browse/SVN-472?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XERCESC-211;Xerces-C++;Other;Memory allocation problem in DOMString class;https://issues.apache.org/jira/browse/XERCESC-211?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XERCESC-33;Xerces-C++;Other;memory leaks in DOM_Element::setAttribute;https://issues.apache.org/jira/browse/XERCESC-33?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XERCESC-102;Xerces-C++;Other;Huge performance problem with the parser in XMLScanner::sendCharData();https://issues.apache.org/jira/browse/XERCESC-102?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+JELLY-148;Commons Jelly;Other;Huge memory leak resulting from the use of ThreadLocal;https://issues.apache.org/jira/browse/JELLY-148?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+46319;Fop - Now in Jira;Other;OutOfMemoryError after generating several thousand pdfs;46319;APACHE 
+1179;ORO;Other;Infinite loop when matching regular expression (Jakarta-ORO v2,0,1);1179;APACHE 
+39282;Apache httpd-2;Other;read of unitialized memory;39282;APACHE 
+35750;Ant;Other;Memory leak in JUnit task;35750;APACHE 
+46849;Fop - Now in Jira;Other;OutOfMemory or NullPointer exception with short xml/xsl-fo;46849;APACHE 
+45862;Fop - Now in Jira;Other;StackOverflow problem when using FOP in multi threaded environment;45862;APACHE 
+37898;Lenya;Other;FilePolicyManager infinite loop;37898;APACHE 
+54128;Ant;Other;Ant 1,8 exec task changes have slowed exec to a crawl;54128;APACHE 
+35478;Fop - Now in Jira;Other;Attribute number-columns-spanned leads to the endless loop;35478;APACHE 
+47873;Apache httpd-2;Other;unreliable coordination between daemon and request thread for BusyTimeout processing;47873;APACHE 
+44286;Fop - Now in Jira;Other;XMLWhiteSpaceHandler leaks memory;44286;APACHE 
+290412;Java Server Faces;Other;Performance problem in method TypeUtil.resolveInParents();https://bugs.eclipse.org/bugs/show_bug.cgi?id=290412;ECLIPSE
+228448;MTJ;Other;[eclipseme] Include EclipseME 1.7.9 bug fix;https://bugs.eclipse.org/bugs/show_bug.cgi?id=228448;ECLIPSE
+290152;PDT;Other;Error when debugging using xDebug;https://bugs.eclipse.org/bugs/show_bug.cgi?id=290152;ECLIPSE
+28343;Platform;Other;[Decorators] UI freezes while checking out project;28343;ECLIPSE
+186255;STEM;Other;Bug in computation of Standard Disease Models, possible underflow for extreme parameters;https://bugs.eclipse.org/bugs/show_bug.cgi?id=186255;ECLIPSE
+95960;WTP Source Editing;Other;JSP Editor: Memory leaking after a working a few hours with jsp files;95960;ECLIPSE
+116027;z_Archived;Other;infinite loop when trying to initialize datapool with CSV containing embedded commas in fields;116027;ECLIPSE
+111402;z_Archived;Other;New PC fails testing with PCTestAgent sending error to self;111402;ECLIPSE
+111491;z_Archived;Other;Performance concerns in the application context system;111491;ECLIPSE
+113617;z_Archived;Other;New AC passes bad environment to process being launched;113617;ECLIPSE
+59288;z_Archived;Other;Object references are not collected;59288;ECLIPSE
+91218;z_Archived;Other;(MON) GLA performance degradation reported by downstream product;91218;ECLIPSE
+98295;z_Archived;Other;SWT container goes into infinite loop - NewClassCreationWizard Fails;98295;ECLIPSE
+56347;z_Archived;Other;M9 Profiling options not applied;56347;ECLIPSE
+177812;Bugzilla;Other;"review: Improve performance of duplicates.cgi; Patch v.2";177812;MOZILLA
+3462;Core;Other;Multiple Threads Are Loaded;3462;MOZILLA
+177326;Core;Other;Mozilla rapidly repeats requests multiple times;177326;MOZILLA
+206561;Core;Other;Memory leak on www.bhun.net;206561;MOZILLA
+18250;Core;Other;[Performance] Speed up loading of bookmarks.html;18250;MOZILLA
+82245;Core;Other;Takes several reloads for web page to load fully;82245;MOZILLA
+85314;Core;Other;Necko Performance Review;85314;MOZILLA
+992485;Core ;Other;Reduce the size of debug browser-chrome logs, exceeding the maximum log size and thus closing trunk and aurora trees;https://bugzilla.mozilla.org/show_bug.cgi?id=992485;MOZILLA
+1059175;Core ;Other;B2G-Inbound closed due to ICS Emulator Debug Mochitests Leaks in most of the tests;https://bugzilla.mozilla.org/show_bug.cgi?id=1059175;MOZILLA
+208293;Rhino;Other;Loading a large script in the Rhino debugger results in an endless loop (100% CPU utilization);https://Bugzilla.mozilla.org/show_bug.cgi?id=208293;MOZILLA
+16666;SeaMonkey;Other;large number of process sections;16666;MOZILLA
+234521;Thunderbird;Other;Building process while compiling in NsModule.cpp - related to bugfix for bug 182928 ?;https://Bugzilla.mozilla.org/show_bug.cgi?id=234521;MOZILLA
+LUCENE-6;Lucene;Other;new IndexReader.terms(myterm) skips over first term;https://issues.apache.org/jira/browse/LUCENE-6?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XALANJ-642;XalanJ2;Other;"xerces2b3: smoketest api tests add &#13; char to lineends";https://issues.apache.org/jira/browse/XALANJ-642?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XALANC-55;XalanC;Other;Access violation in DOMServices::getNamespaceForPrefix (DOMServices.cpp:759);https://issues.apache.org/jira/browse/XALANC-55?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+STR-287;Struts;Other;deprecated example code for form;https://issues.apache.org/jira/browse/STR-287?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+20312;Apache httpd-2;Other;"mod_rewrite; RewriteLock permissions failure";20312;APACHE 
+34954;Slide;Other;[PATCH] (Almost) silent failure of grantPermission in RDBMS adapters;34954;APACHE 
+34951;Slide;Other;[PATCH] Permission management uses wrong URI in RDBMS adapters;34951;APACHE 
+40389;Lenya;Other;obsolete neutron usecase policy in the default pub,;40389;APACHE 
+41193;Apache httpd-2;Other;Remove useless call;41193;APACHE 
+35757;Apache httpd-2;Other;Doesn't compile with OpenSSL 0,9,8 (works with olders);35757;APACHE 
+32371;Tomcat 5;Other;Outdated documentation pages,;32371;APACHE 
+80110;EMF;Other;"setTrackModification(boolean) not deprecated; but does not work";80110;ECLIPSE
+103397;WTP Java EE Tools;Other;Migrate Servlet operation to new data model provider framework;103397;ECLIPSE
+161410;WTP Webservices;Other;[WSDL4J] org.wsdl4j plugin uses obsolete WSDL MIME binding schema;https://bugs.eclipse.org/bugs/show_bug.cgi?id=161410;ECLIPSE
+189290;STEM;Other;New warning messages for deprecated code in 3.3RC1;189290;ECLIPSE
+413861;z_Archiv;Other;Deprecate Transfer.State in favor of transfer-specific listener;413861;ECLIPSE
+492320;PDT;Other;Remove deprecated AbstractPDTTTest;492320;ECLIPSE
+200791;ECF;Other;"[Discovery] Deprecate ""String IServiceID#getServiceType"" in favor of ""IServiceTypeID IServiceID#getServiceTypeID""";200791;ECLIPSE
+421586;Scout;Other;Remove deprecated Code for Scout 3.10/4.0;421586;ECLIPSE
+497578;PDT;Other;"Deprecate the ""version"" attribute of the phpExe ext. point";497578;ECLIPSE
+219732;Data Too;Other;Filtering of Deprecated and Wrapper ODA Data Source Types in DSE;219732;ECLIPSE
+434036;z_Archiv;Other;Delete deprecated org.eclipse.aether.util.repository.layout package;434036;ECLIPSE
+508324;Papyrus;Other;Delete deprecated class DiagramsUtil;508324;ECLIPSE
+286050;Epsilon;Other;[EGL] Deprecate store in favour of generate;286050;ECLIPSE
+434037;z_Archiv;Other;Delete deprecated org.eclipse.aether.spi.connector.Transfer.State enum;434037;ECLIPSE
+510092;Papyrus;Other;Remove deprecated class DestructionEventHelperAdvice;510092;ECLIPSE
+325541;EMF;Other;[Hibernate] CVS: Move hibernate example plugins from deprecated to other location in cvs;325541;ECLIPSE
+436363;Scout;Other;Deprecate and cleanup ordered bundle list;436363;ECLIPSE
+353261;Sapphire;Other;Implement FactsService for @Deprecated;353261;ECLIPSE
+479415;ECP;Other;Remove all usage of deprecated SWTObservables;479415;ECLIPSE
+76614;z_Archiv;Other;Much of Probekit uses deprecated APIs;76614;ECLIPSE
+395132;Scout;Other;Mark @ConfigPropertyValue as deprecated;395132;ECLIPSE
+472138;NatTable;Other;Use MouseEventHelper and deprecate AbstractModeEventHandler#eventOnSameCell();472138;ECLIPSE
+400549;Jubula;Other;New version of UBMs not including any deprecated modules;400549;ECLIPSE
+473530;PDT;Other;Pupulate deprecated flag to type members;473530;ECLIPSE
+78453;Bugzilla;Other;Enable additional permission for Jon Rubin's bugzilla account;78453;MOZILLA
+603139;Core ;Other;Bug 599428 broke Thunderbird and Sunbird builds;https://bugzilla.mozilla.org/show_bug.cgi?id=603139;MOZILLA
+79278;Graveyard;Other;Fix for bug 15345 breaks webclient and javadom;https://Bugzilla.mozilla.org/show_bug.cgi?id=79278;MOZILLA
+489659;MailNews Core;Other;Trunk mailnews mac builds broken by bug 489344 (port uriloader to x86_64 Mac OS X);https://bugzilla.mozilla.org/show_bug.cgi?id=489659;MOZILLA
+COCOON-125;Cocoon;Other;Java SecurityManager java.lang.RuntimePermission createSecurityManager required for cocoon 2;https://issues.apache.org/jira/browse/COCOON-125?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22security%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+JSI-68;Jetspeed;Other;Admin resetting password when encryption is turned on;https://issues.apache.org/jira/browse/JS1-68?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22security%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+JSI-279;Jetspeed;Other;[FIX] Default security constraint can override registry-level portlet security;https://issues.apache.org/jira/browse/JS1-279?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22security%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+WSS-33;WSS4J;Other;Signature checking vulnerability;https://issues.apache.org/jira/browse/WSS-33?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+SOAP-98;SOAP;Other;JVM crashes with unexpected exception in native code;https://issues.apache.org/jira/browse/SOAP-98?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22security%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+41510;Security - Now in JIRA;Other;org,apache,xml,security,keys,content,KeyValue,getPublicKey() returns null for DSA key;41510;APACHE 
+41462;Security - Now in JIRA;Other;Xml canonization - UTF-8 encoding issue in Xml security 1,4,0;41462;APACHE 
+37631;Lenya;Other;[Patch] Disable cocoon reload parameter for security reasons,;37631;APACHE 
+53636;Rivet;Other;Security access to server and database;53636;APACHE 
+40215;Security - Now in JIRA;Other;org,apache,xml,internal,security,utils,Base64 is not working in EBCDIC platform;40215;APACHE 
+10902;Tomcat 4;Other;"""package.access"" security check too general for Jasper - precompiled JSPs get package-access violation";10902;APACHE 
+11317;Security - Now in JIRA;Other;SOAP Security;11317;APACHE 
+12054;Apache httpd-2;Other;SECURITY: Apache serving 'private' files!;12054;APACHE 
+12822;Apache httpd-1.3;Other;documentation suggests insecure file permissions;12822;APACHE 
+14892;Apache httpd-2;Other;security tips should suggest subscribing to announcements list;14892;APACHE 
+29595;Security - Now in JIRA;Other;Memory retention problem in XMLSecurity 1.1.0 java library;29595;APACHE 
+37631;Lenya;Other;[Patch] Disable cocoon reload parameter for security reasons.;37631;APACHE 
+41318;Tomcat Connectors;Other;JK Status Worker Security User Case Problem in Windows;41318;APACHE 
+41462;Security - Now in JIRA;Other;Xml canonization - UTF-8 encoding issue in Xml security 1.4.0;41462;APACHE 
+41510;Security - Now in JIRA;Other;org.apache.xml.security.keys.content.KeyValue.getPublicKey() returns null for DSA key;41510;APACHE 
+41892;Security - Now in JIRA;Other;XML Security 1.4.0 does not build with IBM's JDK;41892;APACHE 
+53636;Rivet;Other;Security access to server and database;53636;APACHE 
+10902;Tomcat 4;Other;"""package.access"" security check too general for Jasper - precompiled JSPs get package-access violation";10902;APACHE 
+11317;Security - Now in JIRA;Other;SOAP Security;11317;APACHE 
+12054;Apache httpd-2;Other;SECURITY: Apache serving 'private' files!;12054;APACHE 
+12822;Apache httpd-1.3;Other;documentation suggests insecure file permissions;12822;APACHE 
+14892;Apache httpd-2;Other;security tips should suggest subscribing to announcements list;14892;APACHE 
+29595;Security - Now in JIRA;Other;Memory retention problem in XMLSecurity 1.1.0 java library;29595;APACHE 
+37631;Lenya;Other;[Patch] Disable cocoon reload parameter for security reasons.;37631;APACHE 
+41318;Tomcat Connectors;Other;JK Status Worker Security User Case Problem in Windows;41318;APACHE 
+41462;Security - Now in JIRA;Other;Xml canonization - UTF-8 encoding issue in Xml security 1.4.0;41462;APACHE 
+41510;Security - Now in JIRA;Other;org.apache.xml.security.keys.content.KeyValue.getPublicKey() returns null for DSA key;41510;APACHE 
+41892;Security - Now in JIRA;Other;XML Security 1.4.0 does not build with IBM's JDK;41892;APACHE 
+53636;Rivet;Other;Security access to server and database;53636;APACHE 
+16237;Bugzilla;Other;Store author of comment as user id;16237;MOZILLA
+328108;Bugzilla;Other;Unable to login on a fresh Bugzilla install using the login form on the home page;https://bugzilla.mozilla.org/show_bug.cgi?id=328108;MOZILLA
+425110;Bugzilla;Other;Security Advisory for Bugzilla 3.0.4, 3.1.4, 2.22.4, and 2.20.6;https://bugzilla.mozilla.org/show_bug.cgi?id=425110;MOZILLA
+503046;Bugzilla;Other;Security Advisory for Bugzilla 3.2.4 and 3.4rc1;https://bugzilla.mozilla.org/show_bug.cgi?id=503046;MOZILLA
+777558;Bugzilla;Other;Security advisory for Bugzilla 4.3.2, 4.2.2, 4.0.7 and 3.6.10;https://bugzilla.mozilla.org/show_bug.cgi?id=777558;MOZILLA
+28824;Core;Other;automated security audit of the code;28824;MOZILLA
+762920;Core ;Other;Bug 754202 regressed IsCapabilityEnabled;https://bugzilla.mozilla.org/show_bug.cgi?id=762920;MOZILLA
+30853;SeaMonkey;Other;file protections are wrong;30853;MOZILLA
+105193;z_Archived;Other ;[Functionality] Port file transfer service changes (bugzilla 75002) to secure file server;https://bugs.eclipse.org/bugs/show_bug.cgi?id=105193;ECLIPSE
+95846;z_Archived;Other ;[Security] Test execution does not work with secure RAC;95846;ECLIPSE
+XALANC-33;XalanC;Other;Test crashes when run multithreaded, but not when run serially;https://issues.apache.org/jira/browse/XALANC-33?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+CACTUS-6;Cactus;Other;tearDown() not called when test method fails;https://issues.apache.org/jira/browse/CACTUS-6?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+CACTUS-4;Cactus;Other;Test results requested before they are available;https://issues.apache.org/jira/browse/CACTUS-4?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+XERCESJ-514;Xerces2-J;Other;Error by appending a text node to a child;https://issues.apache.org/jira/browse/XERCESJ-514?jql=issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20text%20~%20%22interface%22%20ORDER%20BY%20cf%5B12310220%5D%20ASC%2C%20cf%5B12312823%5D%20ASC;APACHE 
+686;Ant;Other;JUnitReport does not work;686;APACHE 
+1386;JMeter;Other;"Broken link to ""Running a test script""";1386;APACHE 
+639;Ant;Other;JUnitTestRunner masks exceptions;639;APACHE 
+1297;JMeter;Other;ClassCastException Testing Database in 1,6;1297;APACHE 
+40298;Security - Now in JIRA;Other;XMLCipherTester,testSameDocumentCipherReference test fails (regression);40298;APACHE 
+36025;Fop - Now in Jira;Other;[PATCH] font-size testcases;36025;APACHE 
+51596;Fop - Now in Jira;Other;[PATCH] Cleanup and tests to TTFFile (subsetting Glyf);51596;APACHE 
+36010;Fop - Now in Jira;Other;[PATCH] word-spacing testcases;36010;APACHE 
+53396;Rivet;Other;Tests don't run on Solaris (id command has different output format);53396;APACHE 
+36180;Fop - Now in Jira;Other;"[PATCH] Test cases for font-family; font-style and font-weight";36180;APACHE 
+50397;JMeter;Other;Test datas;50397;APACHE 
+543;Ant;Other;NullPointerException in junit task;543;APACHE 
+49808;Fop - Now in Jira;Other;Setting accessibility in Java;49808;APACHE 
+115102;Community;Other;Presentation Files;115102;ECLIPSE
+234953;Dali JPA Tools;Other;TVT34:TCT611: TRK-No data in the JPA details window;https://bugs.eclipse.org/bugs/show_bug.cgi?id=234953;ECLIPSE
+369035;EMFT.facet;Other;[Unit Test Failure] org.eclipse.emf.facet.widgets.table.tests.internal.v0_2.swtbot.Bug344563Test.testBug344563;https://bugs.eclipse.org/bugs/show_bug.cgi?id=369035;ECLIPSE
+418569;EMFT.facet;Other;[Unit Test Failure] org.eclipse.emf.facet.infra.query.tests.internal.UnitTests.bug307095/bug307095v2/bug307095v3/emfmqQueryTest/osgiReload/resourceSet/simpleEval/test001;https://bugs.eclipse.org/bugs/show_bug.cgi?id=418569;ECLIPSE
+419667;EMFT.facet;Other;[Unit Test Faillure] org.eclipse.emf.facet.infra.query.tests.internal.UnitTests.bug307187;https://bugs.eclipse.org/bugs/show_bug.cgi?id=419667;ECLIPSE
+358221;Lyo;Other;Investigate possible test suite bug when ServiceProviderCatalog contains ref to serviceProvider resource;https://bugs.eclipse.org/bugs/show_bug.cgi?id=358221;ECLIPSE
+310980;MDT.MoDisco;Other;"FacetTests.bug308947(): error during: ""Catalog Notifications""";https://bugs.eclipse.org/bugs/show_bug.cgi?id=310980;ECLIPSE
+321570;MDT.MoDisco;Other;[Unit Test Failure] org.eclipse.gmt.modisco.infra.browser.custom.tests.BrowserCustomTest.testBug299277;https://bugs.eclipse.org/bugs/show_bug.cgi?id=321570;ECLIPSE
+92916;WTP Common Tools;Other;Failing JUnit tests [wst.common];92916;ECLIPSE
+159703;WTP Java EE Tools;Other;[web services] webservice.NewProjectListener initialization takes 35% cpu time of CommonNavigator.createPartControl();https://bugs.eclipse.org/bugs/show_bug.cgi?id=159703;ECLIPSE
+103768;WTP Source Editing;Other;problem validating xml when there's relative schemas and only the 'top' schema is reg'd in catalog;103768;ECLIPSE
+104410;z_Archived;Other;[Testing] Refactor the TPTP test suite to contain the name of the bugzilla component;https://bugs.eclipse.org/bugs/show_bug.cgi?id=104410;ECLIPSE
+278832;z_Archived;Other;NPE raised while performing Test.UI.TestNavigator_bugzilla_242645;https://bugs.eclipse.org/bugs/show_bug.cgi?id=278832;ECLIPSE
+67100;z_Archived;Other;Launching consecutive tests on Linux causes hangs with no indication of problems;67100;ECLIPSE
+83094;z_Archived;Other;Executing a test suite that invokes another test suite in a loop generates erroneous verdict events.;83094;ECLIPSE
+84847;z_Archived;Other;"hyades.test feature refs hyades.test.common at 3.0.1 level; but plugin at 3.0.2 level";84847;ECLIPSE
+105824;z_Archived;Other;[Usability] Tests don't run when firewall blocks workbench's incoming connections;105824;ECLIPSE
+106236;z_Archived;Other;"TVT 3.1 - TCT 426 - ""Test"" is translated in JUnit generated code and should not be";106236;ECLIPSE
+107449;z_Archived;Other;"TVT 3.1: TCT 393 - NPE when creating new ""TPTP Example IType Count Template""";107449;ECLIPSE
+107654;z_Archived;Other;"TVT 3.1 - TCT 561 ""Probe"" content type not externalized";107654;ECLIPSE
+110930;z_Archived;Other;TestExecutionHarness cleanup enters an infinite wait and prevents from executing further tests;110930;ECLIPSE
+110960;z_Archived;Other;[Regression] Test harness hangs on launch after previously cancelling a harness;110960;ECLIPSE
+112112;z_Archived;Other;[Testing] Deliver automated tests for test execution service;112112;ECLIPSE
+112115;z_Archived;Other;[Functionality] Integration and testing of shell adapter scripts for test execution service;112115;ECLIPSE
+112245;z_Archived;Other;"[Regression; IAC] Not all execution history events when running tests using IAC";112245;ECLIPSE
+112422;z_Archived;Other;"""Review documentation"" test case fails (bad links)";112422;ECLIPSE
+113482;z_Archived;Other;"""Refresh test methods from code"" button in the JUnit test editor throws an exception.";113482;ECLIPSE
+113590;z_Archived;Other;Historical reference to test suite not deleted;113590;ECLIPSE
+114028;z_Archived;Other;"[Platform Specific; Regression] Test execution broken on z/OS";114028;ECLIPSE
+114145;z_Archived;Other;Improve GLA testsuites;114145;ECLIPSE
+114438;z_Archived;Other;[Reliability] Canceling a test execution doesn't work properly;114438;ECLIPSE
+114824;z_Archived;Other;[Regression] Test from recording dynamic deployment broken;114824;ECLIPSE
+115506;z_Archived;Other;"[JVM Specific; Platform Specific; Regression] Test execution hangs on Linux with Sun JDK 1.4.2";115506;ECLIPSE
+115859;z_Archived;Other;"[Webdoc] (README) (IAC; Platform specific) Test execution and test recorder hangs on Linux";115859;ECLIPSE
+73477;z_Archived;Other;"Dialog; JDialog; Frame; and Window do not come up";73477;ECLIPSE
+98861;z_Archived;Other;JUnit test hangs when run it via the Run->Test context menu selection in the Test Navigator view;98861;ECLIPSE
+99184;z_Archived;Other;(Plat) Unable to run a JUnit test as test from launch configuration;99184;ECLIPSE
+92067;z_Archived;Other;[Reliability] Test run terminates prematurely before all execution events are loaded in the model;92067;ECLIPSE
+92197;z_Archived;Other;(Test) Downstream products should have control over time-out delays;92197;ECLIPSE
+103246;z_Archived;Other;(Provisional) Add regression tests for tech preview agent controller to TPTP regression test suite: to enable recording of test results and report generation.;103246;ECLIPSE
+104837;z_Archived;Other;TVT 3.1: TCT 409 - Test Navigator view local dropdown menu 'ToggleLinkingAction.text' label missing;104837;ECLIPSE
+116999;Calendar;Other;TEST;116999;MOZILLA
+117000;Calendar;Other;TEST;117000;MOZILLA
+10360;Core;Other;"testing; ignore";10360;MOZILLA
+10414;Core;Other;test bug;10414;MOZILLA
+70088;Core;Other;"test; please ignore";70088;MOZILLA
+70089;Core;Other;"test; please ignore";70089;MOZILLA
+562631;Core ;Other;layout/generic/test/test_bug496275.html makes mochitest-plain time out when the HTML5 parser is enabled;https://bugzilla.mozilla.org/show_bug.cgi?id=562631;MOZILLA
+563643;Core ;Other;"[Debug MacOSX SeaMonkey] leak test: ""ASSERTION: Want to fire mutation events, but it's not safe"" since bug 429175landing. (""all"" other test suites too)";https://bugzilla.mozilla.org/show_bug.cgi?id=563643;MOZILLA
+719389;Core ;Other;"Fix ""#ifdef MOZ_WINSDK_TARGETVER >= MOZ_NTDDI_LONGHORN"" from bug 441197";https://bugzilla.mozilla.org/show_bug.cgi?id=719389;MOZILLA
+858588;Core ;Other;"mochitest-3 is nearly perma-orange on m-c nightly builds (""test_bug445544.html | Part 1 successfully loaded from the application cache"" and more)";https://bugzilla.mozilla.org/show_bug.cgi?id=858588;MOZILLA
+898713;Core ;Other;layout/generic/test/test_bug496275.html makes mochitest-plain time out when the HTML5 parser is enabled;https://bugzilla.mozilla.org/show_bug.cgi?id=562631;MOZILLA
+1105806;Core ;Other;bug1103273-1.js and bug1103273-2.js are going to permafail when Gecko 36 merges to Aurora tomorrow;https://bugzilla.mozilla.org/show_bug.cgi?id=1105806;MOZILLA
+442778;Firefox;Other;test for bug 419731 failing on qm-win2k3-pgo01 (VM, PGO);https://bugzilla.mozilla.org/show_bug.cgi?id=442778;MOZILLA
+943524;Firefox;Other;Fix holly after bug 805374 broke tests;https://bugzilla.mozilla.org/show_bug.cgi?id=943524;MOZILLA
+1033449;Firefox;Other;Gaia unit tests are perma-failing on b2g30_v1_4 since bug 874510 was merged into production;https://bugzilla.mozilla.org/show_bug.cgi?id=1033449;MOZILLA
+1069891;Firefox;Other;"""mach reftest --debugger"" is broken";https://bugzilla.mozilla.org/show_bug.cgi?id=1069891;MOZILLA
+483857;MailNews Core;Other;JavaScript Debug assertions in gloda mime tests;https://bugzilla.mozilla.org/show_bug.cgi?id=483857;MOZILLA
+550980;MailNews Core;Other;nsMsgDBFolder.cpp:180: error: cannot convert ‘const char*’ to ‘nsStringBuffer*’ in initialization (port bug 534136);https://bugzilla.mozilla.org/show_bug.cgi?id=550980;MOZILLA
+792804;MailNews Core;Other;"Test failure: mailnews/news/test/unit/test_bug540288.js | [Exception... ""Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheSession.openCacheEntry]"" nsresult: ""0x80040111 (NS_ERROR_NOT_AVAILABLE)""";https://bugzilla.mozilla.org/show_bug.cgi?id=792804;MOZILLA
+45882;SeaMonkey;Other;Test bug;45882;MOZILLA
+911605;Tree Management;Other;Unhide gaia-ui-test once bug 911552 is successfully merged and date-based test failures are no longer occurring;https://bugzilla.mozilla.org/show_bug.cgi?id=911605;MOZILLA

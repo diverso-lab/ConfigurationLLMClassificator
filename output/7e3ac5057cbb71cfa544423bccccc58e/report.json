@@ -1,0 +1,33 @@
+{
+    "Configuration Bug Report": {
+        "precision": 0.2488986784140969,
+        "recall": 0.6075268817204301,
+        "f1-score": 0.353125,
+        "support": 186.0
+    },
+    "Other": {
+        "precision": 0.897908979089791,
+        "recall": 0.6848030018761726,
+        "f1-score": 0.77700904736562,
+        "support": 1066.0
+    },
+    "Other ": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 15.0
+    },
+    "accuracy": 0.665351223362273,
+    "macro avg": {
+        "precision": 0.38226921916796264,
+        "recall": 0.4307766278655342,
+        "f1-score": 0.3767113491218734,
+        "support": 1267.0
+    },
+    "weighted avg": {
+        "precision": 0.7920016778964003,
+        "recall": 0.665351223362273,
+        "f1-score": 0.7055823950211136,
+        "support": 1267.0
+    }
+}
