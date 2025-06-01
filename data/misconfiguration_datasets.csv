@@ -1,0 +1,807 @@
+Bug-ID;Project;Classification;Summary;Description
+CC1;Others;Configuration;Log4j appenders for spring DependencyInjectionTestExecutionListener;Log4j appenders for spring DependencyInjectionTestExecutionListener
+CC2;Nginx;Configuration;Nginx proxy configuration error: [crit] pread();Nginx proxy configuration error: [crit] pread()
+CC3;Others;Configuration;Error: Configuration with name 'default' not found in Android Studio;Error: Configuration with name 'default' not found in Android Studio
+CC4;MySQL;Configuration;mysql error 1429 federation;mysql error 1429 federation
+CC5;MySQL;Configuration;periodic mysql lockup when wordpress is under heavy load;periodic mysql lockup when wordpress is under heavy load
+CC6;Nginx;Configuration;PHP-FPM and continuos “exited on signal 11”，PHP 5.3.14 has a serious bug;PHP-FPM and continuos “exited on signal 11”, PHP 5.3.14 has a serious bug
+CC7;Apache httpd;Configuration;Can't get PHP-FPM working so that multiple versions of php can be used;Can't get PHP-FPM working so that multiple versions of php can be used
+CC8;PHP;Configuration;Apache fails to start after PHP upgrade on CentOS 6.5 x64;Apache fails to start after PHP upgrade on CentOS 6.5 x64
+CC9;Apache httpd;Configuration;Configuring apache2-mpm-worker with php5;Configuring apache2-mpm-worker with php5
+CC10;Others;Configuration;On AWS why does internal DNS lookup for RDS fail in PHP page?;On AWS why does internal DNS lookup for RDS fail in PHP page?
+CC11;Others;Configuration;Improper configuration can leads to endless lease recovery during failover;Improper configuration can leads to endless lease recovery during failover
+CC12;Others;Configuration;How to fix NullPointerException when getting current Hibernate Session;How to fix NullPointerException when getting current Hibernate Session
+CC13;Others;Configuration;"Getting ""project"" nuget configuration is invalid error";"Getting ""project"" nuget configuration is invalid error"
+CC14;Others;Configuration;Spring Web flow configuration error;Spring Web flow configuration error
+CC15;Others;Configuration;Spring configuration error;Spring configuration error
+CC16;Others;Configuration;Compiling CUDA examples gives build error;Compiling CUDA examples gives build error
+CC17;Others;Configuration;Spring Security : configuration error;Spring Security : configuration error
+CC18;PostgreSQL;Configuration;Django app with postgres backend throwing error in new set up (Azure VM);Django app with postgres backend throwing error in new set up (Azure VM)
+CC19;PostgreSQL;Configuration;Symfony 2.7 cache:clear command checks every database connection;Symfony 2.7 cache:clear command checks every database connection
+CC20;Hadoop;Configuration;Why can I not read from the AWS S3 in Spark application anymore?;Why can I not read from the AWS S3 in Spark application anymore?
+CC21;Hadoop;Configuration;Cannot initialize Cluster. Please check your configuration for mapreduce.framework.name and the correspond server addresses-submiting job2remoteClustr;Cannot initialize Cluster. Please check your configuration for mapreduce.framework.name and the correspond server addresses-submiting job2remoteClustr
+CC22;Hadoop;Configuration;Oozie war creation - Unsupported Hadoop version supported versions: 0.20.1, 0.20.2, 0.20.104, 0.20.200, 0.23.x and 2.x;Oozie war creation - Unsupported Hadoop version supported versions: 0.20.1, 0.20.2, 0.20.104, 0.20.200, 0.23.x and 2.x
+CC23;Hadoop;Configuration;JMeter Hbase scan sampler fails with ClassNotFoundException exception;JMeter Hbase scan sampler fails with ClassNotFoundException exception
+CC24;Others;Configuration;Configuration on demand is not supported by the current version of the Android Gradle plugin;Configuration on demand is not supported by the current version of the Android Gradle plugin
+CC25;Apache httpd;Configuration;Cannot run Apache 2.4 with libapache2-mod-php5;Cannot run Apache 2.4 with libapache2-mod-php5
+CC26;Nginx;Configuration;Installing LetsEncrypt SSL on Amazon Linux with Nginx + PHP-FPM gives “The connection was reset” error;Installing LetsEncrypt SSL on Amazon Linux with Nginx + PHP-FPM gives “The connection was reset” error
+CC27;PHP;Configuration;Missing Dependency issue when trying to install apc extension for php;Missing Dependency issue when trying to install apc extension for php
+CC28;Nginx;Configuration;PHP-FPM stops responding and dies;PHP-FPM stops responding and dies
+CC29;Apache httpd;Configuration;apache crashes when php_mysql.dll is loaded;apache crashes when php_mysql.dll is loaded
+CC30;PHP;Configuration;Error message with phpmyadmin when starting up apache;Error message with phpmyadmin when starting up apache
+CC31;Others;Configuration;Lighttpd Virtual Host Error;Lighttpd Virtual Host Error
+CC32;Others;Configuration;Puppet installs too many dependencies;Puppet installs too many dependencies
+CC33;MySQL;Configuration;Failed to initialize pool， Initial client character set can be forced via the 'characterEncoding' property;Failed to initialize pool, Initial client character set can be forced via the 'characterEncoding' property
+CC34;Nginx;Configuration;500 error on moving project to another server;500 error on moving project to another server
+CC36;PostgreSQL;Configuration;Gitlab will not create Postgres instance on alternative port;Gitlab will not create Postgres instance on alternative port
+CC37;Hadoop;Configuration;Unable to add a new service with Cloudera Manager within Cloudera Quickstart VM 5.3.0;Unable to add a new service with Cloudera Manager within Cloudera Quickstart VM 5.3.0
+CC38;MySQL;Configuration;Error in sql connector configuration when connecting using Ballerina MYSQL Client;Error in sql connector configuration when connecting using Ballerina MYSQL Client
+CC39;Apache httpd;Configuration;Need Apache configuration fixed;Need Apache configuration fixed
+CC40;MySQL;Configuration;error 2003 hy000 cant connect to mysql server on 111;error 2003 hy000 cant connect to mysql server on 111
+CC41;Apache httpd;Configuration;Undefined index: PATH_INFO;Undefined index: PATH_INFO
+CC42;Apache httpd;Configuration;The internal links of the website all give 301 redirects to localhost;The internal links of the website all give 301 redirects to localhost
+CC43;Apache httpd;Configuration;Can't not access apache server-status page when i add configuration for load balancing;Can't not access apache server-status page when i add configuration for load balancing
+CC44;Apache httpd;Configuration;separate php error logs for each Apache vhosts;separate php error logs for each Apache vhosts
+CC45;Apache httpd;Configuration;Mixing Subversion “SVNParentPath” and per-repository configurations;Mixing Subversion “SVNParentPath” and per-repository configurations
+CC46;Apache httpd;Configuration;401 Unauthorized error when using Apache 2.4;401 Unauthorized error when using Apache 2.4
+CC47;Apache httpd;Configuration;htaccess redirect loop only on one of two servers;htaccess redirect loop only on one of two servers
+CC48;Apache httpd;Configuration;The proxy server could not handle the request GET /test/test.jsp.;The proxy server could not handle the request GET /test/test.jsp.
+CC49;PostgreSQL;Configuration;How to integrate pgbouncer-1.4 with PostgreSQL -9.0 database;How to integrate pgbouncer-1.4 with PostgreSQL -9.0 database
+CC50;Hadoop;Configuration;Prevent Ambari agent overwriting repo files;Prevent Ambari agent overwriting repo files
+CC51;Hadoop;Configuration;Unable to configure ORC properties in Spark;Unable to configure ORC properties in Spark
+CC52;Hadoop;Configuration;Spark Structured Streaming - This query does not support recovering from checkpoint location;Spark Structured Streaming - This query does not support recovering from checkpoint location
+CC53;PHP;Configuration;dll in php “the specified module could not be found”;dll in php “the specified module could not be found”
+CC54;PHP;Configuration;php-fpm fails after X requests;php-fpm fails after X requests
+CC55;Apache httpd;Configuration;website stuck in redirect loop after using behind cloudflare;website stuck in redirect loop after using behind cloudflare
+CC56;Apache httpd;Configuration;Apache returns empty response and must restart [closed];Apache returns empty response and must restart [closed]
+CC57;PHP;Configuration;Installing imagick PHP extension on Ubuntu;Installing imagick PHP extension on Ubuntu
+CC58;PHP;Configuration;PHP 5.4 on CentOS 5 - GD Not Working;PHP 5.4 on CentOS 5 - GD Not Working
+CC59;Nginx;Configuration;Yet another PDO could not find driver issue;Yet another PDO could not find driver issue
+CC60;PHP;Configuration;PDO installation not working? [closed];PDO installation not working? [closed]
+CC61;Apache httpd;Configuration;Apache 2 mpm-itk and mpm-prefork modules together;Apache 2 mpm-itk and mpm-prefork modules together
+CC62;Apache httpd;Configuration;Cannot specify Multiple error_log locations for Apache;Cannot specify Multiple error_log locations for Apache
+CC63;Apache httpd;Configuration;Cannot make Apache errors logs written to the local disk and sent to syslog;Cannot make Apache errors logs written to the local disk and sent to syslog
+CC64;Apache httpd;Configuration;Cannot have a separate apache daemon to run the reverse proxy;Cannot have a separate apache daemon to run the reverse proxy
+CC65;Apache httpd;Configuration;Cannot load mod_version only if it isn't built in to apache;Cannot load mod_version only if it isn't built in to apache
+CC66;Apache httpd;Configuration;astCGI: incomplete headers (0 bytes) received from server;astCGI: incomplete headers (0 bytes) received from server
+CC67;Apache httpd;Configuration;Error Start Apache “php value”;Error Start Apache “php value”
+CC68;Apache httpd;Configuration;Apache configuration error (AH00025): couldn't check user;Apache configuration error (AH00025): couldn't check user
+CC69;Others;Configuration;Configuration error: System.Web.Helpers;Configuration error: System.Web.Helpers
+CC70;Others;Configuration;intellij - spring is not being recognized (Unmapped Spring configuration);intellij - spring is not being recognized (Unmapped Spring configuration)
+CC71;Nginx;Configuration;nginx webdav could not open collection;nginx webdav could not open collection
+CC72;Nginx;Configuration;"nginx: [emerg] unknown directive ""proxy_pass""";"nginx: [emerg] unknown directive ""proxy_pass"""
+CC73;Others;Configuration;Configuration problem: Unable to locate Spring NamespaceHandler for XML schema namespace;Configuration problem: Unable to locate Spring NamespaceHandler for XML schema namespace
+CC74;Others;Configuration;Hibernate validator doesn't work;Hibernate validator doesn't work
+CC75;PostgreSQL;Configuration;Unable to connect app to postgres server using yaml files;Unable to connect app to postgres server using yaml files
+CC76;Others;Configuration;conflicting with the dependencies;conflicting with the dependencies
+CC77;Others;Configuration;add spring-boot-starter-oauth2-resource-server dependency in your project;add spring-boot-starter-oauth2-resource-server dependency in your project
+CC78;MySQL;Configuration;related to the MySQL version with others;related to the MySQL version with others
+CC79;Others;Configuration;wrong version;wrong version
+CC80;Others;Configuration;add one dependency;add one dependency
+CC81;Others;Configuration;the parameter MODE worked for OP， have to change configuration;the parameter MODE worked for OP, have to change configuration
+CC82;MySQL;Configuration;software version is outdated;software version is outdated
+CC83;MySQL;Configuration;missing one of the MySQL development package;missing one of the MySQL development package
+CC84;Others;Configuration;proper versions of jdk and spring. It is a common pitfall for people to jump into the latest versions;proper versions of jdk and spring. It is a common pitfall for people to jump into the latest versions
+CC85;Nginx;Configuration;different directories of components should be same;different directories of components should be same
+CC86;Others;Configuration;add and remove some dependencies;add and remove some dependencies
+CC87;MySQL;Configuration;related to the version of the jdbc driver.;related to the version of the jdbc driver.
+CC88;PHP;Configuration;change php version 7 to 8;change php version 7 to 8
+CC89;PHP;Configuration;wrong PHP version;wrong PHP version
+CC90;PHP;Configuration;update PHP version;update PHP version
+CC91;Nginx;Configuration;update Nginx version;update Nginx version
+CC92;PHP;Configuration;update PHP version;update PHP version
+CC93;PHP;Configuration;missing librariy;missing librariy
+CC94;PHP;Configuration;version mismatch;version mismatch
+CC95;Nginx;Configuration;downgrading Nginx to 1.18.0;downgrading Nginx to 1.18.0
+CC96;Nginx;Configuration;using Nginx as a reverse proxy, after making sure that the port is open on your container, just let Nginx handle the SSL and don't configure it again;using Nginx as a reverse proxy, after making sure that the port is open on your container, just let Nginx handle the SSL and don't configure it again
+CC97;Nginx;Configuration;version did not match;version did not match
+CC98;Others;Configuration;version did not match, java 18;version did not match, java 18
+CC99;Hadoop;Configuration;missing component;missing component
+CC100;Hadoop;Configuration;update spark;update spark
+CC101;Nginx;Configuration;http/1.0 per default, and curl uses http/1.1;http/1.0 per default, and curl uses http/1.1
+CC102;Others;Configuration;Puppet installs too many dependencies;Puppet installs too many dependencies
+CC103;Apache httpd;Configuration;duplicated my PHP configuration in the httpd.conf file and in httpd-php.conf;duplicated my PHP configuration in the httpd.conf file and in httpd-php.conf
+CC104;Hadoop;Configuration;do not have component as dependency;do not have component as dependency
+CC105;Hadoop;Configuration;hadoop dose not support java 17;hadoop dose not support java 17
+CC106;Hadoop;Configuration;hadoop dose not support java 17;hadoop dose not support java 17
+CC107;Hadoop;Configuration;miss slf4j-simple jar ;miss slf4j-simple jar 
+CC108;MySQL;Configuration;module is typically used in Unix-like systems;module is typically used in Unix-like systems
+CC109;MySQL;Configuration;in MAC multiple relays that encrypt data and generate temporary IP addresses which mess things up;in MAC multiple relays that encrypt data and generate temporary IP addresses which mess things up
+CC110;Others;Configuration;miss components;miss components
+CC111;Others;Configuration;miss components;miss components
+CC112;Others;Configuration;at least Java 17.;at least Java 17.
+CC113;Others;Configuration;miss components;miss components
+CC114;MySQL;Configuration;docker maps a wrong port to mysql;docker maps a wrong port to mysql
+CC115;MySQL;Configuration;MYSQL_USER=root for your database environment and can create conflicts for the root user;MYSQL_USER=root for your database environment and can create conflicts for the root user
+CC116;Nginx;Configuration;"proxy_pass  http://172.17.0.1:49321/foobar;    with the path of other component";"proxy_pass  http://172.17.0.1:49321/foobar;    with the path of other component"
+CC117;PostgreSQL;Configuration;Cyrillic letters cannot be converted to that encoding.;Cyrillic letters cannot be converted to that encoding.
+CC118;Others;Configuration;miss components;miss components
+CC119;MYSQL;Configuration;set autocommit = 1 to align the MySQL value with PDO's value;set autocommit = 1 to align the MySQL value with PDO's value
+CA1;MySQL;Configuration;mysql not starting error usr sbin mysqld unknown option query cache si;mysql not starting error usr sbin mysqld unknown option query cache si
+CA2;PHP;Configuration; I can't get any error into log file or screen.; I can't get any error into log file or screen.
+CA3;Others;Configuration;Lighttpd wrong config file syntax;Lighttpd wrong config file syntax
+CA4;Others;Configuration;flask, lighttpd with fastcgi can't get it to work;flask, lighttpd with fastcgi can't get it to work
+CA5;Nginx;Configuration;Go(lang) with nginx - Serving Static Files;Go(lang) with nginx - Serving Static Files
+CA6;Apache httpd;Configuration;why does my rewritecond match even though the pattern clearly doesnt match;why does my rewritecond match even though the pattern clearly doesnt match
+CA7;Apache httpd;Configuration;Incorrect syntax for Apache If expressions with mod_macro;Incorrect syntax for Apache If expressions with mod_macro
+CA8;Apache httpd;Configuration;"cannot attached ProxyPass within section, it gives error "">>> ProxyPass cannot occur within section""";"cannot attached ProxyPass within section, it gives error "">>> ProxyPass cannot occur within section"""
+CA9;PostgreSQL;Configuration;Remote PostgreSQL connection with pgAdmin;Remote PostgreSQL connection with pgAdmin
+CA10;Hadoop;Configuration;error while starting namenode and datanode;error while starting namenode and datanode
+CA11;Others;Configuration;"Spring Security 5 : There is no PasswordEncoder mapped for the id ""null""";"Spring Security 5 : There is no PasswordEncoder mapped for the id ""null"""
+CA12;Others;Configuration;Where HDFS stores data;Where HDFS stores data
+CA13;Nginx;Configuration;Nginx Magento configuration index.php cyclic error;Nginx Magento configuration index.php cyclic error
+CA14;MySQL;Configuration;MySQL: setting time_zone in my.cnf options file;MySQL: setting time_zone in my.cnf options file
+CA15;Others;Configuration;How to enable configSource attribute for Custom Configuration Section in .NET?;How to enable configSource attribute for Custom Configuration Section in .NET?
+CA16;Others;Configuration;ASP.NET site map configuration error;ASP.NET site map configuration error
+CA17;Apache httpd;Configuration;Apache ProxyPass error;Apache ProxyPass error
+CA18;Others;Configuration;Grails log4j configuration - ERROR Method missing when configuring log4j: logger;Grails log4j configuration - ERROR Method missing when configuring log4j: logger
+CA19;Others;Configuration;.NET 3.5 - Configuration system failed to initialize exception;.NET 3.5 - Configuration system failed to initialize exception
+CA20;Others;Configuration;Configuration Error;Configuration Error
+CA21;Others;Configuration;How to configure Spring without persistence.xml?;How to configure Spring without persistence.xml?
+CA22;Nginx;Configuration;NGINX Configuration Error using Codex Example: Is This a Typo in Codex?;NGINX Configuration Error using Codex Example: Is This a Typo in Codex?
+CA23;Nginx;Configuration;nginx proxy configuration error (config syntax);nginx proxy configuration error (config syntax)
+CA24;Nginx;Configuration;How to use nested Nginx location blocks (prefixes vs. regex directives)?;How to use nested Nginx location blocks (prefixes vs. regex directives)?
+CA25;Nginx;Configuration;nginx redirect with proxy_pass;nginx redirect with proxy_pass
+CA26;Nginx;Configuration;django, nginx, gunicorn 404 on any other page than the root;django, nginx, gunicorn 404 on any other page than the root
+CA27;Nginx;Configuration;Running more than two web applications on nginx;Running more than two web applications on nginx
+CA28;Others;Configuration;Do I need to escape backslash in a config file?;Do I need to escape backslash in a config file?
+CA29;Apache httpd;Configuration;mod_rewrite and double slash issue;mod_rewrite and double slash issue
+CA30;Apache httpd;Configuration;PHP Syntax Error On Apache 2.4.3 and PHP 5.4.7 (foreach template syntax) [closed];PHP Syntax Error On Apache 2.4.3 and PHP 5.4.7 (foreach template syntax) [closed]
+CA31;Others;Configuration;"The ""&"" character breaks passwords that are stored in the web.config";"The ""&"" character breaks passwords that are stored in the web.config"
+CA32;Others;Configuration;Barman geo-redundancy configuration error;Barman geo-redundancy configuration error
+CA33;Others;Configuration;Error Loading JSON from configuration file using ConfigParser;Error Loading JSON from configuration file using ConfigParser
+CA34;Others;Configuration;Inno Setup parameter with quotes in [Run] section;Inno Setup parameter with quotes in [Run] section
+CA35;MySQL;Configuration;mysql .my.cnf not reading credentials properly?;mysql .my.cnf not reading credentials properly?
+CA36;Others;Configuration;Can I use SPACE as mapleader in VIM?;Can I use SPACE as mapleader in VIM?
+CA37;Nginx;Configuration;nginx 500 error instead of 404;nginx 500 error instead of 404
+CA38;MySQL;Configuration;datetime format changed between mysql 5 0 and 5 1;datetime format changed between mysql 5 0 and 5 1
+CA39;Others;Configuration;Add MIME mapping in web.config for IIS Express;Add MIME mapping in web.config for IIS Express
+CA40;Apache httpd;Configuration;Apache Syntax Error;Apache Syntax Error
+CA41;Others;Configuration;"nginx the ""ssl"" directive is deprecated, use the ""listen ... ssl""";"nginx the ""ssl"" directive is deprecated, use the ""listen ... ssl"""
+CA42;Apache httpd;Configuration;can't have my virtualhosts working properly in Apache;can't have my virtualhosts working properly in Apache
+CA43;PostgreSQL;Configuration;pg_bulkload error: “FATAL: unrecognized configuration parameter ”wal_level“”;pg_bulkload error: “FATAL: unrecognized configuration parameter ”wal_level“”
+CA44;PostgreSQL;Configuration;unrecognized configuration parameter “autocommit” in PostgreSQL NodeJS;unrecognized configuration parameter “autocommit” in PostgreSQL NodeJS
+CA45;PostgreSQL;Configuration;Could not access file “pglogical” while trying to install pglogical;Could not access file “pglogical” while trying to install pglogical
+CA46;Nginx;Configuration;can't connect to mysql in playframework;can't connect to mysql in playframework
+CA47;Apache httpd;Configuration;Apache Virtual Host Issue;Apache Virtual Host Issue
+CA48;Apache httpd;Configuration;Jenkins under Apache httpd sometimes switches from SSL to plain HTTP;Jenkins under Apache httpd sometimes switches from SSL to plain HTTP
+CA49;Apache httpd;Configuration;Cannot set up suPHP with puppetlabs/apache on centos 6.5;Cannot set up suPHP with puppetlabs/apache on centos 6.5
+CA50;Nginx;Configuration;How to set up nginx in ubuntu with virtualbox;How to set up nginx in ubuntu with virtualbox
+CA51;Apache httpd;Configuration;Apache 2 restart fails;Apache 2 restart fails
+CA52;Nginx;Configuration;zlib.output_compression = On  interfering;zlib.output_compression = On  interfering
+CA53;PostgreSQL;Configuration;Rails cannot establish a Postgres connection;Rails cannot establish a Postgres connection
+CA54;Hadoop;Configuration;NodeManager NameNode ResourceManager DataNode SecondaryNameNode not running;NodeManager NameNode ResourceManager DataNode SecondaryNameNode not running
+CA55;Nginx;Configuration;Unknown error nginx;Unknown error nginx
+CA56;Nginx;Configuration;"[warn]: duplicate MIME type ""text/html"" in /etc/nginx/nginx.conf:25";"[warn]: duplicate MIME type ""text/html"" in /etc/nginx/nginx.conf:25"
+CA57;Nginx;Configuration;"*1 FastCGI sent in stderr: ""Primary script unknown"" while reading response header from upstream";"*1 FastCGI sent in stderr: ""Primary script unknown"" while reading response header from upstream"
+CA58;Nginx;Configuration;Nginx 1.8 Configuration Problems;Nginx 1.8 Configuration Problems
+CA59;Apache httpd;Configuration;What is wrong with my httpd.conf file?;What is wrong with my httpd.conf file?
+CA60;Nginx;Configuration;NGINX cache error: conflicts with already declared size 0 in /etc/nginx/nginx.conf;NGINX cache error: conflicts with already declared size 0 in /etc/nginx/nginx.conf
+CA61;Apache httpd;Configuration;how to diagnose dns virtual domain 404s;how to diagnose dns virtual domain 404s
+CA62;Apache httpd;Configuration;httpd overwrite conf file directive with conf.d directive;httpd overwrite conf file directive with conf.d directive
+CA63;PHP;Configuration;PHP-FPM 7.1 not accepting config parameters in Docker;PHP-FPM 7.1 not accepting config parameters in Docker
+CA64;Apache httpd;Configuration;500 error after creating htpasswd and edit htaccess;500 error after creating htpasswd and edit htaccess
+CA65;Apache httpd;Configuration;trying to setup a site with static HTML with Apache, but get 500 rather than 404;trying to setup a site with static HTML with Apache, but get 500 rather than 404
+CA66;Apache httpd;Configuration;Apache not responding to configuration changes;Apache not responding to configuration changes
+CA67;Nginx;Configuration;"nginx: [emerg] ""worker_processes"" directive is not allowed here in /etc/nginx/sites-enabled/default:1 nginx";"nginx: [emerg] ""worker_processes"" directive is not allowed here in /etc/nginx/sites-enabled/default:1 nginx"
+CA68;Others;Configuration;Custom App.config section causing configuration load error;Custom App.config section causing configuration load error
+CA69;Others;Configuration;Avoid web.config inheritance in child web application using inheritInChildApplications;Avoid web.config inheritance in child web application using inheritInChildApplications
+CA70;Nginx;Configuration;Use Nginx as Reverse Proxy for multiple servers;Use Nginx as Reverse Proxy for multiple servers
+CA71;Nginx;Configuration;Nginx + configuration error;Nginx + configuration error
+CA72;PHP;Configuration;Switching from MPM Worker to Event with PHP-FPM;Switching from MPM Worker to Event with PHP-FPM
+CA73;MySQL;Configuration;How to fix: mysql: [ERROR] Found option without preceding group in config file /etc/mysql/my.cnf?;How to fix: mysql: [ERROR] Found option without preceding group in config file /etc/mysql/my.cnf?
+CA74;MySQL;Configuration;percona and mysql audit;percona and mysql audit
+CA75;PostgreSQL;Configuration;the earlier line win, move a  config;the earlier line win, move a  config
+CA76;PHP;Configuration;PHP post_max_size vs upload_max_filesize;PHP post_max_size vs upload_max_filesize
+CA77;MySQL;Configuration;read_buffer_size can break your replication;read_buffer_size can break your replication
+CA78;Apache httpd;Configuration;virtual domain redirection working only partially with apache 2 2;virtual domain redirection working only partially with apache 2 2
+CA79;PHP;Configuration;file size exceeded the maximum size permitted phpmyadmin;file size exceeded the maximum size permitted phpmyadmin
+CA80;MySQL;Configuration;missing the initial / character   ;missing the initial / character   
+CA81;Nginx;Configuration;reconfigure SSL;reconfigure SSL
+CA82;Nginx;Configuration;wrong configuration: advanced nginx http to https redirect;wrong configuration: advanced nginx http to https redirect
+CA83;Others;Configuration; without any error message, wrong name; without any error message, wrong name
+CA84;PHP;Configuration;wrong syntax;wrong syntax
+CA85;PHP;Configuration;unclosed parentheses;unclosed parentheses
+CA86;Apache httpd;Configuration;missing /;missing /
+CA87;Nginx;Configuration;wrong position;wrong position
+CA88;Nginx;Configuration;configuration file name override;configuration file name override
+CA89;Nginx;Configuration;missing  /;missing  /
+CA90;Nginx;Configuration;duplicate =;duplicate =
+CA91;Nginx;Configuration;typo  && func;typo  && func
+CA92;Nginx;Configuration;typo ;typo 
+CA93;Nginx;Configuration;configuration it has a duplicate rule;configuration it has a duplicate rule
+CA94;PostgreSQL;Configuration;typo for wrong name;typo for wrong name
+CA95;PostgreSQL;Configuration;"wrap your ENV[""POSTGRES_PASSWORD""] with <%= ... %>";"wrap your ENV[""POSTGRES_PASSWORD""] with <%= ... %>"
+CA96;Hadoop;Configuration;In spark-submit the jars needed to be included before the script;In spark-submit the jars needed to be included before the script
+CA97;Nginx;Configuration;$backend2 wrong position;$backend2 wrong position
+CA98;Nginx;Configuration;nginx config is read top bottom with first match, add blog part upper in the site config;nginx config is read top bottom with first match, add blog part upper in the site config
+CA99;Nginx;Configuration;missing /;missing /
+CA100;Nginx;Configuration;file upload limit;file upload limit
+CA101;PHP;Configuration;wrong URL (phpinfo);wrong URL (phpinfo)
+CA102;Nginx;Configuration; cannot use both ipv6only=off and ipv6only=on; cannot use both ipv6only=off and ipv6only=on
+CA103;Nginx;Configuration;There should not have a space;There should not have a space
+CA104;MySQL;Configuration;Quotes are not special characters;Quotes are not special characters
+CA105;Nginx;Configuration;default configuration should be removed;default configuration should be removed
+CA106;Nginx;Configuration;default configuration should be removed;default configuration should be removed
+CA107;Nginx;Configuration;Nginx rate limiting reuse;Nginx rate limiting reuse
+CA108;Nginx;Configuration;"proxy_pass set with https and proxy_ssl_server_name on;";"proxy_pass set with https and proxy_ssl_server_name on;"
+CA109;PostgreSQL;Configuration;max_function_args is read-only;max_function_args is read-only
+CA110;PHP;Configuration;default configuration should be removed;default configuration should be removed
+CA111;PostgreSQL;Configuration;max connections;max connections
+CD1;MySQL;Configuration;mysql server running only on unix socket;mysql server running only on unix socket
+CD2;MySQL;Configuration;mysql not accepting connections from wp(WordPress);mysql not accepting connections from wp(WordPress)
+CD3;MySQL;Configuration;how to speed up a mysql import;how to speed up a mysql import
+CD4;MySQL;Configuration;error 2006 hy000 at line 149351 mysql server has gone away;error 2006 hy000 at line 149351 mysql server has gone away
+CD5;MySQL;Configuration;mysql shut down it self periodically;mysql shut down it self periodically
+CD6;MySQL;Configuration;MySQL Database Restore error;MySQL Database Restore error
+CD7;MySQL;Configuration;MySQL multi level replication breaks constantly;MySQL multi level replication breaks constantly
+CD8;MySQL;Configuration;mysql hangs up the server how to avoid this;mysql hangs up the server how to avoid this
+CD9;MySQL;Configuration;mysql 5 0 5 1 upgrade table upgrades taking a very long time;mysql 5 0 5 1 upgrade table upgrades taking a very long time
+CD10;MySQL;Configuration;datadump fails with exit code 1;datadump fails with exit code 1
+CD11;MySQL;Configuration;mysql 5 1 69 at centos 6 4 doesnt know enable named pipe;mysql 5 1 69 at centos 6 4 doesnt know enable named pipe
+CD12;MySQL;Configuration;mysql died during the night on a 12 04 1 ubuntu;mysql died during the night on a 12 04 1 ubuntu
+CD13;MySQL;Configuration;mysql failed to start error 1053 windows server 2008 r2;mysql failed to start error 1053 windows server 2008 r2
+CD14;MySQL;Configuration;mysql odbc issue data source name not found and no default driver specified;mysql odbc issue data source name not found and no default driver specified
+CD15;MySQL;Configuration;ubuntu 12 04 mysql 5 5 24 crashes everyday;ubuntu 12 04 mysql 5 5 24 crashes everyday
+CD16;MySQL;Configuration;files in mysql data folder;files in mysql data folder
+CD17;MySQL;Configuration;mysql max allowed packet greater than 1 gb is it possible;mysql max allowed packet greater than 1 gb is it possible
+CD18;MySQL;Configuration;mysql binary logs more than 15 gb;mysql binary logs more than 15 gb
+CD19;MySQL;Configuration;why does mysql say im out of memory（out of memory;why does mysql say im out of memory (out of memory
+CD20;MySQL;Configuration;mysql is running slow on db import;mysql is running slow on db import
+CD21;MySQL;Configuration;mysql cant create test file 1067 error;mysql cant create test file 1067 error
+CD22;MySQL;Configuration;could not start the service mysql error0 how to get mysql 5 5 server running;could not start the service mysql error0 how to get mysql 5 5 server running
+CD23;MySQL;Configuration;mysql 5 1 69 at centos 6 4 doesnt know enable named pipe;mysql 5 1 69 at centos 6 4 doesnt know enable named pipe
+CD24;MySQL;Configuration;mysql database config optimization;mysql database config optimization
+CD25;MySQL;Configuration;fixing mysql errors recorded in error logs;fixing mysql errors recorded in error logs
+CD26;MySQL;Configuration;mysql query extremely slow after server restart;mysql query extremely slow after server restart
+CD27;MySQL;Configuration;mysql binlogs seems incomplete;mysql binlogs seems incomplete
+CD28;MySQL;Configuration;innodb master master replication goes inconsistant after power failure tests;innodb master master replication goes inconsistant after power failure tests
+CD29;MySQL;Configuration;what are huge files 0 000001 and 0 000002 files and so on in mysql data folder;what are huge files 0 000001 and 0 000002 files and so on in mysql data folder
+CD30;MySQL;Configuration;mysql is running very slow on centos 6x not 5x;mysql is running very slow on centos 6x not 5x
+CD31;MySQL;Configuration;lots of mysql sleep processes;lots of mysql sleep processes
+CD32;MySQL;Configuration;24 cores and MYSQL is using 1 on INSERT;24 cores and MYSQL is using 1 on INSERT
+CD33;MySQL;Configuration;finding swap causes of mysql;finding swap causes of mysql
+CD34;MySQL;Configuration;Help about log mysql;Help about log mysql
+CD35;MySQL;Configuration;very slow mysql;very slow mysql
+CD36;MySQL;Configuration;mysql is hogging my server resources;mysql is hogging my server resources
+CD37;MySQL;Configuration;mysql connection taking too much time;mysql connection taking too much time
+CD38;Apache httpd;Configuration;Apache VirtualHost and ModProxy not working as hoped;Apache VirtualHost and ModProxy not working as hoped
+CD39;PHP;Configuration;Php-Fpm 7 server reached pm.max_children;Php-Fpm 7 server reached pm.max_children
+CD40;PHP;Configuration;MySql crashes randomly Out of memory: Kill process 24978 (mysqld) score 99 or sacrifice child;MySql crashes randomly Out of memory: Kill process 24978 (mysqld) score 99 or sacrifice child
+CD41;PHP;Configuration;Disabling PHP Deprecation Warnings and Notices;Disabling PHP Deprecation Warnings and Notices
+CD42;PHP;Configuration;php-fpm said “failed to post process the configuration”;php-fpm said “failed to post process the configuration”
+CD43;PHP;Configuration;How can I make the Apache/PHP setup on my VPS show PHP errors and warnings?;How can I make the Apache/PHP setup on my VPS show PHP errors and warnings?
+CD44;PHP;Configuration;PHP-FPM process getting crashed in every few days due to reached pm.max_children;PHP-FPM process getting crashed in every few days due to reached pm.max_children
+CD45;PHP;Configuration;Larger uploads not posting on nginx + php-fpm;Larger uploads not posting on nginx + php-fpm
+CD46;Nginx;Configuration;Raised PHP7.0-fpm capacity, still overloads;Raised PHP7.0-fpm capacity, still overloads
+CD47;PHP;Configuration;Unable to remove limit on memory usage for PHP script;Unable to remove limit on memory usage for PHP script
+CD48;Nginx;Configuration;Passing arbitrary http request headers to nginx and then to php;Passing arbitrary http request headers to nginx and then to php
+CD49;Nginx;Configuration;Communication failure between nginx and PHP-FPM;Communication failure between nginx and PHP-FPM
+CD50;PHP;Configuration;Need help executing php on Apple Xserve;Need help executing php on Apple Xserve
+CD51;Apache httpd;Configuration;Client denied by server configuration on Apache 2.4;Client denied by server configuration on Apache 2.4
+CD52;Nginx;Configuration;PHP/Nginx error(Win);PHP/Nginx error(Win)
+CD53;Nginx;Configuration;Strange issue with Nginx compiled from source and Nginx from official Fedora repository;Strange issue with Nginx compiled from source and Nginx from official Fedora repository
+CD54;PHP;Configuration;Percona: Got an error writing communication packets;Percona: Got an error writing communication packets
+CD55;Apache httpd;Configuration;Debian Apache Deflate mod not working;Debian Apache Deflate mod not working
+CD56;PHP;Configuration;PHP + AJAX cannot upload files larger than 100KB;PHP + AJAX cannot upload files larger than 100KB
+CD57;MySQL;Configuration;MySQL too many connections during normal conditions (Percona, InnoDB);MySQL too many connections during normal conditions (Percona, InnoDB)
+CD58;Apache httpd;Configuration;The mod_negotiation seems to be enabled, but .php files without extensions return 404;The mod_negotiation seems to be enabled, but .php files without extensions return 404
+CD59;Apache httpd;Configuration;HTTP Error: 413 Request Entity Too Large;HTTP Error: 413 Request Entity Too Large
+CD60;PHP;Configuration;Can't upload 5mb file using AJAX file uploader;Can't upload 5mb file using AJAX file uploader
+CD61;Apache httpd;Configuration;Apache webserver HTTPS port redirects to HTTP with port 443;Apache webserver HTTPS port redirects to HTTP with port 443
+CD62;Nginx;Configuration;How to make Zend 2 and Nginx work?;How to make Zend 2 and Nginx work?
+CD63;Apache httpd;Configuration;Error 404 with all pages but index in WordPress over Apache;Error 404 with all pages but index in WordPress over Apache
+CD64;Nginx;Configuration;why adding Expire-Header to static files in nginX does not work;why adding Expire-Header to static files in nginX does not work
+CD65;Nginx;Configuration;HaProxy edge redirecting to proxy port (instead of proxying) for certain URI patterns;HaProxy edge redirecting to proxy port (instead of proxying) for certain URI patterns
+CD66;Apache httpd;Configuration;Mod_rewrite (CakePHP routing functionality) forbidden after Snow Leopard upgrade;Mod_rewrite (CakePHP routing functionality) forbidden after Snow Leopard upgrade
+CD67;Apache httpd;Configuration;apache2 sends corrupt responses when using a cifs-share;apache2 sends corrupt responses when using a cifs-share
+CD68;Apache httpd;Configuration;NameVirtualHost 12.345.67.89:443 has no VirtualHosts after enabling and disabling suexec module;NameVirtualHost 12.345.67.89:443 has no VirtualHosts after enabling and disabling suexec module
+CD69;Apache httpd;Configuration;setting up mod proxy in apache;setting up mod proxy in apache
+CD70;Apache httpd;Configuration;apache htaccess rewriterule to remove trailing slash infinite loop;apache htaccess rewriterule to remove trailing slash infinite loop
+CD71;Apache httpd;Configuration;configure new server for htaccess;configure new server for htaccess
+CD72;Apache httpd;Configuration;how can i prevent users from seeing my php source code;how can i prevent users from seeing my php source code
+CD73;Apache httpd;Configuration;seperate server logs;seperate server logs
+CD74;Apache httpd;Configuration;how to stop mod deflate from logging to my php error log;how to stop mod deflate from logging to my php error log
+CD75;Apache httpd;Configuration;ssl error 107 apache2 ssl config;ssl error 107 apache2 ssl config
+CD76;Apache httpd;Configuration;ec2 apache server giving some old browsers a self signed certificate;ec2 apache server giving some old browsers a self signed certificate
+CD77;Apache httpd;Configuration;htaccess does not ask the password;htaccess does not ask the password
+CD78;Apache httpd;Configuration;how to check and change permissions of files and folders for web server in windo;how to check and change permissions of files and folders for web server in windo
+CD79;Apache httpd;Configuration;starting apache 2 at boot on mac os x server 10 6;starting apache 2 at boot on mac os x server 10 6
+CD80;Apache httpd;Configuration;apache permission errors;apache permission errors
+CD81;Apache httpd;Configuration;apache virtualhost entry with windows hostname;apache virtualhost entry with windows hostname
+CD82;Apache httpd;Configuration;Hadoop is not showing my job in the job tracker even though it is running;Hadoop is not showing my job in the job tracker even though it is running
+CD83;Apache httpd;Configuration;Can't Get Any Browser to Prompt for A Client Certificate (Certificates on Apache);Can't Get Any Browser to Prompt for A Client Certificate (Certificates on Apache)
+CD84;Apache httpd;Configuration;httpd overwrite conf file directive with conf.d directive;httpd overwrite conf file directive with conf.d directive
+CD85;Apache httpd;Configuration;nginx mysterious error despite right configuration;nginx mysterious error despite right configuration
+CD86;Apache httpd;Configuration;Log4j appenders for spring DependencyInjectionTestExecutionListener;Log4j appenders for spring DependencyInjectionTestExecutionListener
+CD87;Apache httpd;Configuration;Nginx proxy configuration error: [crit] pread();Nginx proxy configuration error: [crit] pread()
+CD88;Apache httpd;Configuration;Error: Configuration with name 'default' not found in Android Studio;Error: Configuration with name 'default' not found in Android Studio
+CD89;Apache httpd;Configuration;Apache “Client denied by server configuration”, despite allowing access to directory (vhost configuration);Apache “Client denied by server configuration”, despite allowing access to directory (vhost configuration)
+CD90;Apache httpd;Configuration;Too many redirect when trying to redirect domain to subfolder to VirtualHost;Too many redirect when trying to redirect domain to subfolder to VirtualHost
+CD91;Apache httpd;Configuration;apache configuration for drupal multisite;apache configuration for drupal multisite
+CD92;Apache httpd;Configuration;Cannot display custom error pages on different VirtualHosts in Apache;Cannot display custom error pages on different VirtualHosts in Apache
+CD93;Apache httpd;Configuration;Cannot serve html file as directory;Cannot serve html file as directory
+CD94;Apache httpd;Configuration;The apache2handler SAPI is not supported by pthreads;The apache2handler SAPI is not supported by pthreads
+CD95;Apache httpd;Configuration;SSL is not working;SSL is not working
+CD96;Apache httpd;Configuration;client denied by server configuration: /var/www/cgi-bintest.pl;client denied by server configuration: /var/www/cgi-bintest.pl
+CD97;Apache httpd;Configuration;Cannot get html/css/jpg pages server by both apache & tomcat with mod_jk;Cannot get html/css/jpg pages server by both apache & tomcat with mod_jk
+CD98;Apache httpd;Configuration;Apache return 500 error with authentication by LDAP secure port (ldaps);Apache return 500 error with authentication by LDAP secure port (ldaps)
+CD99;Apache httpd;Configuration;Apache 2.2 cut very long URLs from Wildfly;Apache 2.2 cut very long URLs from Wildfly
+CD100;Apache httpd;Configuration;apache returns error message in body while returning 200 status code;apache returns error message in body while returning 200 status code
+CD101;Apache httpd;Configuration;Apache hangs after every 2-3 weeks, with closed_wait connections increasing until it is restarted;Apache hangs after every 2-3 weeks, with closed_wait connections increasing until it is restarted
+CD102;Apache httpd;Configuration;AH01711: auth_ldap authorise: User DN not found, User not found;AH01711: auth_ldap authorise: User DN not found, User not found
+CD103;Apache httpd;Configuration;AH01630: client denied by server configuration;AH01630: client denied by server configuration
+CD104;Apache httpd;Configuration;Apache Load Balancing Proxy bypass not working;Apache Load Balancing Proxy bypass not working
+CD105;Apache httpd;Configuration;error in Virtual Host's SSL certificate file;error in Virtual Host's SSL certificate file
+CD106;Apache httpd;Configuration;Error when trying to get the hang of the reverse proxy features in Apache;Error when trying to get the hang of the reverse proxy features in Apache
+CD107;Apache httpd;Configuration;SSL Certificate error in Apache 2.4;SSL Certificate error in Apache 2.4
+CD108;Apache httpd;Configuration;can't change document root in apache;can't change document root in apache
+CD109;Apache httpd;Configuration;WINNT Apache MPM “ThreadsPerChild” configuration on Windows Server 2008 R2;WINNT Apache MPM “ThreadsPerChild” configuration on Windows Server 2008 R2
+CD110;Apache httpd;Configuration;OpenSSL 0.9 on CentOS Not Generating SSL Cert Correctly;OpenSSL 0.9 on CentOS Not Generating SSL Cert Correctly
+CD111;Others;Configuration;How to change the language used within the Cygwin terminal?;How to change the language used within the Cygwin terminal?
+CD112;Nginx;Configuration;Nginx/Php Fastcgi permission issue;Nginx/Php Fastcgi permission issue
+CD113;Others;Configuration;Error : No unix socket support on windows connecting mongodb;Error : No unix socket support on windows connecting mongodb
+CD114;MySQL;Configuration;Can't connect to local MySQL server through socket '/var/mysql/mysql.sock';Can't connect to local MySQL server through socket '/var/mysql/mysql.sock'
+CD115;Others;Configuration;Solr DataImportHandler not found;Solr DataImportHandler not found
+CD116;MySQL;Configuration;ASP.Net MVC4 configuration error after installing MySQL Connector .NET;ASP.Net MVC4 configuration error after installing MySQL Connector .NET
+CD117;Nginx;Configuration;"Symfony - Nginx Configuration error : FastCGI sent in stderr ""Primary script unknown""";"Symfony - Nginx Configuration error : FastCGI sent in stderr ""Primary script unknown"""
+CD118;Others;Configuration;Log4j different appenders for different log levels using properties file;Log4j different appenders for different log levels using properties file
+CD119;Others;Configuration;log4j2 - limiting the number of log files;log4j2 - limiting the number of log files
+CD120;Others;Configuration;My log4j2 log file always have double output of each line. How can I stop the duplication please?;My log4j2 log file always have double output of each line. How can I stop the duplication please?
+CD121;Others;Configuration;log4j appender threshold and category;log4j appender threshold and category
+CD122;Others;Configuration;How do I write error info in a separate file using log4j;How do I write error info in a separate file using log4j
+CD123;Others;Configuration;How do I configure logback to gzip my logs automatically?;How do I configure logback to gzip my logs automatically?
+CD124;MySQL;Configuration;How to shrink/purge ibdata1 file in MySQL;How to shrink/purge ibdata1 file in MySQL
+CD125;Nginx;Configuration;correct configuration for nginx to localhost?;correct configuration for nginx to localhost?
+CD126;Nginx;Configuration;"nginx ""server"" directive with multiple ""server_name"" entries: always first one is passed to PHP's $_SERVER['SERVER_NAME']";"nginx ""server"" directive with multiple ""server_name"" entries: always first one is passed to PHP's $_SERVER['SERVER_NAME']"
+CD127;Nginx;Configuration;ERR_CONTENT_LENGTH_MISMATCH on nginx and proxy on Chrome when loading large files;ERR_CONTENT_LENGTH_MISMATCH on nginx and proxy on Chrome when loading large files
+CD128;Others;Configuration;Best practices when running Node.js with port 80 (Ubuntu / Linode) [closed];Best practices when running Node.js with port 80 (Ubuntu / Linode) [closed]
+CD129;Others;Configuration;Spring Boot JPA - configuring auto reconnect;Spring Boot JPA - configuring auto reconnect
+CD130;Others;Configuration;Tomcat - How to limit the maximum memory Tomcat will use;Tomcat - How to limit the maximum memory Tomcat will use
+CD131;Others;Configuration;How do I increase the RAM and set up host-only networking in Vagrant?;How do I increase the RAM and set up host-only networking in Vagrant?
+CD132;Others;Configuration;How to set Python language specific tab spacing in Visual Studio Code?;How to set Python language specific tab spacing in Visual Studio Code?
+CD133;PHP;Configuration;beanstalkd driver configuration error in laravel app;beanstalkd driver configuration error in laravel app
+CD134;Nginx;Configuration;nginx rewrite with index configuration error;nginx rewrite with index configuration error
+CD135;Nginx;Configuration;'No Input file specified' error - NginX / fcgi - when requesting non-existant .php file;'No Input file specified' error - NginX / fcgi - when requesting non-existant .php file
+CD136;Nginx;Configuration;GitLab behind nginx doesn't work;GitLab behind nginx doesn't work
+CD137;Apache httpd;Configuration;Setup mod_proxy on apache http server;Setup mod_proxy on apache http server
+CD138;MySQL;Configuration;Barman geo-redundancy configuration error;Barman geo-redundancy configuration error
+CD139;Nginx;Configuration;Redirect to 127.0.0.1 when access a wordpress hosted with apache and nginx in proxy;Redirect to 127.0.0.1 when access a wordpress hosted with apache and nginx in proxy
+CD140;Others;Configuration;org.hibernate.HibernateException: Access to DialectResolutionInfo cannot be null when 'hibernate.dialect' not set;org.hibernate.HibernateException: Access to DialectResolutionInfo cannot be null when 'hibernate.dialect' not set
+CD141;Others;Configuration;Spring-Boot MVC Template Not Loading (404 Not Found);Spring-Boot MVC Template Not Loading (404 Not Found)
+CD142;Nginx;Configuration;How to set the allowed url length for a nginx request (error code: 414, uri too large);How to set the allowed url length for a nginx request (error code: 414, uri too large)
+CD143;Nginx;Configuration;Error 502 in nginx + php5-fpm;Error 502 in nginx + php5-fpm
+CD144;Nginx;Configuration;Why is Custom Error Page not working in my nginx configuration?;Why is Custom Error Page not working in my nginx configuration?
+CD145;Nginx;Configuration;File Not Found when running PHP with Nginx;File Not Found when running PHP with Nginx
+CD146;Others;Configuration;WCF client endpoint: SecurityNegotiationException without <dns>;WCF client endpoint: SecurityNegotiationException without <dns>
+CD147;Nginx;Configuration;NGINX server block configuration for hosting multiple websites on Ubuntu 16.04;NGINX server block configuration for hosting multiple websites on Ubuntu 16.04
+CD148;Nginx;Configuration;How to upload an image using NodeJS, Nginx and base64? (413 PayloadTooLargeError: request entity too large);How to upload an image using NodeJS, Nginx and base64? (413 PayloadTooLargeError: request entity too large)
+CD149;Nginx;Configuration;Proxy Protocol with NGinx, LXD/LXC and Kong;Proxy Protocol with NGinx, LXD/LXC and Kong
+CD150;Nginx;Configuration;nginx ssl + react + node, response is timeout;nginx ssl + react + node, response is timeout
+CD151;Nginx;Configuration;Websockets not working on iOS and Safari - OSSStatus Error 9837;Websockets not working on iOS and Safari - OSSStatus Error 9837
+CD152;Nginx;Configuration;Cannot use url to navigate in react through nginx;Cannot use url to navigate in react through nginx
+CD153;Nginx;Configuration;nginx not serving the sitemap file;nginx not serving the sitemap file
+CD154;Nginx;Configuration;kubernetes nginx ingress error with configuration-snippet;kubernetes nginx ingress error with configuration-snippet
+CD155;Nginx;Configuration;nginx configuration for node subdomain gives 502 error;nginx configuration for node subdomain gives 502 error
+CD156;Others;Configuration;Hibernate reverse engineering in eclipse from SQL Server Express R2;Hibernate reverse engineering in eclipse from SQL Server Express R2
+CD157;Others;Configuration;AVD hardware buttons not enabled;AVD hardware buttons not enabled
+CD158;Nginx;Configuration;"nginx: [emerg] ""fastcgi_pass"" directive is not allowed here";"nginx: [emerg] ""fastcgi_pass"" directive is not allowed here"
+CD159;Others;Configuration;Configuration Error;Configuration Error
+CD160;Others;Configuration;Configuration Error: Missing Region in Config (AWS);Configuration Error: Missing Region in Config (AWS)
+CD161;Others;Configuration;"""A configuration with this name already exists"" error in eclipse run configurations";"""A configuration with this name already exists"" error in eclipse run configurations"
+CD162;Others;Configuration;Why do I need to configure the SQL dialect of a data source?;Why do I need to configure the SQL dialect of a data source?
+CD163;Others;Configuration;"Injection of autowired dependencies failed; nested exception is java.lang.NoClassDefFoundError: org/hibernate/cfg/Configuration";"Injection of autowired dependencies failed; nested exception is java.lang.NoClassDefFoundError: org/hibernate/cfg/Configuration"
+CD164;Others;Configuration;Error Caused by: org.hibernate.HibernateException: Could not instantiate connection provider [org.connection.C3P0ConnectionProvider];Error Caused by: org.hibernate.HibernateException: Could not instantiate connection provider [org.connection.C3P0ConnectionProvider]
+CD165;Others;Configuration;Config Error: This configuration section cannot be used at this path;Config Error: This configuration section cannot be used at this path
+CD166;Others;Configuration;log4j log message during log4j initialization;log4j log message during log4j initialization
+CD167;Others;Configuration;Log4net configuration error;Log4net configuration error
+CD168;MySQL;Configuration;increase max_allowed_packet size in mysql docker;increase max_allowed_packet size in mysql docker
+CD169;Nginx;Configuration;Nginx reverse proxy to Heroku fails SSL handshake;Nginx reverse proxy to Heroku fails SSL handshake
+CD170;Others;Configuration;ReSharper configuration error for href;ReSharper configuration error for href
+CD171;Others;Configuration;How to display auto-configuration report when running a Spring Boot application;How to display auto-configuration report when running a Spring Boot application
+CD172;Others;Configuration;Turning off auto indent when pasting text into vim;Turning off auto indent when pasting text into vim
+CD173;Nginx;Configuration;Nginx Installation on Ubuntu giving 500 error;Nginx Installation on Ubuntu giving 500 error
+CD174;Nginx;Configuration;Nginx cannot serve with permission error;Nginx cannot serve with permission error
+CD175;Others;Configuration;how to define a host with https in action_mailer.default_url_options;how to define a host with https in action_mailer.default_url_options
+CD176;Others;Configuration;"What does ""resource varying by configuration"" error mean?";"What does ""resource varying by configuration"" error mean?"
+CD177;Apache httpd;Configuration;"Error message ""Forbidden You don't have permission to access / on this server"" [closed]";"Error message ""Forbidden You don't have permission to access / on this server"" [closed]"
+CD178;Others;Configuration;Is possible to change the default diff tool in Mercurial?;Is possible to change the default diff tool in Mercurial?
+CD179;MySQL;Configuration;"How to make sql-mode=""NO_ENGINE_SUBSTITUTION"" permanent in MySQL my.cnf";"How to make sql-mode=""NO_ENGINE_SUBSTITUTION"" permanent in MySQL my.cnf"
+CD180;Nginx;Configuration;"nginx 'invalid number of arguments in ""map"" directive'";"nginx 'invalid number of arguments in ""map"" directive'"
+CD181;Others;Configuration;Maven Cobertura OutOfMemoryError;Maven Cobertura OutOfMemoryError
+CD182;Nginx;Configuration;Nginx + Php Fpm scaling issues on AWS EC2 instance;Nginx + Php Fpm scaling issues on AWS EC2 instance
+CD183;PostgreSQL;Configuration;Deal with Postgresql Error -canceling statement due to conflict with recovery- in psycopg2;Deal with Postgresql Error -canceling statement due to conflict with recovery- in psycopg2
+CD184;PostgreSQL;Configuration;postgresql failing with below error on lion os x;postgresql failing with below error on lion os x
+CD185;PostgreSQL;Configuration;Dump and Zip file can not resore odoo 8, how to solve it?;Dump and Zip file can not resore odoo 8, how to solve it?
+CD186;PostgreSQL;Configuration;Django throws OperationalError : index row requires 35424 bytes, maximum size is 8191;Django throws OperationalError : index row requires 35424 bytes, maximum size is 8191
+CD187;PostgreSQL;Configuration;Log firing of triggers in postgres 9.1;Log firing of triggers in postgres 9.1
+CD188;PostgreSQL;Configuration;“root” execution of the PostgreSQL server is not permitted;“root” execution of the PostgreSQL server is not permitted
+CD189;PostgreSQL;Configuration;How can I get psql to work in ubuntu from shell: $ psql -U admin -d mydb;How can I get psql to work in ubuntu from shell: $ psql -U admin -d mydb
+CD190;PostgreSQL;Configuration;Got error while creating database in postgres;Got error while creating database in postgres
+CD191;PostgreSQL;Configuration;PostgreSQL V12 create temp table runs out of shared memory, can I create on disk?;PostgreSQL V12 create temp table runs out of shared memory, can I create on disk?
+CD192;PostgreSQL;Configuration;master-datasources.xml content always revert back to initial configuration when I start wso2server 5.9;master-datasources.xml content always revert back to initial configuration when I start wso2server 5.9
+CD193;PostgreSQL;Configuration;What steps should I follow to get postgresql into development in my Rails app?;What steps should I follow to get postgresql into development in my Rails app?
+CD194;PostgreSQL;Configuration;Kubernetes persistent volume mount for PgAdmin;Kubernetes persistent volume mount for PgAdmin
+CD195;PostgreSQL;Configuration;Best Practice for Running Programmatic Postgres DB Migrations on Linux;Best Practice for Running Programmatic Postgres DB Migrations on Linux
+CD196;PostgreSQL;Configuration;PostgreSQL and the Linux Kernel;PostgreSQL and the Linux Kernel
+CD197;PostgreSQL;Configuration;Postgresql 10 and Ubuntu - Unable to postgresql server UP;Postgresql 10 and Ubuntu - Unable to postgresql server UP
+CD198;PostgreSQL;Configuration;Postfix is looking for /etc/aliases.db for some reason instead of using Postgresql db;Postfix is looking for /etc/aliases.db for some reason instead of using Postgresql db
+CD199;Hadoop;Configuration;high availability of spark driver;high availability of spark driver
+CD200;Hadoop;Configuration;application rejected by queue placement policy;application rejected by queue placement policy
+CD201;Hadoop;Configuration;Spark: Self-suppression not permitted when writing big file to HDFS;Spark: Self-suppression not permitted when writing big file to HDFS
+CD202;Hadoop;Configuration;map reduce error on smoke test;map reduce error on smoke test
+CD203;Hadoop;Configuration;Why AWS is rejecting my connections when I am using wholeTextFiles() with pyspark?;Why AWS is rejecting my connections when I am using wholeTextFiles() with pyspark?
+CD204;Hadoop;Configuration;pig join gets OutOfMemoryError in reducer when mapred.job.shuffle.input.buffer.percent=0.70;pig join gets OutOfMemoryError in reducer when mapred.job.shuffle.input.buffer.percent=0.70
+CD205;Hadoop;Configuration;could only be replicated to 0 nodes instead of minReplication (=1). There are 4 datanode(s) running and no node(s) are excluded in this operation;could only be replicated to 0 nodes instead of minReplication (=1). There are 4 datanode(s) running and no node(s) are excluded in this operation
+CD206;Hadoop;Configuration;Reading Nested data from ElasticSearch via Spark Scala;Reading Nested data from ElasticSearch via Spark Scala
+CD207;Apache httpd;Configuration;500 Internal Server Error when setting up Apache on localhost;500 Internal Server Error when setting up Apache on localhost
+CD223;MySQL;Configuration;MySQL slow query log logging all queries;MySQL slow query log logging all queries
+CD224;PHP;Configuration;Why is PHP Composer so slow?;Why is PHP Composer so slow?
+CD225;Hadoop;Configuration;Kryo serialization error in Spark job;Kryo serialization error in Spark job
+CD226;Nginx;Configuration;How to make nginx CORS configuration work when server returns error?;How to make nginx CORS configuration work when server returns error?
+CD227;Apache httpd;Configuration;giving a 502 error when retrieving the static files;giving a 502 error when retrieving the static files
+CD228;MySQL;Configuration;mysql binlog not logging;mysql binlog not logging
+CD229;PHP;Configuration;How can I display and log PHP errors on IIS7?;How can I display and log PHP errors on IIS7?
+CD230;PHP;Configuration;when I try to use the mail() function in oder to programmatically send emails via PHP. Then I get this error:;when I try to use the mail() function in oder to programmatically send emails via PHP. Then I get this error:
+CD231;Nginx;Configuration;NginX->Varnish->PHP-FPM Blank pages，put nginx in front of Varnish failed;NginX->Varnish->PHP-FPM Blank pages，put nginx in front of Varnish failed
+CD232;Nginx;Configuration;Blank Page: wordpress on nginx+php-fpm（unable to serve anything but blank pages.;Blank Page: wordpress on nginx+php-fpm（unable to serve anything but blank pages.
+CD233;Apache httpd;Configuration;Apache HTTPD: “client denied by server configuration: .htaccess” Even When .htaccess is Blank;Apache HTTPD: “client denied by server configuration: .htaccess” Even When .htaccess is Blank
+CD234;Apache httpd;Configuration;Apache 2.4 mutual authentication - AH01797: client denied by server configuration;Apache 2.4 mutual authentication - AH01797: client denied by server configuration
+CD235;Apache httpd;Configuration;ImportError: No module named django.core.handlers.wsgi in install django mod_wsgi config on apache;ImportError: No module named django.core.handlers.wsgi in install django mod_wsgi config on apache
+CD236;Apache httpd;Configuration;Popen does not work anymore with apache/wsgi and python 2.7.2?;Popen does not work anymore with apache/wsgi and python 2.7.2?
+CD237;Others;Configuration;How to disable open browser in CRA?;How to disable open browser in CRA?
+CD238;Others;Configuration;"Heroku push of django app gets ""No module named psycopg2.extensions""";"Heroku push of django app gets ""No module named psycopg2.extensions"""
+CD239;Apache httpd;Configuration;Error on python web page;Error on python web page
+CD240;Nginx;Configuration;"How to fix ""404 not found"" error on nginx configuration";"How to fix ""404 not found"" error on nginx configuration"
+CD241;Apache httpd;Configuration;SSL Site Returns Bad Gateway Error in IE, Works Fine In Other Browsers;SSL Site Returns Bad Gateway Error in IE, Works Fine In Other Browsers
+CD242;Apache httpd;Configuration;Cannot configure a sub-domain in Apache;Cannot configure a sub-domain in Apache
+CD243;MySQL;Configuration;extreme slowness with a remote database in drupal;extreme slowness with a remote database in drupal
+CD244;Apache httpd;Configuration;Client denied by server configuration on Apache 2.4;Client denied by server configuration on Apache 2.4
+CD245;Hadoop;Configuration;Hadoop is not showing my job in the job tracker even though it is running;Hadoop is not showing my job in the job tracker even though it is running
+CD246;Apache httpd;Configuration;Can't Get Any Browser to Prompt for A Client Certificate (Certificates on Apache);Can't Get Any Browser to Prompt for A Client Certificate (Certificates on Apache)
+CD247;MySQL;Configuration;SQL mode NO_ZERO_DATE to make the wrong date number;SQL mode NO_ZERO_DATE to make the wrong date number
+CD248;MySQL;Configuration; Increase innodb_buffer_pool_size performance may suffer if you keep the cache size the same.; Increase innodb_buffer_pool_size performance may suffer if you keep the cache size the same.
+CD249;MySQL;Configuration;wrong storage engine;wrong storage engine
+CD250;Others;Configuration;remove dependency and  add two configs in properties;remove dependency and  add two configs in properties
+CD251;Others;Configuration; initial configuration with username and password has a few errors; initial configuration with username and password has a few errors
+CD252;MySQL;Configuration;innodb_buffer_pool_size should be about 70% of available RAM to improve performance;innodb_buffer_pool_size should be about 70% of available RAM to improve performance
+CD253;MySQL;Configuration;wrong storage engine, default value;wrong storage engine, default value
+CD254;MySQL;Configuration; value has to be set at startup; value has to be set at startup
+CD255;MySQL;Configuration;too many connections error, SetMaxOpenConns SetMaxIdleConns;too many connections error, SetMaxOpenConns SetMaxIdleConns
+CD256;MySQL;Configuration; the environment variable UPLOAD_LIMIT to your desired limit.; the environment variable UPLOAD_LIMIT to your desired limit.
+CD257;PHP;Configuration;add an options array with the path to your certificate;add an options array with the path to your certificate
+CD258;MySQL;Configuration;slowly and gradually the RAM is occupied;slowly and gradually the RAM is occupied
+CD259;MySQL;Configuration;change the max index size;change the max index size
+CD260;MySQL;Configuration;allows the client to read the file content on the computer where the client runs  secure-file-privLOAD DATA LOCAL INFILE;allows the client to read the file content on the computer where the client runs  secure-file-privLOAD DATA LOCAL INFILE
+CD261;MySQL;Configuration;max_allowed_packet net_read_timeout lost connection;max_allowed_packet net_read_timeout lost connection
+CD262;MySQL;Configuration;change mysql case sensitivity setting. make it case insensitive.;change mysql case sensitivity setting. make it case insensitive.
+CD263;MySQL;Configuration;"add  a config testWhileIdle=""true""";"add  a config testWhileIdle=""true"""
+CD264;PHP;Configuration;throw' => true has to be true for debugging;throw' => true has to be true for debugging
+CD265;PHP;Configuration;disabling php's garbage collector (by setting to gc_probability0);disabling php's garbage collector (by setting to gc_probability0)
+CD266;PHP;Configuration;change the maximum upload file size;change the maximum upload file size
+CD267;PHP;Configuration;You need to also list in the debug mode value:develop;You need to also list in the debug mode value:develop
+CD268;PHP;Configuration;set allow_url_fopen=1;set allow_url_fopen=1
+CD269;PHP;Configuration; added the PHP path to environment variables; added the PHP path to environment variables
+CD270;PHP;Configuration;PHP memory limit;PHP memory limit
+CD271;PHP;Configuration;set a list of directories to skip in the PHP configuration of ownCloud;set a list of directories to skip in the PHP configuration of ownCloud
+CD272;Nginx;Configuration;increase file upload size;increase file upload size
+CD273;PHP;Configuration;all the post data in the form are limited;all the post data in the form are limited
+CD274;Apache httpd;Configuration;"turn off ""ProxyPreserveHost"" in section";"turn off ""ProxyPreserveHost"" in section"
+CD275;Nginx;Configuration;Missing proxy_read_timeout 86400;Missing proxy_read_timeout 86400
+CD276;Nginx;Configuration;port ranging from 0-1023 as it is intended for system use. Hence updated the answer to allow ports from 1025:65535;port ranging from 0-1023 as it is intended for system use. Hence updated the answer to allow ports from 1025:65535
+CD277;Nginx;Configuration;https HTTP_PROXY_NAME=foo.org HTTP_SCHEME=https;https HTTP_PROXY_NAME=foo.org HTTP_SCHEME=https
+CD278;Nginx;Configuration;"missing config proxy_set_header Host $http_host;";"missing config proxy_set_header Host $http_host;"
+CD279;Nginx;Configuration;"wrong config for try_files $uri $uri/ =404;      ";"wrong config for try_files $uri $uri/ =404;      "
+CD280;Nginx;Configuration;increase ingress resource:  increase the body size of files;increase ingress resource:  increase the body size of files
+CD281;PHP;Configuration;two differernt version of PHP listen to one port;two differernt version of PHP listen to one port
+CD282;Nginx;Configuration;parameter list lost some pages;parameter list lost some pages
+CD283;Nginx;Configuration;file too big make the cpu wait;file too big make the cpu wait
+CD284;MySQL;Configuration;MySQL version 5 or 8.0 and later. And your server is configured to use the protocol of TLS 1.2.;MySQL version 5 or 8.0 and later. And your server is configured to use the protocol of TLS 1.2.
+CD285;Nginx;Configuration;out of memory;out of memory
+CD286;Nginx;Configuration;"a separate must be there to handle ""normal"" HTTP requests";"a separate must be there to handle ""normal"" HTTP requests"
+CD287;Nginx;Configuration;"proxy_set_header Connection $http_connection;";"proxy_set_header Connection $http_connection;"
+CD288;Nginx;Configuration;utilise proxy_next_upstream and require request;utilise proxy_next_upstream and require request
+CD289;Nginx;Configuration;modifying keys_zone to larger value cache size;modifying keys_zone to larger value cache size
+CD290;Nginx;Configuration;server block not active;server block not active
+CD291;Nginx;Configuration;redirect;redirect
+CD292;Nginx;Configuration;disable .autoindex on to prevent people see files;disable .autoindex on to prevent people see files
+CD293;PostgreSQL;Configuration;set the statement_timeout to kill the long running queries;set the statement_timeout to kill the long running queries
+CD294;PostgreSQL;Configuration;compress file;compress file
+CD295;PostgreSQL;Configuration;waiting time connectionTimeoutMillis;waiting time connectionTimeoutMillis
+CD296;PostgreSQL;Configuration;func;func
+CD297;PostgreSQL;Configuration;set max_parallel_workers_per_gather=0  to 27 minutes from ~3 hour;set max_parallel_workers_per_gather=0  to 27 minutes from ~3 hour
+CD298;PHP;Configuration;conflict config about php version;conflict config about php version
+CD299;MySQL;Configuration;'Persist Value' set for max_allowed_packet.;'Persist Value' set for max_allowed_packet.
+CD300;PHP;Configuration;different version conflict configs;different version conflict configs
+CD301;Apache httpd;Configuration;applications with OAuth2 login are exposed to CSRF attacks, so it's a big mistake to disable CSRF protection);applications with OAuth2 login are exposed to CSRF attacks, so it's a big mistake to disable CSRF protection)
+CD302;Apache httpd;Configuration;the default value for the timeout until the completion of SQL queries in Oracle REST Data Services was 15 minutes;the default value for the timeout until the completion of SQL queries in Oracle REST Data Services was 15 minutes
+CD303;Apache httpd;Configuration;missing listen port;missing listen port
+CD304;Apache httpd;Configuration;do not setdefault SSLEngine off to on;do not setdefault SSLEngine off to on
+CD305;Apache httpd;Configuration;do not set default SSLEngine off to on;do not set default SSLEngine off to on
+CD306;Hadoop;Configuration;do not set fs.defaultFS to right value;do not set fs.defaultFS to right value
+CD307;Hadoop;Configuration;do not set path of cache properly;do not set path of cache properly
+CD308;Hadoop;Configuration;the default configuration is to use only one partition for small dataset;the default configuration is to use only one partition for small dataset
+CD309;Hadoop;Configuration;The configuration keys differ between Presto and Hadoop;The configuration keys differ between Presto and Hadoop
+CD310;Hadoop;Configuration;the interceptor was not defined a1.sources.r1.interceptors = i1;the interceptor was not defined a1.sources.r1.interceptors = i1
+CD311;Nginx;Configuration;do not set resolver  point to dockers container dns:;do not set resolver  point to dockers container dns:
+CD312;Others;Configuration;do not set spring.jpa.hibernate.ddl-auto properly;do not set spring.jpa.hibernate.ddl-auto properly
+CD313;MySQL;Configuration;completly ignored client side settings.;completly ignored client side settings.
+CD314;Others;Configuration;do not delete spring.jpa.hibernate.ddl-auto;do not delete spring.jpa.hibernate.ddl-auto
+CD315;Others;Configuration;do not set xpack.security.enabled=false;do not set xpack.security.enabled=false
+CD316;MySQL;Configuration;wrong value for spring.jpa.properties.hibernate.dialect;wrong value for spring.jpa.properties.hibernate.dialect
+CD317;Others;Configuration;spring.datasource.hikari.connectionTimeout too small;spring.datasource.hikari.connectionTimeout too small
+CD318;MySQL;Configuration;do not set password for admin;do not set password for admin
+CD319;Nginx;Configuration;change the file path;change the file path
+CD320;Nginx;Configuration;doesn't accept insecure connections should listen port 443;doesn't accept insecure connections should listen port 443
+CD321;Nginx;Configuration;do not set dns resolver ip;do not set dns resolver ip
+CD322;Nginx;Configuration;set client_body_in_file_only to clean to stop adding nodes;set client_body_in_file_only to clean to stop adding nodes
+CD323;Nginx;Configuration;did not set port to listen;did not set port to listen
+CD324;Nginx;Configuration;should set ipv6;should set ipv6
+CD325;Nginx;Configuration;wrong port and lack of a configuration ;wrong port and lack of a configuration 
+CD326;Nginx;Configuration;add resolver 127.0.0.11 ipv6=off;add resolver 127.0.0.11 ipv6=off
+CD327;Nginx;Configuration;add some configurations to files;add some configurations to files
+CD328;Nginx;Configuration;should use http not https;should use http not https
+CD329;Nginx;Configuration;add some configurations to files;add some configurations to files
+CD330;Nginx;Configuration;add some configurations to files;add some configurations to files
+CD331;Nginx;Configuration;add some configurations to files;add some configurations to files
+CD332;Nginx;Configuration;add some configurations to files;add some configurations to files
+CD333;Others;Configuration;configure spring's property server.forward-headers-strategy to either native or framework;configure spring's property server.forward-headers-strategy to either native or framework
+CD334;Nginx;Configuration;did not listen to port 443;did not listen to port 443
+CD335;Nginx;Configuration;"add resolver 1.1.1.1 valid=30s;";"add resolver 1.1.1.1 valid=30s;"
+CD337;Nginx;Configuration;did not set port to listen;did not set port to listen
+CD338;Nginx;Configuration;set proxy_ssl_server_name on;set proxy_ssl_server_name on
+CD339;PostgreSQL;Configuration;providing a filtering rule to slot.stream.params;providing a filtering rule to slot.stream.params
+CD340;Nginx;Configuration;add the add_header to configuration file;add the add_header to configuration file
+CD341;PHP;Configuration;extension=zip;extension=zip
+CD342;PHP;Configuration;add listen.owner and group;add listen.owner and group
+CD343;PHP;Configuration;set memory_limit max_post_size upload_max_filesize;set memory_limit max_post_size upload_max_filesize
+CD344;PHP;Configuration;html_errors is set to false;html_errors is set to false
+CD345;PHP;Configuration;adding the “extension=php_intl.dll” line in my php.ini configuration file;adding the “extension=php_intl.dll” line in my php.ini configuration file
+CD346;PHP;Configuration;add some configurations to files;add some configurations to files
+CD347;PHP;Configuration; increase your 'maximum execution time'  PHP configuration.; increase your 'maximum execution time'  PHP configuration.
+CD348;Nginx;Configuration;"adding proxy_ssl_server_name on;";"adding proxy_ssl_server_name on;"
+CD349;Apache httpd;Configuration;Apache httpd should always be configured with ProxyRequests Off;Apache httpd should always be configured with ProxyRequests Off
+CD350;MySQL;Configuration;Lower innodb_buffer_pool_size;Lower innodb_buffer_pool_size
+CD351;Nginx;Configuration;did not listen to port 443;did not listen to port 443
+CD352;Nginx;Configuration;add some configurations to files;add some configurations to files
+CD353;Nginx;Configuration;increasing the buffer size proxy_buffer_size;increasing the buffer size proxy_buffer_size
+CB1;Apache httpd;Configuration;Apache fails after configuration of 2 virtual hosts;Apache fails after configuration of 2 virtual hosts
+CB2;Apache httpd;Configuration;No space left on device: Couldn't create accept lock;No space left on device: Couldn't create accept lock
+CB3;PostgreSQL;Configuration;Ruby On Rails Error when running rake db:migrate;Ruby On Rails Error when running rake db:migrate
+CB4;Apache httpd;Configuration;Apache error with suEXEC only;Apache error with suEXEC only
+CB5;Apache httpd;Configuration;Why apache throws 403 on index file after install?;Why apache throws 403 on index file after install?
+CB6;Apache httpd;Configuration;PHP serving blank pages to <1% of users;PHP serving blank pages to <1% of users
+CB7;Apache httpd;Configuration;Completely random 403 errors despite explicit Allow from all;Completely random 403 errors despite explicit Allow from all
+CB8;Apache httpd;Configuration;Access Denied for PHP Files Only;Access Denied for PHP Files Only
+CB9;Apache httpd;Configuration;Apache2 randomly stop working, error 403;Apache2 randomly stop working, error 403
+CB10;Apache httpd;Configuration;Apache 2.4 with PHP 5.5, LDAP in PHP not working;Apache 2.4 with PHP 5.5, LDAP in PHP not working
+CB11;Apache httpd;Configuration;Apache Local virtualhosts not working (502 error);Apache Local virtualhosts not working (502 error)
+CB12;Apache httpd;Configuration;Django on Apache gives 500 error, error log has “client denied by server configuration”;Django on Apache gives 500 error, error log has “client denied by server configuration”
+CB13;Apache httpd;Configuration;apache permission denied on fedora 17 ec2 instance;apache permission denied on fedora 17 ec2 instance
+CB14;Apache httpd;Configuration;https timeout while http works;https timeout while http works
+CB15;Apache httpd;Configuration;Apache error with suEXEC only;Apache error with suEXEC only
+CB16;Apache httpd;Configuration;module perl_module is already loaded, skipping;module perl_module is already loaded, skipping
+CB17;Apache httpd;Configuration;apache error log is filling up with [error] [client 108.62.178.124] client denied by server configuration;apache error log is filling up with [error] [client 108.62.178.124] client denied by server configuration
+CB18;Apache httpd;Configuration;Apache 2.4 - 403 HTTP status code;Apache 2.4 - 403 HTTP status code
+CB19;Apache httpd;Configuration;Apache SSL invalid certificate chain with “https://www”;Apache SSL invalid certificate chain with “https://www”
+CB20;MySQL;Configuration;mysql i cannot login as root after upgrading to 5 5;mysql i cannot login as root after upgrading to 5 5
+CB21;MySQL;Configuration;mysql server doesnt startup;mysql server doesnt startup
+CB22;MySQL;Configuration;i cant start mysql on linux error mysqld safe;i cant start mysql on linux error mysqld safe
+CB23;MySQL;Configuration;attempted to change database drive resulted in cant connect to local mysql ser;attempted to change database drive resulted in cant connect to local mysql ser
+CB24;Nginx;Configuration;"nginx + PHP-FPM = ""permission denied"" error 13 in nginx log; configuration mistake?";"nginx + PHP-FPM = ""permission denied"" error 13 in nginx log; configuration mistake?"
+CB25;Nginx;Configuration;Error 404 when using $limit_rate in nginx;Error 404 when using $limit_rate in nginx
+CB26;Nginx;Configuration;Centos / vsFTPD / Nginx / php-fpm - Permission denied (500 Internal Server Error);Centos / vsFTPD / Nginx / php-fpm - Permission denied (500 Internal Server Error)
+CB27;Nginx;Configuration;Nginx + PHP-FPM on Centos 6.5 gives me 502 Bad Gateway (fpm error: unable to read what child say: Bad file descriptor);Nginx + PHP-FPM on Centos 6.5 gives me 502 Bad Gateway (fpm error: unable to read what child say: Bad file descriptor)
+CB28;Nginx;Configuration;Nginx: 403 Forbidden on some files extensions;Nginx: 403 Forbidden on some files extensions
+CB29;Nginx;Configuration;OS X 10.10 Localhost Environment using nginx, mysql, and php via Homebrew;OS X 10.10 Localhost Environment using nginx, mysql, and php via Homebrew
+CB30;Nginx;Configuration;No write permission for Wordpress under Nginx in CentOS 7;No write permission for Wordpress under Nginx in CentOS 7
+CB31;Nginx;Configuration;*798 upstream timed out (110: Connection timed out) while connecting to upstream, client: 10.100.88.210;*798 upstream timed out (110: Connection timed out) while connecting to upstream, client: 10.100.88.210
+CB32;Nginx;Configuration;Php-fpm corrupts my socket permission on startup;Php-fpm corrupts my socket permission on startup
+CB33;Nginx;Configuration;CentOs 7 Nginx (13: Permission denied) while loading font file from css;CentOs 7 Nginx (13: Permission denied) while loading font file from css
+CB34;Nginx;Configuration;phpMyAdmin on CentOS 7 with NGINX returns blank page;phpMyAdmin on CentOS 7 with NGINX returns blank page
+CB35;Nginx;Configuration;Symfony, CentOS, NGINX, php-fpm cache error;Symfony, CentOS, NGINX, php-fpm cache error
+CB36;Nginx;Configuration;How do I get Nginx to work with subdirectories? [Nginx, Let's Encrypt, basic auth];How do I get Nginx to work with subdirectories? [Nginx, Let's Encrypt, basic auth]
+CB37;Nginx;Configuration;php-fpm couldn't find script until I moved in a specific directory;php-fpm couldn't find script until I moved in a specific directory
+CB38;Nginx;Configuration;Nginx is throwing an 403 Forbidden on Static Files;Nginx is throwing an 403 Forbidden on Static Files
+CB39;Nginx;Configuration;Setup Codiad with Nginx Installation Error;Setup Codiad with Nginx Installation Error
+CB40;Nginx;Configuration;Nginx still try to open default error log file even though I set nginx config file while reloading;Nginx still try to open default error log file even though I set nginx config file while reloading
+CB41;Nginx;Configuration;My HTTPS (SSL/TLS) nginx configuration give me timeout;My HTTPS (SSL/TLS) nginx configuration give me timeout
+CB42;Nginx;Configuration;Nginx 403 forbidden for all files;Nginx 403 forbidden for all files
+CB43;Nginx;Configuration;SEC_ERROR_ADDING_CERT: Error adding certificate to database;SEC_ERROR_ADDING_CERT: Error adding certificate to database
+CB44;Others;Configuration;Installing software on a shared linux godaddy server;Installing software on a shared linux godaddy server
+CB45;Others;Configuration;Zabbix cannot connect to a PostgreSQL database;Zabbix cannot connect to a PostgreSQL database
+CB46;PHP;Configuration;php-fpm Detected unsafe path transition error message. How?;php-fpm Detected unsafe path transition error message. How?
+CB47;PHP;Configuration;Drupal PHP installation does not support MySQL;Drupal PHP installation does not support MySQL
+CB48;PHP;Configuration;Enabling APC causes internal server error;Enabling APC causes internal server error
+CB49;PHP;Configuration;Lighttpd cannot create php-fastcgi.socket;Lighttpd cannot create php-fastcgi.socket
+CB50;PHP;Configuration;DirectAdmin - subdomain's DocumentRoot in other user's directory tree vs running PHP [closed];DirectAdmin - subdomain's DocumentRoot in other user's directory tree vs running PHP [closed]
+CB51;PHP;Configuration;IIS6 + PHP upload;IIS6 + PHP upload
+CB52;PHP;Configuration;Permission denied creating folder after setting parent folder as www-data user;Permission denied creating folder after setting parent folder as www-data user
+CB53;PHP;Configuration;PHP move_uploaded_file fail failed to open stream;PHP move_uploaded_file fail failed to open stream
+CB54;PostgreSQL;Configuration;Errors when attempting to connect to PostgreSQL 9.6 using SSL wildcard server certificate and no client certificates;Errors when attempting to connect to PostgreSQL 9.6 using SSL wildcard server certificate and no client certificates
+CB55;Apache httpd;Configuration;TortoiseSVN repository browser kills the apache process;TortoiseSVN repository browser kills the apache process
+CB56;Apache httpd;Configuration;Error 502 - Random SSL Library Error: 336151568 error:14094410;Error 502 - Random SSL Library Error: 336151568 error:14094410
+CB57;Apache httpd;Configuration;Getting internal server error after updating server config via WHM;Getting internal server error after updating server config via WHM
+CB58;Apache httpd;Configuration;apache httpd is restarting once a day with error AH00428: Parent: child process xxxxx exited with status 3221225477 — Restarting;apache httpd is restarting once a day with error AH00428: Parent: child process xxxxx exited with status 3221225477 — Restarting
+CB59;Apache httpd;Configuration;Memory leak on Apache;Memory leak on Apache
+CB60;Nginx;Configuration;Using nginx + wordpress with all wordpress files in a subdirectory;Using nginx + wordpress with all wordpress files in a subdirectory
+CB61;Apache httpd;Configuration;Apache mod_fastcgi;Apache mod_fastcgi
+CB62;Apache httpd;Configuration;Apache2 virtual host in a VM, trouble accessing from host machine;Apache2 virtual host in a VM, trouble accessing from host machine
+CB63;Apache httpd;Configuration;Wildcard dns, non-existent subdomains point to main website;Wildcard dns, non-existent subdomains point to main website
+CB64;Apache httpd;Configuration;Apache LIMIT directive does not allow to see localhost project over LAN;Apache LIMIT directive does not allow to see localhost project over LAN
+CB65;Apache httpd;Configuration;Increasing FcgidMaxProcesses does not help to solve “mod_fcgid: can't apply process slot” error;Increasing FcgidMaxProcesses does not help to solve “mod_fcgid: can't apply process slot” error
+CB66;Apache httpd;Configuration;Apache on Windows and Fiddler;Apache on Windows and Fiddler
+CB67;Apache httpd;Configuration;Using ProxyPassMatch for FastCGI, results in connection refused on port 9000;Using ProxyPassMatch for FastCGI, results in connection refused on port 9000
+CB68;Apache httpd;Configuration;Apache does not listen to specified port;Apache does not listen to specified port
+CB69;Apache httpd;Configuration;IIS hosted WCF service accessible from one domain but not the other;IIS hosted WCF service accessible from one domain but not the other
+CB70;Apache httpd;Configuration;apache2 mod_proxy in conjuction with mod_rewrite not working as expected;apache2 mod_proxy in conjuction with mod_rewrite not working as expected
+CB71;Apache httpd;Configuration;PHP.ini does not load;PHP.ini does not load
+CB72;Apache httpd;Configuration;Session Cache is not configured… why?;Session Cache is not configured… why?
+CB73;Apache httpd;Configuration;Why am I getting Network error: 403 Forbidden in firebug for files I am not trying to access?;Why am I getting Network error: 403 Forbidden in firebug for files I am not trying to access?
+CB74;Apache httpd;Configuration;Unable to upload to tmp directory;Unable to upload to tmp directory
+CB75;Apache httpd;Configuration;Could be “Directory index forbidden by Options directive” the cause for “Request exceeded the limit of 10 internal redirects”?;Could be “Directory index forbidden by Options directive” the cause for “Request exceeded the limit of 10 internal redirects”?
+CB76;Apache httpd;Configuration;ssl_error_rx_record_too_long and Apache SSL [closed];ssl_error_rx_record_too_long and Apache SSL [closed]
+CB77;Apache httpd;Configuration;xampp apache server not working on internal network;xampp apache server not working on internal network
+CB78;Apache httpd;Configuration;setting up virtualhost on osx 10 7 lion;setting up virtualhost on osx 10 7 lion
+CB79;Apache httpd;Configuration;Apache 2.4 ignores mod_proxy?;Apache 2.4 ignores mod_proxy?
+CB80;Apache httpd;Configuration;ssl_error_handshake_failure_alert with Commercial CA-based client certificate;ssl_error_handshake_failure_alert with Commercial CA-based client certificate
+CB81;Apache httpd;Configuration;apache named virtual hosts and https;apache named virtual hosts and https
+CB82;Apache httpd;Configuration;mindtouch broke my apache2 virtual host configuration;mindtouch broke my apache2 virtual host configuration
+CB83;Apache httpd;Configuration;changing the default apache port doesnt work;changing the default apache port doesnt work
+CB84;Apache httpd;Configuration;ubuntu 12 04 vhost page not found;ubuntu 12 04 vhost page not found
+CB85;Apache httpd;Configuration;Have I messed up buying the wrong SSL certificate for my domain?;Have I messed up buying the wrong SSL certificate for my domain?
+CB86;Apache httpd;Configuration;Apache VirtualHost configuration won't get matched;Apache VirtualHost configuration won't get matched
+CB87;Apache httpd;Configuration;Ubuntu define incorrect virtual host on :81 port;Ubuntu define incorrect virtual host on :81 port
+CB88;Apache httpd;Configuration;ubuntu server mod chroot apache2 problem;ubuntu server mod chroot apache2 problem
+CB89;Apache httpd;Configuration;why isnt excluding a folder in mod rewrite not taken in account;why isnt excluding a folder in mod rewrite not taken in account
+CB90;Apache httpd;Configuration;apache not letting me into a folder;apache not letting me into a folder
+CB91;Apache httpd;Configuration;"keep getting ""Permissions denied"" on apache 2 virtualhost once we moved it to its own conf file";"keep getting ""Permissions denied"" on apache 2 virtualhost once we moved it to its own conf file"
+CB92;Apache httpd;Configuration;Every Apache request returns a AH01797 error;Every Apache request returns a AH01797 error
+CB93;Apache httpd;Configuration;Apache reverse proxy 503 custom page not working;Apache reverse proxy 503 custom page not working
+CB94;Apache httpd;Configuration;What should the DJANGO_SETTINGS_MODULE be set to in Apache when deploying a django app?;What should the DJANGO_SETTINGS_MODULE be set to in Apache when deploying a django app?
+CB95;Apache httpd;Configuration;Can't Get Ruby on Rails + Passenger + Apache to Work;Can't Get Ruby on Rails + Passenger + Apache to Work
+CB96;Apache httpd;Configuration;The requested URL was not found on this server;The requested URL was not found on this server
+CB97;Apache httpd;Configuration;Apache vhost AH01630: client denied by server configuration;Apache vhost AH01630: client denied by server configuration
+CB98;Apache httpd;Configuration;Error using mod_jk in httpd: undefined symbol: ap_get_server_version;Error using mod_jk in httpd: undefined symbol: ap_get_server_version
+CB99;Apache httpd;Configuration;apache2: Could not reliably determine the server's fully qualified domain name;apache2: Could not reliably determine the server's fully qualified domain name
+CB100;Apache httpd;Configuration;Permissions denied on apache rewrite module virtual host configuration;Permissions denied on apache rewrite module virtual host configuration
+CB101;Apache httpd;Configuration;Apache won't reload, and apachectl -S / -t doesn't display anything;Apache won't reload, and apachectl -S / -t doesn't display anything
+CB102;Apache httpd;Configuration;Django “Could not import settings 'settings.py'” error;Django “Could not import settings 'settings.py'” error
+CB103;Apache httpd;Configuration;svn repository was moved permanently;svn repository was moved permanently
+CB104;Hadoop;Configuration;hadoop fs -ls : Call From server/127.0.1.1 to localhost failed;hadoop fs -ls : Call From server/127.0.1.1 to localhost failed
+CB105;Hadoop;Configuration;Apache Oozie failed loading ShareLib;Apache Oozie failed loading ShareLib
+CB106;Hadoop;Configuration;Spark Job running on Yarn Cluster java.io.FileNotFoundException: File does not exits, eventhough the file exits on the master node;Spark Job running on Yarn Cluster java.io.FileNotFoundException: File does not exits, eventhough the file exits on the master node
+CB107;Hadoop;Configuration;SparkR Error: The root scratch dir: /tmp/hive on HDFS should be writable;SparkR Error: The root scratch dir: /tmp/hive on HDFS should be writable
+CB108;Hadoop;Configuration;Streamsets Mapr FS origin/dest. KerberosPrincipal exception (using hadoop impersonation (in mapr 6.0));Streamsets Mapr FS origin/dest. KerberosPrincipal exception (using hadoop impersonation (in mapr 6.0))
+CB109;Hadoop;Configuration;Error on starting HDFS daemons on hadoop Multinode cluster;Error on starting HDFS daemons on hadoop Multinode cluster
+CB110;Others;Configuration;Why does Jenkins complain that my reverse proxy setup is broken?;Why does Jenkins complain that my reverse proxy setup is broken?
+CB111;Others;Configuration;Tomcat7 + Maven plugin: Tomcat will not start with my war;Tomcat7 + Maven plugin: Tomcat will not start with my war
+CB112;Others;Configuration;log4j xml configuration error;log4j xml configuration error
+CB113;Others;Configuration;What should I set JAVA_HOME environment variable on macOS X 10.6?;What should I set JAVA_HOME environment variable on macOS X 10.6?
+CB114;MySQL;Configuration;problems configuring mysql on ubuntu for remote access;problems configuring mysql on ubuntu for remote access
+CB115;MySQL;Configuration;how to access remotly to a mysql server;how to access remotly to a mysql server
+CB116;MySQL;Configuration;mysqld job failed to start;mysqld job failed to start
+CB117;MySQL;Configuration;django cant connect to local mysql server through socket;django cant connect to local mysql server through socket
+CB118;MySQL;Configuration;Two MySQL servers;Two MySQL servers
+CB119;MySQL;Configuration;cant connect to local mysql server through socket;cant connect to local mysql server through socket
+CB120;MySQL;Configuration;mysql command line not working;mysql command line not working
+CB121;MySQL;Configuration;how to make mysql to find old databases on hdd;how to make mysql to find old databases on hdd
+CB122;MySQL;Configuration;cant start mysqld on centos5 after attempting to upgrade to php 5 3;cant start mysqld on centos5 after attempting to upgrade to php 5 3
+CB123;MySQL;Configuration;error running mysql daemon;error running mysql daemon
+CB124;MySQL;Configuration;cant start mysql 5 6 server after computer is restarted;cant start mysql 5 6 server after computer is restarted
+CB125;MySQL;Configuration;after installing mysql 5 6 the server cant start;after installing mysql 5 6 the server cant start
+CB126;MySQL;Configuration;mariadb galera clustering active active operation not permitted error;mariadb galera clustering active active operation not permitted error
+CB127;MySQL;Configuration;mysql not working;mysql not working
+CB128;MySQL;Configuration;mysql bind on unix socket permission denied;mysql bind on unix socket permission denied
+CB129;Nginx;Configuration;Nginx Configuration throws 500 Internal Server Error;Nginx Configuration throws 500 Internal Server Error
+CB130;Nginx;Configuration;Cannot hit nginx from outside localhost;Cannot hit nginx from outside localhost
+CB131;Nginx;Configuration;nginx php-fpm: Permission denied while connecting to upstream;nginx php-fpm: Permission denied while connecting to upstream
+CB132;Nginx;Configuration;Nginx not working properly on subdomains;Nginx not working properly on subdomains
+CB133;Nginx;Configuration;nginx can't load images,css,js;nginx can't load images,css,js
+CB134;Nginx;Configuration;php pages in a nginx + php-fpm server doesn't load;php pages in a nginx + php-fpm server doesn't load
+CB135;Nginx;Configuration;svn using nginx Commit failed: path not found;svn using nginx Commit failed: path not found
+CB136;Nginx;Configuration;passenger(mod_rails) fails to start puppet master under nginx;passenger(mod_rails) fails to start puppet master under nginx
+CB137;Nginx;Configuration;A complicated nginx/php-fpm chroot setup;A complicated nginx/php-fpm chroot setup
+CB138;Nginx;Configuration;Why do I get a 404 for my index.page in my http/https nginx setup?;Why do I get a 404 for my index.page in my http/https nginx setup?
+CB139;Nginx;Configuration;alias directive with nested location to catch php files - requests for php files giving 404;alias directive with nested location to catch php files - requests for php files giving 404
+CB140;Nginx;Configuration;Using fastcgi_split_path_info for a userdir in nginx;Using fastcgi_split_path_info for a userdir in nginx
+CB141;Nginx;Configuration;bizarre 404 on nginx;bizarre 404 on nginx
+CB142;Nginx;Configuration;502 bad gateway because of Undefined Index?;502 bad gateway because of Undefined Index?
+CB143;Nginx;Configuration;Specify directory location for sub domain in nginx for cacti;Specify directory location for sub domain in nginx for cacti
+CB144;Nginx;Configuration;Nginx 1.8 Configuration Problems;Nginx 1.8 Configuration Problems
+CB145;Others;Configuration;PostFix Config and PHP;PostFix Config and PHP
+CB146;PHP;Configuration;Access denied for user 'homestead'@'localhost' (using password: YES)Access denied for user 'homestead'@'localhost' (using password: YES);Access denied for user 'homestead'@'localhost' (using password: YES)Access denied for user 'homestead'@'localhost' (using password: YES)
+CB147;PHP;Configuration;nginx, php-fpm on diff server bad gateway (and security too);nginx, php-fpm on diff server bad gateway (and security too)
+CB148;PHP;Configuration;Getting multiple pools working using PHP-FPM and Apache 2.4;Getting multiple pools working using PHP-FPM and Apache 2.4
+CB149;PHP;Configuration;phpMyAdmin File Could Not Be Read;phpMyAdmin File Could Not Be Read
+CB150;PHP;Configuration;PHP FPM gives permission denied?;PHP FPM gives permission denied?
+CB151;PHP;Configuration;PHP 5.6 Broken after trying to upgrade to PHP 7;PHP 5.6 Broken after trying to upgrade to PHP 7
+CB152;PHP;Configuration;How to fix phpMyAdmin with PHP 7.2 on RHEL7?;How to fix phpMyAdmin with PHP 7.2 on RHEL7?
+CB153;PostgreSQL;Configuration;PostgreSQL Connection Timed Out OperationalError on Django and new server;PostgreSQL Connection Timed Out OperationalError on Django and new server
+CB154;PostgreSQL;Configuration;Remote connection issues with psycopg2 and postgresql;Remote connection issues with psycopg2 and postgresql
+CB155;PostgreSQL;Configuration;An error with psycopg2 while trying to connect to a remote host server;An error with psycopg2 while trying to connect to a remote host server
+CB156;PostgreSQL;Configuration;Change and initialize Postgresql 9.3 default data and log directories on Ubuntu 12.04 LTS;Change and initialize Postgresql 9.3 default data and log directories on Ubuntu 12.04 LTS
+CB157;PostgreSQL;Configuration;Can't connect to postgres via PSQL or php, only pgAdmin4;Can't connect to postgres via PSQL or php, only pgAdmin4
+CB158;PostgreSQL;Configuration;Failed to connect to the database (Postgres) by Jmeter;Failed to connect to the database (Postgres) by Jmeter
+CB159;PostgreSQL;Configuration;Deepdive installation, PostgreSQL error;Deepdive installation, PostgreSQL error
+CB160;PostgreSQL;Configuration;Odoo Database Export Error;Odoo Database Export Error
+CB161;PostgreSQL;Configuration;pgAdmin III: Access to database denied;pgAdmin III: Access to database denied
+CB162;PostgreSQL;Configuration;How to connect to PostgreSQL from Phoenix Web App via SSL?;How to connect to PostgreSQL from Phoenix Web App via SSL?
+CB163;Hadoop;Configuration;MapReduce doesn't produce an output;MapReduce doesn't produce an output
+CB164;Nginx;Configuration;Nginx configuration errors;Nginx configuration errors
+CB165;MySQL;Configuration;Mysql --log-slow-queries;Mysql --log-slow-queries
+CB166;Apache httpd;Configuration;Client denied by server configuration: /home/remix/;Client denied by server configuration: /home/remix/
+CB167;Apache httpd;Configuration;PHP running from Apache cannot write to filesystem;PHP running from Apache cannot write to filesystem
+CB168;MySQL;Configuration;MySQL and Multi-Core processors;MySQL and Multi-Core processors
+CB169;PostgreSQL;Configuration;Vagrant - How to access guests postgres server from host;Vagrant - How to access guests postgres server from host
+CB170;MySQL;Configuration;MySQl Configuration Error After reinstall it;MySQl Configuration Error After reinstall it
+CB171;Apache httpd;Configuration;Apache does not listen to specified port;Apache does not listen to specified port
+CB172;Others;Configuration;How to set the PATH environment variable in Jenkins configuration on Windows?;How to set the PATH environment variable in Jenkins configuration on Windows?
+CB173;MySQL;Configuration;connect mysql instance using auth proxy（should set private ip）;connect mysql instance using auth proxy (should set private ip) 
+CB174;MySQL;Configuration;bind-address in the configuration file, if it set to it will allow only localhost login.127.0.0.1 （wrong ip）;bind-address in the configuration file, if it set to it will allow only localhost login.127.0.0.1 （wrong ip）
+CB175;PostgreSQL;Configuration;refer to host's localhost via .host.docker.internal;refer to host's localhost via .host.docker.internal
+CB176;MySQL;Configuration;port was occupied;port was occupied
+CB177;MySQL;Configuration;enabling SSL/TLS on server;enabling SSL/TLS on server
+CB178;MySQL;Configuration;have to give it privileges to connect to that database;have to give it privileges to connect to that database
+CB179;MySQL;Configuration;wrong URL;wrong URL
+CB180;MySQL;Configuration;"Integrated Security=true;";"Integrated Security=true;"
+CB181;Nginx;Configuration;a listener for example.net;a listener for example.net
+CB182;Nginx;Configuration;add server_name on the listen 80 of both blocks  conflict server name;add server_name on the listen 80 of both blocks  conflict server name
+CB183;Nginx;Configuration;wrong path;wrong path
+CB184;Others;Configuration;change home path, version of apache 2.2;change home path, version of apache 2.2
+CB185;PHP;Configuration; PHP settings for mysqli have the same settings with unix, upgrade from 10.5 to 10.6; PHP settings for mysqli have the same settings with unix, upgrade from 10.5 to 10.6
+CB186;PHP;Configuration;internal container communication with another port;internal container communication with another port
+CB187;Nginx;Configuration;wrong path;wrong path
+CB188;Nginx;Configuration; typo in the URL; typo in the URL
+CB189;Nginx;Configuration;wrong URL;wrong URL
+CB190;Nginx;Configuration;server_name should not have ports;server_name should not have ports
+CB191;Nginx;Configuration; listening on 443 is forwarding the request back to 80 using proxy_pass; listening on 443 is forwarding the request back to 80 using proxy_pass
+CB192;Nginx;Configuration;Your Ingress points at port 8080 but Service exposes port 80;Your Ingress points at port 8080 but Service exposes port 80
+CB193;Nginx;Configuration;wrong URL（https？）;wrong URL (https? ) 
+CB194;Nginx;Configuration;wrong path;wrong path
+CB195;Nginx;Configuration;server_name directives to include the private ip address;server_name directives to include the private ip address
+CB196;Nginx;Configuration; whitelist the API server IP address on the database firewall configuration; whitelist the API server IP address on the database firewall configuration
+CB197;PostgreSQL;Configuration;same port;same port
+CB198;Others;Configuration;wrong url;wrong url
+CB199;Others;Configuration;wrong port;wrong port
+CB200;Hadoop;Configuration;wrong port;wrong port
+CB201;Hadoop;Configuration;wrong path;wrong path
+CB202;Nginx;Configuration;wrong url;wrong url
+CB203;Nginx;Configuration;another config file that had port 80 listening on ssl;another config file that had port 80 listening on ssl
+CB204;Nginx;Configuration;contain the domain name of your service, not IP address.;contain the domain name of your service, not IP address.
+CB205;Nginx;Configuration;Nginx and Apache HTTPD servers by default listen on the standard HTTP port 80;Nginx and Apache HTTPD servers by default listen on the standard HTTP port 80
+CB206;Hadoop;Configuration;the account of windows current user name having a space;the account of windows current user name having a space
+CB207;Others;Configuration;wrong container name;wrong container name
+CB208;MySQL;Configuration;one port shared by two software;one port shared by two software
+CB209;MySQL;Configuration;wrong port;wrong port
+CB210;PHP;Configuration;memory limit;memory limit
+CB211;MySQL;Configuration;wrong port;wrong port
+CB212;Nginx;Configuration;wrong identifier name;wrong identifier name
+CB213;Nginx;Configuration;redundant trailing slash for 502;redundant trailing slash for 502
+CB214;Nginx;Configuration;https and http should listen to different port;https and http should listen to different port
+CB215;Nginx;Configuration;proxy_pass do not point correct container;proxy_pass do not point correct container
+CB216;Nginx;Configuration;the host name do not exist;the host name do not exist
+CB217;Nginx;Configuration;two containers, both are listening to port 8080 internally;two containers, both are listening to port 8080 internally
+CB218;Others;Configuration;cache configuration in the application itself;cache configuration in the application itself
+CB219;Nginx;Configuration;wrong path;wrong path
+CB220;Nginx;Configuration;wrong path;wrong path
+CB221;Nginx;Configuration;wrong path;wrong path
+CB222;Nginx;Configuration;environment variable PUBLIC_URL was not defined to / ;environment variable PUBLIC_URL was not defined to / 
+CB223;Nginx;Configuration;https and http should listen to different port;https and http should listen to different port
+CB224;Nginx;Configuration;wrong port;wrong port
+CB225;Nginx;Configuration;https and http should listen to different port;https and http should listen to different port
+CB226;Nginx;Configuration;wrong user name;wrong user name
+CB227;Nginx;Configuration;with a trailing slash) in proxy_pass;with a trailing slash) in proxy_pass
+CB228;Nginx;Configuration;IP not localhost name;IP not localhost name
+CB229;PostgreSQL;Configuration;path incomplete;path incomplete
+CB230;PHP;Configuration;wrong path;wrong path
+CB231;PHP;Configuration;wrong path;wrong path
+CB232;Apache httpd;Configuration;missing the leading /;missing the leading /
+CB233;Nginx;Configuration;wrong IP;wrong IP
+CB234;Nginx;Configuration;listen 2 port for nginx;listen 2 port for nginx
+CB235;Nginx;Configuration;set the wrong port;set the wrong port
+CB236;PostgreSQL;Configuration;set the wrong port;set the wrong port
+CB237;PostgreSQL;Configuration;set the wrong port;set the wrong port
+CB238;MySQL;Configuration;"intermittent MySQL crashes with error ""Fatal error: cannot allocate memory for the buffer pool""";"intermittent MySQL crashes with error ""Fatal error: cannot allocate memory for the buffer pool"""
+CB239;Apache httpd;Configuration;Apache reverse proxy not working and generates a 404 error;Apache reverse proxy not working and generates a 404 error
+CB240;Hadoop;Configuration;wrong configuration file format;wrong configuration file format
