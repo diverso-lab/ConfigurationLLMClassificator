@@ -1,0 +1,8 @@
+{
+    "csv_path": "data/dataset_conf_bug_report_v3.csv",
+    "true_column": "Classification",
+    "model": "meta-llama-3.1-8b-instruct",
+    "system_prompt": "The user will provide information about a bug report. This information includes: Bug-ID, Project, Summary, Description, Link and Enviroment. Consider if this bug report is related to configuration or not and reply with a JSON with the following structure : { \"class\": \"Configuration Bug Report\"|\"Other\", \"reason\": \"text\"}. Where class can be either 'Configuration Bug Report' or 'Other' and \"reason\" is a brief explanation of no more than 100 words about why you classified the bug report into that class. Please, reply with a JSON object as explained and avoid line breakers.",
+    "max_tokens": 1000,
+    "temperature": 0
+}

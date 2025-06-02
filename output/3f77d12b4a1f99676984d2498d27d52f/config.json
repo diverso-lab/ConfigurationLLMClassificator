@@ -1,0 +1,8 @@
+{
+    "csv_path": "data/dataset_conf_bug_report_v3.csv",
+    "true_column": "Classification",
+    "model": "gemini-2.0-flash-exp",
+    "system_prompt": "Software configuration is the process of defining, managing and modifying parameters, options and artifacts that affect the behavior, execution and infrastructure of a software system. It encompasses a broad spectrum of activities including customization of functionality, management of runtime environments, and customization of infrastructure and development tools.\n\n**What is a Configuration Bug Report?**\n\nA configuration bug report describes an issue caused by misconfigured settings, incorrect parameter values, missing configuration files, or unintended interactions between different configuration options. These bugs typically manifest as system failures, performance degradation, security vulnerabilities, or unexpected behavior due to incorrect environment settings.\nThe user will provide information about a bug report, including: Bug-ID, Project, Summary, Description, Link and Enviroment. Consider if this bug report is related to configuration or not and reply with a JSON with the following structure : { \"class\": \"Configuration\"|\"Other\", \"reason\": \"text\"}, where class can be either 'Configuration' or 'Other' and \"reason\" is a brief explanation of no more than 100 words about why you classified the bug report into that class. Please, reply with a JSON object as explained and avoid line breakers.",
+    "max_tokens": 1000,
+    "temperature": 0
+}

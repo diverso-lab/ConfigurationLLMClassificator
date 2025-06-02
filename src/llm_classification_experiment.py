@@ -22,22 +22,25 @@ def llm_classification_experiment(csv_path, client, user_prompt_factory,output_d
             start_index = data[data['llm_pred'].isna()].index[0]
         print(start_index)
     else:
-        data = pd.read_csv(csv_path, sep=";")
+        data = pd.read_csv(csv_path, sep=",")
         data['llm_pred'] = None
         start_index = 0
 
     # For each instance in the CSV
-    if start_index != data.__len__:
-        progress_bar = tqdm(data.iterrows(), total=len(data), initial=start_index)
-        for index, row in progress_bar:
+    if start_index != len(data):
+        progress_bar = tqdm(range(start_index, len(data)), total=len(data), initial=start_index)
+        for index in progress_bar:
+            row = data.iloc[index]
             if pd.isna(row['llm_pred']):
                 user_prompt = user_prompt_factory(row)
                 # response would be used for logging, not used right now
                 response_text, response = client.generate(user_prompt, progress_bar=progress_bar)
                 
                 # We add the predicted class to the instance
-                data.at[index, 'llm_pred'] = utils.clean_predictions(data[true_column], response_text)
-
+                # data.at[index, 'llm_pred'] = utils.clean_predictions(data[true_column], response_text)
+                response_json = json.loads(response_text)
+                data.at[index, 'llm_pred'] = response_json.get("class", response_json)
+                data.at[index, 'Explanation'] = response_json.get("reason", "")
                 # Save the partial results after each API call
                 utils.save_experiment_results(output_dir, config, data)
 
@@ -66,9 +69,20 @@ if __name__ == "__main__":
         config_hash = utils.compute_hash(investigator_config)
         output_dir = os.path.join("output", config_hash)
 
-        if os.path.exists(output_dir) and os.path.exists(os.path.join(output_dir, "report.csv")):
+        print(output_dir)
+        if os.path.exists(output_dir) and os.path.exists(os.path.join(output_dir, "report.json")):
             print("Loading existing results...")
             config, data, report = utils.load_experiment_results(output_dir)
+            # Load metrics from the metrics.json file
+            metrics_path = os.path.join(output_dir, "metrics.json")
+            if os.path.exists(metrics_path):
+                with open(metrics_path, "r") as metrics_file:
+                    metrics = json.load(metrics_file)
+                print("Loaded Metrics:")
+                for key, value in metrics.items():
+                    print(f"{key}: {value}")
+            else:
+                print("Metrics file not found.")
 
         else:
             print(f"Running experiment for investigator: {args.investigator}")
@@ -77,6 +91,27 @@ if __name__ == "__main__":
             evaluator = edit_distance_evaluator.evaluate
             data, report = llm_classification_experiment(investigator_config["csv_path"], client, user_prompt_factory.get, output_dir, evaluator, investigator_config, true_column=investigator_config["true_column"])
 
+        # Calculate 'Proporción Clase Configuration' and 'Error Proporción'
+            total_instances = len(data)
+            configuration_count = data["llm_pred"].value_counts().get("Configuration", 0)
+            true_configuration_count = data["Classification"].value_counts().get("Configuration", 0)
+
+            proportion_configuration = configuration_count / total_instances
+            true_proportion_configuration = true_configuration_count / total_instances
+            error_proportion = abs(proportion_configuration - true_proportion_configuration)
+
+            print(f"Proporción Clase Configuration (predicted): {proportion_configuration:.6f}")
+            print(f"Proporción Clase Configuration (true): {true_proportion_configuration:.6f}")
+            print(f"Error en la Proporción: {error_proportion:.6f}")
+            # Save the proportion and error to a separate JSON file
+            metrics = {
+                "Proporción Clase Configuration (predicted)": proportion_configuration,
+                "Proporción Clase Configuration (true)": true_proportion_configuration,
+                "Error en la Proporción": error_proportion
+            }
+            metrics_path = os.path.join(output_dir, "metrics.json")
+            with open(metrics_path, "w") as metrics_file:
+                json.dump(metrics, metrics_file, indent=4)
             utils.save_experiment_results(output_dir, investigator_config, data, report)
 
         print("Results:")
@@ -96,11 +131,9 @@ if __name__ == "__main__":
         for model_config in models_config:
             config_hash = utils.compute_hash(model_config)
             output_dir = os.path.join("output", config_hash)
-
-            if os.path.exists(output_dir) and os.path.exists(os.path.join(output_dir, "report.csv")):
+            if os.path.exists(output_dir) and os.path.exists(os.path.join(output_dir, "report.json")):
                 print("Loading existing results...")
                 config, data, report = utils.load_experiment_results(output_dir)
-
             else:
                 print(f"Running experiment for model: {model_config['model']}")
 
