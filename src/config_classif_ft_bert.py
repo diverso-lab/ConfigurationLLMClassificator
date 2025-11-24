@@ -7,6 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import f1_score, classification_report
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments
 import torch
+from tqdm.auto import tqdm
 
 def fine_tune_bert(csv_file, title_col="Title", desc_col="Description", class_col="Classification", delim = ",", model_name="answerdotai/ModernBERT-large", batch=8, max_tokens=8192):
     # Load the CSV file
@@ -84,8 +85,8 @@ def fine_tune_bert(csv_file, title_col="Title", desc_col="Description", class_co
         eval_strategy="epoch",
         save_strategy="epoch",
         load_best_model_at_end=True,
-        bf16=True,
-        bf16_full_eval=True,
+        bf16=False,
+        bf16_full_eval=False,
         push_to_hub=False,
     )
 
@@ -140,9 +141,90 @@ def fine_tune_bert(csv_file, title_col="Title", desc_col="Description", class_co
     eval_df = pd.DataFrame(eval_results)
     print(eval_df)
 
+    # Guardar el mejor modelo después del entrenamiento
+def predict_with_model(model_dir, csv_file, title_col="Title", desc_col="Description", delim=",",
+                           batch=32, max_tokens=8192, label_map=None, output_csv=None, base_model_name="answerdotai/ModernBERT-base"):
+        """
+        Carga un modelo guardado (model_dir) y hace predicciones sobre csv_file.
+        label_map: optional dict mapping label_idx -> label_name (e.g., {0: 'Other', 1: 'Configuration'})
+        Devuelve un DataFrame con columnas pred_label, prob_0, prob_1 y pred_label_name (si label_map provisto).
+        """
+        import torch.nn.functional as F
+
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+        # Cargar datos
+        df = pd.read_csv(csv_file, delimiter=delim)
+        df[title_col] = df[title_col].fillna("")
+        df[desc_col] = df[desc_col].fillna("")
+        df['text'] = "SUMMARY: " + df[title_col] + "\n\n DESCRIPTION:" + df[desc_col]
+        texts = df['text'].tolist()
+
+        # Cargar tokenizer y modelo guardado
+        tokenizer = AutoTokenizer.from_pretrained(base_model_name)
+        model = AutoModelForSequenceClassification.from_pretrained(model_dir)
+        model.to(device)
+        model.eval()
+
+        all_preds = []
+        all_probs = []
+
+        num_texts = len(texts)
+        indices = range(0, num_texts, batch)
+
+        for i in tqdm(indices, desc="Generando predicciones", unit="batch"):
+            batch_texts = texts[i:i+batch]
+            enc = tokenizer(
+                batch_texts,
+                truncation=True,
+                padding=True,
+                max_length=max_tokens,
+                return_tensors="pt"
+            )
+            enc = {k: v.to(device) for k, v in enc.items()}
+
+            with torch.no_grad():
+                out = model(**enc)
+                logits = out.logits
+                probs = F.softmax(logits, dim=-1).cpu()
+                preds = probs.argmax(dim=-1).cpu().numpy()
+
+            all_preds.extend(preds.tolist())
+            all_probs.extend(probs.numpy().tolist())
+
+
+        # Añadir resultados al DataFrame
+        df['pred_label'] = all_preds
+        # Asume problema binario (2 clases); si hay más, ajustar columnas de prob.
+        if len(all_probs) > 0 and len(all_probs[0]) >= 1:
+            for idx in range(len(all_probs[0])):
+                df[f'prob_{idx}'] = [p[idx] for p in all_probs]
+
+        if label_map is not None:
+            inv_map = {int(k): v for k, v in label_map.items()}
+            df['pred_label_name'] = df['pred_label'].map(inv_map)
+
+        if output_csv:
+            df_out = df.drop(columns=['text'])
+            df.to_csv(output_csv, index=False)
+
+        print("Predicciones completadas. Proporción de clase 1 predicha:",
+            (df['pred_label'] == 1).mean() if 'pred_label' in df else None)
+
+        return df
+
+
+df_preds = predict_with_model("ft_bert_checkpoints/checkpoint-6810", "data/TID.csv",
+                                 title_col="Summary", desc_col="Description", delim=";",
+                                 batch=2, max_tokens=8192,
+                                 label_map={0: "Other", 1: "Configuration"},
+                                 output_csv="output/predsTID.csv")
+
 
 #fine_tune_bert('data/uvl_bug_reports.csv', model_name="answerdotai/ModernBERT-base", batch=2, max_tokens=8192)
 
 #fine_tune_bert('data/dataset_conf_bug_report_v3.csv', title_col="Summary", delim=";", batch=2, max_tokens = 4096, model_name="answerdotai/ModernBERT-base")
 
-fine_tune_bert('data/NABATS_sampled_dataset.csv', title_col="Summary", delim=";", batch=2, max_tokens = 4096, model_name="answerdotai/ModernBERT-base")
+#fine_tune_bert('data/misconfiguration_datasets.csv', title_col="Summary", delim=";", batch=2, max_tokens = 4096, model_name="answerdotai/ModernBERT-base")
+
+#fine_tune_bert('data/grouped_dataset.csv', title_col="Summary", delim=";", batch=2, max_tokens = 4096, model_name="answerdotai/ModernBERT-base")
